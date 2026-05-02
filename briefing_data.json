@@ -1,0 +1,365 @@
+{
+  "date": "2026-05-02",
+  "categories": {
+    "A": {
+      "name": "은퇴·재무 설계",
+      "tag": "💰재무인사이트",
+      "top": [
+        {
+          "title": "국민연금 많이 받으면 망하는 이유 (건보료 폭탄)",
+          "channel": "100세연구소",
+          "viewCount": 1244772,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=LQQL1MWS2xY",
+          "summary": "정정합니다. 개인연금(사적연금)은 건강보험 피부양자 탈락 기준 소득에 포함되지 않습니다. * 국민연금, 무작정 많이 받는 게 정답이 ..."
+        },
+        {
+          "title": "국민연금 30년 채우면 얼마나 받을까요? l 부부 합산 월 300만 원 시대",
+          "channel": "바른바램",
+          "viewCount": 286591,
+          "publishedAt": "2026-04-27",
+          "url": "https://www.youtube.com/watch?v=b9oLka2mCmg",
+          "summary": "국민연금 30년, 꽉 채우면 진짜 얼마나 받을까요? \"국민연금이 뭔 소용이야\"라고 생각하기 전에 30년 완주의 수령액을 먼저 확인해 ..."
+        },
+        {
+          "title": "은퇴 후 부자라고? 축구·농구 스타 자산 TOP 10",
+          "channel": "손자tv",
+          "viewCount": 264806,
+          "publishedAt": "2026-04-27",
+          "url": "https://www.youtube.com/watch?v=j8ztY5F_GyI",
+          "summary": "shorts #기초연금 #국민연금 #손자tv 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. 은퇴 ..."
+        },
+        {
+          "title": "기초연금 갑자기 끊겼나요?이거 꼭 확인하세요 #기초연금 #국민연금 #노후준비",
+          "channel": "바바라핵팁",
+          "viewCount": 205735,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=K3tg9HB1zPY",
+          "summary": "평소 잘 나오던 기초연금이 갑자기 중단되거나, 이미 받은 연금을 돌려내라는 고지서를 받으셨나요? 국세청은 우리가 미처 생각하지 ..."
+        },
+        {
+          "title": "연금저축에서 국내주식ETF사면 세금 더 내는 현실  #노후준비 #은퇴준비 #인생조언 #인생조언 #자산관리 #절세꿀팁",
+          "channel": "100세연구소",
+          "viewCount": 186132,
+          "publishedAt": "2026-04-28",
+          "url": "https://www.youtube.com/watch?v=kcXCdkDu7yA",
+          "summary": "연금저축으로 절세 혜택을 톡톡히 보고 계신가요? 하지만 '국내 주식형 ETF'를 담고 있다면 오히려 독이 될 수 있습니다! 일반 계좌 ..."
+        }
+      ],
+      "pattern": {
+        "avgs": {
+          "숫자형": {
+            "count": 17,
+            "avg": 92730
+          },
+          "질문형": {
+            "count": 11,
+            "avg": 112777
+          },
+          "비교형": {
+            "count": 0,
+            "avg": 0
+          },
+          "공포긴박형": {
+            "count": 2,
+            "avg": 97801
+          },
+          "경험담형": {
+            "count": 1,
+            "avg": 13212
+          }
+        },
+        "winner": "질문형",
+        "winner_avg": 112777
+      }
+    },
+    "B": {
+      "name": "건강·헬스",
+      "tag": "💪헬스루틴",
+      "top": [
+        {
+          "title": "50대 탄탄한 엉덩이근육 만들어주는 5분 운동🔥 #50대운동 #엉덩이근육 #하체운동 ##건강한중년 #shorts",
+          "channel": "헬스마미 ",
+          "viewCount": 39478,
+          "publishedAt": "2026-04-25",
+          "url": "https://www.youtube.com/watch?v=-FCsG47fo2g",
+          "summary": "50대 탄탄한 엉덩이근육 만들어주는 5분 운동🔥 #50대운동 #엉덩이근육 #하체운동 ##건강한중년 #shorts"
+        },
+        {
+          "title": "50대 하체를 강화시키고 혈액순환과 무릎 건강을 개선하는 운동 2가지🔥 #50대운동 #하체운동 #무릎통증 #허벅지운동 #건강한중년 #shorts",
+          "channel": "헬스마미 ",
+          "viewCount": 35678,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=xxS8UgxBmrE",
+          "summary": "50대 하체를 강화시키고 혈액순환과 무릎 건강을 개선하는 운동 2가지🔥 #50대운동 #하체운동 #무릎통증 #허벅지운동 #건강한중년 #shorts"
+        },
+        {
+          "title": "50대 하체운동 허벅지와 엉덩이 자극 제대로 느끼고 싶다면 따라해보세요🔥 #50대운동 #집에서운동 #홈트 #하체운동 #개구리스쿼트 #건강한중년 #shorts",
+          "channel": "헬스마미 ",
+          "viewCount": 26139,
+          "publishedAt": "2026-04-28",
+          "url": "https://www.youtube.com/watch?v=qQWH3lexi3A",
+          "summary": "50대 하체운동 허벅지와 엉덩이 자극 제대로 느끼고 싶다면 따라해보세요🔥 #50대운동 #집에서운동 #홈트 #하체운동 #개구리스쿼트 #건강한중년 #shorts"
+        },
+        {
+          "title": "50대면 무조건 ‘뛰어야’ 합니다｜걷기만 하면 몸이 먼저 망가집니다",
+          "channel": "땡큐손머치 스튜디오",
+          "viewCount": 23275,
+          "publishedAt": "2026-05-02",
+          "url": "https://www.youtube.com/watch?v=HQ-tCGoAii0",
+          "summary": "50대 이후엔 '걷기'만으로는 절대 체력이 올라가지 않습니다. 숨이 차야 근육이 깨어나고, 뇌와 혈관도 다시 살아납니다. 무릎이 걱정돼 ..."
+        },
+        {
+          "title": "50대 무릎 안아픈 스쿼트 이렇게 해보세요🔥 #50대운동 #스쿼트 #무릎통증 #중년건강 #shorts",
+          "channel": "헬스마미 ",
+          "viewCount": 20827,
+          "publishedAt": "2026-04-29",
+          "url": "https://www.youtube.com/watch?v=0MI3XSH2Ky0",
+          "summary": "50대 무릎 안아픈 스쿼트 이렇게 해보세요🔥 #50대운동 #스쿼트 #무릎통증 #중년건강 #shorts"
+        }
+      ],
+      "pattern": {
+        "avgs": {
+          "숫자형": {
+            "count": 24,
+            "avg": 8153
+          },
+          "질문형": {
+            "count": 2,
+            "avg": 1390
+          },
+          "비교형": {
+            "count": 0,
+            "avg": 0
+          },
+          "공포긴박형": {
+            "count": 0,
+            "avg": 0
+          },
+          "경험담형": {
+            "count": 2,
+            "avg": 1393
+          }
+        },
+        "winner": "숫자형",
+        "winner_avg": 8153
+      }
+    },
+    "C": {
+      "name": "신앙·성경 연구",
+      "tag": "📖신앙성장",
+      "top": [
+        {
+          "title": "[생명의 삶 큐티]불순종에 대한 뼈아픈 참회|시편 106:1~12| 윤길중 목사 | 260428QT",
+          "channel": "CGN 생명의 삶",
+          "viewCount": 24562,
+          "publishedAt": "2026-04-27",
+          "url": "https://www.youtube.com/watch?v=VULE4wXvPsg",
+          "summary": "하루의 시작을 QT와 함께! [ CGN 생명의 삶 ] 과 함께 시작하세요 :-) ================================== [ 2026년 4월…"
+        },
+        {
+          "title": "[큐티노트] 2026-04-27 (월)｜에스라 6:16-22｜즐겁게 하시는 하나님｜김양재 목사",
+          "channel": "큐티엠",
+          "viewCount": 22718,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=dKOHWTNXUa8",
+          "summary": "즐겁게 하시는 하나님｜에스라 6:16-22 16 이스라엘 자손과 제사장들과 레위 사람들과 기타 사로잡혔던 자의 자손이 즐거이 하나님의 ..."
+        },
+        {
+          "title": "하박국 2장 | 더딜지라도 반드시 응답된다 #하박국 #성경묵상 #필사묵상 #성경필사 #기독교쇼츠 #말씀묵상 #새벽기도 #큐티 #기도응답 #기도 #믿음 #크리스천 #오직믿음으로",
+          "channel": "little j lee",
+          "viewCount": 22089,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=Oh0smoi_BQs",
+          "summary": "하박국 2장은 하나님의 응답을 기다리는 믿음을 보여 줍니다. 비록 더딜지라도 하나님은 정한 때에 반드시 이루시며, 의인은 믿음으로 ..."
+        },
+        {
+          "title": "예수님의 이름으로 기도하는 이유 | 요한복음 10장 #성경 #말씀 #묵상 #큐티 #기독교 #예수님",
+          "channel": "우리가교회 wooriga church",
+          "viewCount": 14252,
+          "publishedAt": "2026-04-27",
+          "url": "https://www.youtube.com/watch?v=HKEmRboacgQ",
+          "summary": "예수님의 이름으로 기도하는 이유 | 요한복음 10장 #성경 #말씀 #묵상 #큐티 #기독교 #예수님"
+        },
+        {
+          "title": "내가 아버지 안에 거하고 아버지는 내 안에 계신 것을 네가 믿지 아니하느냐 아버지께서 내 안에 계셔서 그의 일을 하시는 것이라 | 요한복음 14장 #성경 #말씀 #묵상 #큐티",
+          "channel": "우리가교회 wooriga church",
+          "viewCount": 9175,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=RmPmNynKfsY",
+          "summary": "내가 아버지 안에 거하고 아버지는 내 안에 계신 것을 네가 믿지 아니하느냐 아버지께서 내 안에 계셔서 그의 일을 하시는 것이라 | 요한복음 14장 #성경 #말씀 #묵상 #큐티"
+        }
+      ],
+      "pattern": {
+        "avgs": {
+          "숫자형": {
+            "count": 25,
+            "avg": 7084
+          },
+          "질문형": {
+            "count": 1,
+            "avg": 5891
+          },
+          "비교형": {
+            "count": 0,
+            "avg": 0
+          },
+          "공포긴박형": {
+            "count": 0,
+            "avg": 0
+          },
+          "경험담형": {
+            "count": 0,
+            "avg": 0
+          }
+        },
+        "winner": "숫자형",
+        "winner_avg": 7084
+      }
+    },
+    "D": {
+      "name": "AI·개발 도구 트렌드",
+      "tag": "🤖AI실무",
+      "top": [
+        {
+          "title": "(🔥최신 트렌드) AI 용도별 추천 2탄!",
+          "channel": "테크잡화점",
+          "viewCount": 1047078,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=Rpp_a5HuHFo",
+          "summary": "최신 트렌드) 사용 용도별 AI 추천 2탄! 지난 AI 추천 영상, 정말 많은 분들이 좋아해주시고 질문해주셨는데요? 오늘은 또 다른 용도들을 ..."
+        },
+        {
+          "title": "Claude code is 98% not AI 😳😳 #ai #tech",
+          "channel": "Parthknowsai",
+          "viewCount": 314632,
+          "publishedAt": "2026-04-27",
+          "url": "https://www.youtube.com/watch?v=18JD2_bUK34",
+          "summary": "Claude code is 98% not AI 😳😳 #ai #tech"
+        },
+        {
+          "title": "Claude Code is SUS",
+          "channel": "UFD Tech",
+          "viewCount": 191600,
+          "publishedAt": "2026-04-30",
+          "url": "https://www.youtube.com/watch?v=a_YPnubVDqo",
+          "summary": "Claude Code is SUS"
+        },
+        {
+          "title": "One guy automated his entire job search with Claude Code #ai #automation",
+          "channel": "Vaibhav Sisinty",
+          "viewCount": 178628,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=2vKU3J29FJw",
+          "summary": "Join our WhatsApp Community Get the latest AI updates, tips, and insights straight to your…"
+        },
+        {
+          "title": "How to use Claude Code with Ollama For Free",
+          "channel": "Sumit Paul",
+          "viewCount": 123107,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=N9vB2tgQb1E",
+          "summary": "Run Claude Code for free - with Powerful Open-Source Coding Models. Use Ollama to run Qwen…"
+        }
+      ],
+      "pattern": {
+        "avgs": {
+          "숫자형": {
+            "count": 13,
+            "avg": 148076
+          },
+          "질문형": {
+            "count": 0,
+            "avg": 0
+          },
+          "비교형": {
+            "count": 1,
+            "avg": 38545
+          },
+          "공포긴박형": {
+            "count": 0,
+            "avg": 0
+          },
+          "경험담형": {
+            "count": 0,
+            "avg": 0
+          }
+        },
+        "winner": "숫자형",
+        "winner_avg": 148076
+      }
+    },
+    "E": {
+      "name": "독서·자기계발",
+      "tag": "📚지식확장",
+      "top": [
+        {
+          "title": "장사는 이렇게 하는 거예요 #독서 #책추천",
+          "channel": "독서강국",
+          "viewCount": 202893,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=vCRgf2k41OY",
+          "summary": "장사는 이렇게 하는 거예요 #독서 #책추천"
+        },
+        {
+          "title": "140억 번 사람의 비밀 #독서 #책추천  #책추천",
+          "channel": "독서강국",
+          "viewCount": 191400,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=NqQMmFbDQyM",
+          "summary": "140억 번 사람의 비밀 #독서 #책추천  #책추천"
+        },
+        {
+          "title": "99%가 모르는 돈의 진짜 원리 #독서 #책추천",
+          "channel": "독서강국",
+          "viewCount": 116576,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=mys_fVEd-Pc",
+          "summary": "99%가 모르는 돈의 진짜 원리 #독서 #책추천"
+        },
+        {
+          "title": "돈 버는 사람의 진짜 공부법 #독서 #독서법 #책추천",
+          "channel": "독서강국",
+          "viewCount": 112319,
+          "publishedAt": "2026-04-27",
+          "url": "https://www.youtube.com/watch?v=Y3x_oHoUpRU",
+          "summary": "돈 버는 사람의 진짜 공부법 #독서 #독서법 #책추천"
+        },
+        {
+          "title": "하진심미치겠네 #책추천",
+          "channel": "쩜",
+          "viewCount": 98636,
+          "publishedAt": "2026-04-26",
+          "url": "https://www.youtube.com/watch?v=0DauMxC0AQ4",
+          "summary": "하진심미치겠네 #책추천"
+        }
+      ],
+      "pattern": {
+        "avgs": {
+          "숫자형": {
+            "count": 8,
+            "avg": 45931
+          },
+          "질문형": {
+            "count": 0,
+            "avg": 0
+          },
+          "비교형": {
+            "count": 2,
+            "avg": 19539
+          },
+          "공포긴박형": {
+            "count": 2,
+            "avg": 17582
+          },
+          "경험담형": {
+            "count": 0,
+            "avg": 0
+          }
+        },
+        "winner": "숫자형",
+        "winner_avg": 45931
+      }
+    }
+  }
+}
