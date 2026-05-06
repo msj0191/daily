@@ -1,8 +1,11 @@
 # 매일 아침 WSJ·NYT 인기·논란 기사 브리핑
 
-> 이 파일은 launchd → run-briefing.sh → `claude -p` 로 매일 아침 자동 실행됩니다.
-> 본 작업은 **로컬 환경**(`CLAUDE_CODE_REMOTE_ENVIRONMENT_TYPE` 미설정)에서만 정상 동작합니다.
-> Cloud Web 환경은 NYT/WSJ/Reddit/HN 호스트가 모두 차단되어 있어 사용 불가.
+> 이 파일은 두 실행 환경에서 동일하게 사용됩니다:
+> 1. **로컬 macOS** — `launchd → run-briefing.sh → claude -p prompt.md`
+> 2. **GitHub Actions** — `schedule(cron) → claude-code-action@v1 → prompt: prompt.md`
+>
+> Claude Code Cloud Web 세션은 NYT/WSJ/Reddit/HN 호스트가 차단되어 사용 불가.
+> 사용 가능 도구는 **Bash + WebFetch만**으로 가정하고 작성되어 있습니다 (MCP 의존 없음).
 
 ## 환경 변수
 
@@ -91,6 +94,17 @@ WSJ 페이월: 무료 가능 시 `🔓 무료`, 구독 필요 시 `🔒 구독` 
 - **픽 B — 💡 Jimmy 추천**: 관심 키워드 + 실무 적용 가능성 (AI→Claude Code, 재무→은퇴 설계 등) + 원문 링크.
 
 ### 7. Slack 전송 (`#wsj-nyt`, channel_id=$SLACK_CHANNEL)
+
+전송 방법: **Bash로 `curl` 호출만 사용** (Slack MCP 도구 의존 금지 — GitHub Actions 환경에선 미제공).
+
+```bash
+curl -sS -X POST https://slack.com/api/chat.postMessage \
+  -H "Authorization: Bearer $SLACK_TOKEN" \
+  -H "Content-Type: application/json; charset=utf-8" \
+  --data @/tmp/slack_payload.json
+```
+
+페이로드 JSON 만들 땐 `jq -nR --rawfile text /tmp/briefing.md '{channel: env.SLACK_CHANNEL, text: $text, unfurl_links: false}'` 패턴 권장. 응답에서 `ok: true` 확인하고 `permalink` 또는 `ts`로 메시지 링크 구성.
 
 순서:
 1. 📰 날짜 헤더: `YYYY년 MM월 DD일 | WSJ·NYT 브리핑`
