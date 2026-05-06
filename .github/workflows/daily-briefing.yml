@@ -1,0 +1,40 @@
+name: Daily WSJ·NYT Briefing
+
+on:
+  # 06:30 KST = 21:30 UTC (KST is UTC+9, so subtract 9 hours).
+  schedule:
+    - cron: "30 21 * * *"
+  # Manual trigger button on the Actions tab.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-briefing
+  cancel-in-progress: false
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Claude Code briefing
+        uses: anthropics/claude-code-action@v1
+        with:
+          prompt: ${{ github.workspace }}/briefing/prompt.md
+          # Auth: Claude Pro/Max OAuth token. Generate locally via `claude setup-token`
+          # then add the output as the CLAUDE_CODE_OAUTH_TOKEN repository secret.
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: >-
+            --allowedTools bash,webFetch
+            --model claude-opus-4-7
+            --max-turns 50
+        env:
+          NYT_API_KEY:           ${{ secrets.NYT_API_KEY }}
+          SLACK_TOKEN:           ${{ secrets.SLACK_TOKEN }}
+          SLACK_CHANNEL:         ${{ secrets.SLACK_CHANNEL }}
+          REDDIT_CLIENT_ID:      ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET:  ${{ secrets.REDDIT_CLIENT_SECRET }}
