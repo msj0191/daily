@@ -1,69 +1,69 @@
-## 📅 2026-05-02 (토) YouTube 트렌드 모닝 브리핑
+## 📅 2026-05-12 (토) YouTube 트렌드 모닝 브리핑
 > 지난 7일간 한국 시청자가 가장 많이 본 5개 카테고리(은퇴·헬스·신앙·AI·독서) 상위 영상과 제목 패턴을 정리했습니다.
 
 ### 💰재무인사이트 카테고리 A — 은퇴·재무 설계
-1. [국민연금 많이 받으면 망하는 이유 (건보료 폭탄)](https://www.youtube.com/watch?v=LQQL1MWS2xY) — `100세연구소` · 124.5만회 · 2026-04-26
-2. [국민연금 30년 채우면 얼마나 받을까요? l 부부 합산 월 300만 원 시대](https://www.youtube.com/watch?v=b9oLka2mCmg) — `바른바램` · 28.7만회 · 2026-04-27
-3. [은퇴 후 부자라고? 축구·농구 스타 자산 TOP 10](https://www.youtube.com/watch?v=j8ztY5F_GyI) — `손자tv` · 26.5만회 · 2026-04-27
-4. [기초연금 갑자기 끊겼나요?이거 꼭 확인하세요 #기초연금 #국민연금 #노후준비](https://www.youtube.com/watch?v=K3tg9HB1zPY) — `바바라핵팁` · 20.6만회 · 2026-04-26
-5. [연금저축에서 국내주식ETF사면 세금 더 내는 현실  #노후준비 #은퇴준비 #인생조언 #인생조언 #자산관리 #절세꿀팁](https://www.youtube.com/watch?v=kcXCdkDu7yA) — `100세연구소` · 18.6만회 · 2026-04-28
+1. [평생 열심히 일해서 2억 모아봤자...](https://www.youtube.com/watch?v=qQ6yQDTi-Pc) — `누룽지 - 정보를 구수하고 빠삭하게 알려드림` · 14.7만회 · 2026-05-08
+2. [기초연금 100% 탈락하는 재산 조건 7가지 #기초연금 #노후복지 #은퇴준비](https://www.youtube.com/watch?v=mDZ4L7ET-pw) — `인생선배노트` · 12.6만회 · 2026-05-09
+3. [&quot;61년생 이상 필수시청&quot; 이제부터 기초연금 못 받는다? 올해부터 싹 다 바뀝니다 | 이영주 대표 1부 #돈쭐남 #김경필](https://www.youtube.com/watch?v=gbMrOgkh91o) — `부티플 - 부의 배수를 높여라` · 8.2만회 · 2026-05-08
+4. [전 남편 국민연금, 합법적으로 내 통장에 꽂히게 하는 방법  #은퇴준비 #인생조언](https://www.youtube.com/watch?v=DmuLA5hQCck) — `100세연구소` · 7.1만회 · 2026-05-11
+5. [퇴직금으로 경매농지 샀다가 농지연금 막힌 이유](https://www.youtube.com/watch?v=fleIgvIdN-k) — `원스톱` · 6.2만회 · 2026-05-09
 
 ### 💪헬스루틴 카테고리 B — 건강·헬스
-1. [50대 탄탄한 엉덩이근육 만들어주는 5분 운동🔥 #50대운동 #엉덩이근육 #하체운동 ##건강한중년 #shorts](https://www.youtube.com/watch?v=-FCsG47fo2g) — `헬스마미 ` · 3.9만회 · 2026-04-25
-2. [50대 하체를 강화시키고 혈액순환과 무릎 건강을 개선하는 운동 2가지🔥 #50대운동 #하체운동 #무릎통증 #허벅지운동 #건강한중년 #shorts](https://www.youtube.com/watch?v=xxS8UgxBmrE) — `헬스마미 ` · 3.6만회 · 2026-04-26
-3. [50대 하체운동 허벅지와 엉덩이 자극 제대로 느끼고 싶다면 따라해보세요🔥 #50대운동 #집에서운동 #홈트 #하체운동 #개구리스쿼트 #건강한중년 #shorts](https://www.youtube.com/watch?v=qQWH3lexi3A) — `헬스마미 ` · 2.6만회 · 2026-04-28
-4. [50대면 무조건 ‘뛰어야’ 합니다｜걷기만 하면 몸이 먼저 망가집니다](https://www.youtube.com/watch?v=HQ-tCGoAii0) — `땡큐손머치 스튜디오` · 2.3만회 · 2026-05-02
-5. [50대 무릎 안아픈 스쿼트 이렇게 해보세요🔥 #50대운동 #스쿼트 #무릎통증 #중년건강 #shorts](https://www.youtube.com/watch?v=0MI3XSH2Ky0) — `헬스마미 ` · 2.1만회 · 2026-04-29
+1. [[50대 이후 필수 시청] 소고기보다 흡수 잘되는 단백질 3가지 #shorts #단백질 #단백질음식 #근감소증 #근육건강 #노년건강 #고등어효능 #달걀찜](https://www.youtube.com/watch?v=JMQnYHJoPbs) — `100세 헬스케어` · 13.2만회 · 2026-05-07
+2. [50대이후 일반 스쿼트보다 효과 2배 까치발스쿼트🔥  #50대운동 #까치발스쿼트 #하체운동 #코어운동 #건강한중년 #shorts](https://www.youtube.com/watch?v=bpwrkAYoBSc) — `헬스마미 ` · 2.3만회 · 2026-05-12
+3. [50대 엉덩이와 허벅지 불태우는 하체운동🔥 #50대운동 #사이드스텝스쿼트 #하체운동 #다이어트 #건강한중년 #집에서운동 #홈트 #shorts](https://www.youtube.com/watch?v=L68oUUhyfC0) — `헬스마미 ` · 2.1만회 · 2026-05-08
+4. [무릎 관절 약한 50대 근감소증 예방에 좋은 하체운동🔥 #50대운동 #건강한중년 #하체운동 #벽스쿼트 #근감소증예방 #shorts](https://www.youtube.com/watch?v=06CG3qiMbfk) — `헬스마미 ` · 2.1만회 · 2026-05-05
+5. [50대 무릎 안아픈 엉덩이 운동 3가지🔥 #50대운동 #건강한중년 #무릎안아픈운동  #힙업운동 #엉덩이운동 #집에서운동 #홈트 #shorts](https://www.youtube.com/watch?v=gNdHHhJJlYA) — `헬스마미 ` · 1.8만회 · 2026-05-10
 
 ### 📖신앙성장 카테고리 C — 신앙·성경 연구
-1. [[생명의 삶 큐티]불순종에 대한 뼈아픈 참회|시편 106:1~12| 윤길중 목사 | 260428QT](https://www.youtube.com/watch?v=VULE4wXvPsg) — `CGN 생명의 삶` · 2.5만회 · 2026-04-27
-2. [[큐티노트] 2026-04-27 (월)｜에스라 6:16-22｜즐겁게 하시는 하나님｜김양재 목사](https://www.youtube.com/watch?v=dKOHWTNXUa8) — `큐티엠` · 2.3만회 · 2026-04-26
-3. [하박국 2장 | 더딜지라도 반드시 응답된다 #하박국 #성경묵상 #필사묵상 #성경필사 #기독교쇼츠 #말씀묵상 #새벽기도 #큐티 #기도응답 #기도 #믿음 #크리스천 #오직믿음으로](https://www.youtube.com/watch?v=Oh0smoi_BQs) — `little j lee` · 2.2만회 · 2026-04-26
-4. [예수님의 이름으로 기도하는 이유 | 요한복음 10장 #성경 #말씀 #묵상 #큐티 #기독교 #예수님](https://www.youtube.com/watch?v=HKEmRboacgQ) — `우리가교회 wooriga church` · 1.4만회 · 2026-04-27
-5. [내가 아버지 안에 거하고 아버지는 내 안에 계신 것을 네가 믿지 아니하느냐 아버지께서 내 안에 계셔서 그의 일을 하시는 것이라 | 요한복음 14장 #성경 #말씀 #묵상 #큐티](https://www.youtube.com/watch?v=RmPmNynKfsY) — `우리가교회 wooriga church` · 9,175회 · 2026-04-26
+1. [나병환자를 치유해주시는 사랑의 예수님 #성경 #말씀 #묵상 #큐티 #기독교 #예수님](https://www.youtube.com/watch?v=FCJzvc7pvzo) — `우리가교회 wooriga church` · 3.6만회 · 2026-05-07
+2. [[생명의 삶 큐티]희생이 필요한 이타적 선택|룻기 4:1~6| 조호영 목사 | 260507QT](https://www.youtube.com/watch?v=i1enYeed5EY) — `CGN 생명의 삶` · 2.6만회 · 2026-05-06
+3. [[큐티노트] 2026-05-08 (금)｜에스라 10:9-17｜주는 의로우시니｜김양재 목사](https://www.youtube.com/watch?v=o9QKFtBsF_Y) — `큐티엠` · 2.1만회 · 2026-05-07
+4. [모든 죄의 속박을 풀어주는 사랑의 예수님 #성경 #말씀 #묵상 #큐티 #기독교 #예수님 #교회](https://www.youtube.com/watch?v=GEoe3vyQlHs) — `우리가교회 wooriga church` · 2.0만회 · 2026-05-08
+5. [예수님이 부활하셔서 빈무덤을 발견한 막달라 마리아 | 요한복음 20장 #성경 #말씀 #묵상 #큐티 #기독교 #예수님](https://www.youtube.com/watch?v=eJGVp8mx8n0) — `우리가교회 wooriga church` · 1.4만회 · 2026-05-06
 
 ### 🤖AI실무 카테고리 D — AI·개발 도구 트렌드
-1. [(🔥최신 트렌드) AI 용도별 추천 2탄!](https://www.youtube.com/watch?v=Rpp_a5HuHFo) — `테크잡화점` · 104.7만회 · 2026-04-26
-2. [Claude code is 98% not AI 😳😳 #ai #tech](https://www.youtube.com/watch?v=18JD2_bUK34) — `Parthknowsai` · 31.5만회 · 2026-04-27
-3. [Claude Code is SUS](https://www.youtube.com/watch?v=a_YPnubVDqo) — `UFD Tech` · 19.2만회 · 2026-04-30
-4. [One guy automated his entire job search with Claude Code #ai #automation](https://www.youtube.com/watch?v=2vKU3J29FJw) — `Vaibhav Sisinty` · 17.9만회 · 2026-04-26
-5. [How to use Claude Code with Ollama For Free](https://www.youtube.com/watch?v=N9vB2tgQb1E) — `Sumit Paul` · 12.3만회 · 2026-04-26
+1. [What is Claude Code?](https://www.youtube.com/watch?v=fl1DSmwQKKY) — `Claude` · 27.9만회 · 2026-05-05
+2. [Claude Code + Google Stitch + MotionSites = $15K Animated Sites](https://www.youtube.com/watch?v=sko781GfOOc) — `Nick Automates` · 20.0만회 · 2026-05-06
+3. [Code with Claude 2026: Opening Keynote](https://www.youtube.com/watch?v=GMIWm5y90xA) — `Claude` · 19.6만회 · 2026-05-06
+4. [Head of Claude Code on the future of work and productivity](https://www.youtube.com/watch?v=kRgdkOw82F0) — `CNBC Television` · 10.0만회 · 2026-05-06
+5. [🤯 Claude Code FREE UNLIMITED (No Ollama, No GPU!) [2026 Alternative]](https://www.youtube.com/watch?v=7_bmIT8HZXI) — `Compile Future` · 9.9만회 · 2026-05-07
 
 ### 📚지식확장 카테고리 E — 독서·자기계발
-1. [장사는 이렇게 하는 거예요 #독서 #책추천](https://www.youtube.com/watch?v=vCRgf2k41OY) — `독서강국` · 20.3만회 · 2026-04-26
-2. [140억 번 사람의 비밀 #독서 #책추천  #책추천](https://www.youtube.com/watch?v=NqQMmFbDQyM) — `독서강국` · 19.1만회 · 2026-04-26
-3. [99%가 모르는 돈의 진짜 원리 #독서 #책추천](https://www.youtube.com/watch?v=mys_fVEd-Pc) — `독서강국` · 11.7만회 · 2026-04-26
-4. [돈 버는 사람의 진짜 공부법 #독서 #독서법 #책추천](https://www.youtube.com/watch?v=Y3x_oHoUpRU) — `독서강국` · 11.2만회 · 2026-04-27
-5. [하진심미치겠네 #책추천](https://www.youtube.com/watch?v=0DauMxC0AQ4) — `쩜` · 9.9만회 · 2026-04-26
+1. [독서할 때 카리나 추천 필기구](https://www.youtube.com/watch?v=vsyQ0JvhAaU) — `잇팡템` · 1.9만회 · 2026-05-08
+2. [독서광 문가영이 추천하는 책 #독서 #책추천  #성공습관](https://www.youtube.com/watch?v=o1gfUlOVZOM) — `독서강국` · 1.9만회 · 2026-05-06
+3. [죽기 전에 깨달으면 늦어요, 행복해지는 책 5 #책 #책추천](https://www.youtube.com/watch?v=PszTt6jLPko) — `여르미 도서관📚` · 1.7만회 · 2026-05-08
+4. [2026년 가장 기대되는 소설 베스트셀러 5 #책추천 #책](https://www.youtube.com/watch?v=uuOGpwMrZj8) — `여르미 도서관📚` · 1.6만회 · 2026-05-09
+5. [눈물주의 인생책 3권🥹🩶 #독서 #책추천  #독서 #인생책 #소설추천 #에세이 #북튜브 #책](https://www.youtube.com/watch?v=0sVz2rnSHpc) — `글린 geulrin` · 1.0만회 · 2026-05-11
 
 ### 📊 카테고리별 제목 패턴 분석 (1위 패턴)
-- **A 은퇴·재무 설계** → `질문형` 평균 조회수 **11.3만회**
-- **B 건강·헬스** → `숫자 포함형` 평균 조회수 **8,153회**
-- **C 신앙·성경 연구** → `숫자 포함형` 평균 조회수 **7,084회**
-- **D AI·개발 도구 트렌드** → `숫자 포함형` 평균 조회수 **14.8만회**
-- **E 독서·자기계발** → `숫자 포함형` 평균 조회수 **4.6만회**
+- **A 은퇴·재무 설계** → `숫자 포함형` 평균 조회수 **4.7만회**
+- **B 건강·헬스** → `숫자 포함형` 평균 조회수 **1.3만회**
+- **C 신앙·성경 연구** → `숫자 포함형` 평균 조회수 **7,383회**
+- **D AI·개발 도구 트렌드** → `질문형` 평균 조회수 **15.1만회**
+- **E 독서·자기계발** → `공포·긴박형` 평균 조회수 **1.0만회**
 
 **전체 패턴 평균 (참고):**
 ```
 카테고리         숫자형       질문형       비교형      공포긴박       경험담
-A          9.3만회    11.3만회         -     9.8만회     1.3만회
-B         8,153회    1,390회         -         -    1,393회
-C         7,084회    5,891회         -         -         -
-D         14.8만회         -     3.9만회         -         -
-E          4.6만회         -     2.0만회     1.8만회         -
+A          4.7만회     2.6만회         -     2.1만회         -
+B          1.3만회    1,031회         -    1,487회    1,504회
+C         7,383회    2,872회         -         -         -
+D          7.2만회    15.1만회     2.1만회         -         -
+E         5,654회    2,489회         -     1.0만회         -
 ```
 
 ### 💡 Jimmy님 채널 참고 핵심 포인트 3가지
 
-**포인트 1 · 💰 재무** — `공포·숫자 결합형` 제목이 폭발 (1위 [국민연금 많이 받으면 망하는 이유 (건보료 폭탄)…](https://www.youtube.com/watch?v=LQQL1MWS2xY) = **124.5만회**)
+**포인트 1 · 💰 재무** — `공포·숫자 결합형` 제목이 폭발 (1위 [평생 열심히 일해서 2억 모아봤자...…](https://www.youtube.com/watch?v=qQ6yQDTi-Pc) = **14.7만회**)
 > 50대 남성은 "많이 받을수록 좋다"는 통념이 깨질 때 가장 강하게 반응합니다. 건보료·세금 같은 _숨은 비용_을 수치로 보여주면 클릭률이 크게 올라갑니다.
 > 🎯 **적용 아이디어**: "IRP 10년 굴려봤더니 — 50대 개발자가 엑셀로 시뮬레이션한 실수령액 (건보료까지 계산)"
 
-**포인트 2 · 🤖 AI/개발** — `숫자+트렌드 정리형` 제목이 압도 (1위 [(🔥최신 트렌드) AI 용도별 추천 2탄!](https://www.youtube.com/watch?v=Rpp_a5HuHFo) = **104.7만회**)
+**포인트 2 · 🤖 AI/개발** — `숫자+트렌드 정리형` 제목이 압도 (1위 [What is Claude Code?](https://www.youtube.com/watch?v=fl1DSmwQKKY) = **27.9만회**)
 > Claude Code·Cursor 단일 도구 영상보다 "용도별 추천 2탄" 같은 _큐레이션 후속편_ 포맷이 압도적 조회수를 만듭니다. 50대 개발자 관점은 시니어 시청자에게 희소한 권위를 갖습니다.
 > 🎯 **적용 아이디어**: "20년차 개발자가 직접 써본 AI 코딩 도구 5종 - 50대에게 진짜 필요한 건 이거였다"
 
-**포인트 3 · 💪 헬스** — `공포·긴박형` 조언 제목이 동일 채널 평균 대비 우세 (예 [50대면 무조건 ‘뛰어야’ 합니다｜걷기만 하면 몸이 먼저 망가집니다](https://www.youtube.com/watch?v=HQ-tCGoAii0) = **2.3만회**)
+**포인트 3 · 💪 헬스** — `공포·긴박형` 조언 제목이 동일 채널 평균 대비 우세 (예 [[50대 이후 필수 시청] 소고기보다 흡수 잘되는 단백질 3가지 #shorts #단백질 #단백질음식 #근감소증 #근육건강 #노년건강 #고등어효능 #달걀찜](https://www.youtube.com/watch?v=JMQnYHJoPbs) = **13.2만회**)
 > "걷기만으론 안 된다" 같이 _기존 습관을 흔드는_ 메시지가 50대 남성에게 가장 강하게 꽂힙니다. Jimmy님의 헬스+신앙+개발 멀티 정체성은 신뢰도 가산점을 줍니다.
 > 🎯 **적용 아이디어**: "50대 개발자의 1년 헬스 일지 — QT처럼 매일 기록했더니 인바디가 바뀌었습니다"
 
