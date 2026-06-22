@@ -1,0 +1,46 @@
+{
+  "date": "2026-06-22",
+  "title": "Global Intelligence Briefing",
+  "mode": "degraded",
+  "mode_reason": "NYT_API_KEY/NOTION_TOKEN/REDDIT_TOKEN unset; direct RSS/Reddit/HackerNews fetch blocked by network policy. Built via WebSearch (headlines/summaries only, no body crawl) + Notion MCP (OAuth).",
+  "notion": {
+    "database_url": "https://app.notion.com/p/5f79ce2d17174cc5863597a7dd4907a4",
+    "summary_page_url": "https://app.notion.com/p/387553353560811f9af4d0595c4c9fa9"
+  },
+  "scoring": {
+    "formula": "controversy*0.40 + practical*0.35 + longterm*0.25",
+    "note": "Reaction counts (Reddit upvotes/comments, HN points) could not be measured (APIs network-blocked); controversy scored from qualitative discussion intensity."
+  },
+  "top_news": {
+    "title_ko": "앤트로픽, $965B 밸류로 IPO 비공개 신청 — 오픈AI 첫 추월",
+    "field": "AI",
+    "source": "Fortune",
+    "final_score": 8.85,
+    "url": "https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/"
+  },
+  "practical_picks": [
+    {"field": "AI", "title_ko": "Claude Fable 5 출시 (Mythos급)", "practical_score": 10, "url": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html"},
+    {"field": "Security", "title_ko": "Claude Code GitHub Action 취약점 — 이슈 1건으로 저장소 탈취", "practical_score": 10, "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html"},
+    {"field": "Finance", "title_ko": "연준 4회 연속 금리 동결 (3.50~3.75%), '더 높게·더 오래'", "practical_score": 9, "url": "https://www.cnbc.com/2026/06/17/fed-interest-rate-decision-june-2026.html"}
+  ],
+  "articles": [
+    {"rank": 1, "field": "AI", "source": "Fortune", "title_ko": "앤트로픽, $965B 밸류로 IPO 비공개 신청 — 오픈AI 첫 추월", "controversy": 8, "practical": 9, "longterm": 10, "final": 8.85},
+    {"rank": 2, "field": "AI", "source": "The Hacker News", "title_ko": "Claude Fable 5 공개 (사이버 안전장치 탑재)", "controversy": 7, "practical": 10, "longterm": 9, "final": 8.55},
+    {"rank": 3, "field": "Security", "source": "The Hacker News", "title_ko": "Claude Code GitHub Action 취약점 — 저장소 탈취", "controversy": 7, "practical": 10, "longterm": 7, "final": 8.05},
+    {"rank": 4, "field": "Finance", "source": "CNBC", "title_ko": "연준 4회 연속 금리 동결", "controversy": 6, "practical": 9, "longterm": 8, "final": 7.55},
+    {"rank": 5, "field": "World", "source": "Al Jazeera", "title_ko": "美·이란 이슬라마바드 각서 서명 — 호르무즈 지위 논쟁", "controversy": 8, "practical": 5, "longterm": 9, "final": 7.2},
+    {"rank": 6, "field": "Security", "source": "CISA", "title_ko": "6월 패치 화요일 — 워머블 윈도우 커널 RCE(CVE-2026-45657) 등 206건", "controversy": 6, "practical": 9, "longterm": 6, "final": 7.05},
+    {"rank": 7, "field": "World", "source": "China Briefing", "title_ko": "美·中 무역 30% 관세 유지 + USTR 12.5% 추가 추진", "controversy": 6, "practical": 6, "longterm": 8, "final": 6.5},
+    {"rank": 8, "field": "Faith", "source": "Christianity Today", "title_ko": "美 교단 여성 목사 교회 배제 가결 / '기독교 국가' 64% 반대", "controversy": 8, "practical": 3, "longterm": 6, "final": 5.75},
+    {"rank": 9, "field": "World", "source": "Al Jazeera", "title_ko": "우크라이나, 크림 정유·연료시설 드론 타격 — 연료대란", "controversy": 6, "practical": 4, "longterm": 7, "final": 5.55},
+    {"rank": 10, "field": "AI", "source": "Anthropic", "title_ko": "Claude Corps $150M 펠로십 — 비영리에 AI 인재 1,000명", "controversy": 4, "practical": 6, "longterm": 6, "final": 5.2}
+  ],
+  "execution_log": {
+    "nyt_count": 0,
+    "wsj_count": 0,
+    "websearch_articles": 10,
+    "reddit_count": 0,
+    "hackernews_count": 0,
+    "notion_saved": true
+  }
+}
