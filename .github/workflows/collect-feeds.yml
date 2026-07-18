@@ -1,0 +1,49 @@
+# .github/workflows/collect-feeds.yml
+# 뉴스 피드 수집 릴레이 — Claude 예약 루틴의 수집 계층을 대신 수행한다.
+# 배경: Claude 샌드박스의 egress 정책이 뉴스 호스트를 차단하므로,
+#       네트워크가 자유로운 GitHub Actions 러너에서 키리스 공개 피드를 수집해
+#       data/latest.json 으로 커밋한다. 루틴은 raw.githubusercontent.com(허용 도메인)에서 읽는다.
+
+name: collect-feeds
+
+on:
+  schedule:
+    - cron: "30 20 * * *"   # 매일 20:30 UTC = 05:30 KST (GitHub cron은 수 분~수십 분 지연 가능)
+  workflow_dispatch: {}      # 최초 검증·수동 재실행용
+
+permissions:
+  contents: write            # data/ 커밋·푸시에 필요
+
+concurrency:
+  group: collect-feeds
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install --quiet requests feedparser
+
+      - name: Collect feeds
+        run: python scripts/collect_feeds.py
+        # 모든 소스 실패 시 스크립트가 exit 1 → 워크플로 실패 → GitHub 이메일 알림
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "feed-relay-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "변경 없음 — 커밋 생략"
+          else
+            git commit -m "feeds: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
