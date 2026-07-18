@@ -1,0 +1,871 @@
+{
+ "generated_at_utc": "2026-07-18T15:44:00+00:00",
+ "generated_at_kst": "2026-07-19T00:44:00+09:00",
+ "source_status": {
+  "HackerNews": {
+   "ok": true,
+   "count": 15
+  },
+  "NYT-World": {
+   "ok": true,
+   "count": 15
+  },
+  "NYT-Technology": {
+   "ok": true,
+   "count": 15
+  },
+  "NYT-Business": {
+   "ok": true,
+   "count": 15
+  },
+  "WSJ-World": {
+   "ok": true,
+   "count": 15
+  },
+  "WSJ-Tech": {
+   "ok": true,
+   "count": 15
+  },
+  "WSJ-Markets": {
+   "ok": true,
+   "count": 15
+  },
+  "Reddit-technology": {
+   "ok": true,
+   "count": 15
+  },
+  "Reddit-programming": {
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/programming/top/.rss?t=day"
+  }
+ },
+ "total_items": 118,
+ "items": [
+  {
+   "source": "NYT-World",
+   "title": "Uproar Over Surrogate Baby Prompts German Official’s Sudden Resignation",
+   "url": "https://www.nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html",
+   "summary": "Jens Spahn, a top leader of Chancellor Friedrich Merz’s party, resigned his post after announcing that he had a baby by surrogate, which is illegal in Germany.",
+   "published_utc": "2026-07-18T15:30:31+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
+   "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+   "summary": "In the days since the cease-fire unraveled, the United States and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.",
+   "published_utc": "2026-07-18T15:27:17+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "A Very British CPAC: No Costumes, and Not Much Trump",
+   "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
+   "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.",
+   "published_utc": "2026-07-18T15:08:44+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Kuwait accuses Iran of targeting civilian sites after attacks spark fires.",
+   "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/kuwait-power-water-facilities-attacks",
+   "summary": "",
+   "published_utc": "2026-07-18T14:24:02+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Turkey Aims to Offload Russian Air-Defense System as It Seeks to Buy U.S. F-35s",
+   "url": "https://www.wsj.com/world/turkey-aims-to-offload-russian-air-defense-system-as-it-seeks-to-buy-u-s-f-35s-70d05162",
+   "summary": "A proposed deal would entail transferring the S-400 to the U.A.E. in hopes that this would unblock Turkey’s purchase of advanced American jets.",
+   "published_utc": "2026-07-18T14:08:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Indian Activist on Hunger Strike Is Forcibly Removed by Police",
+   "url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
+   "summary": "The activist, Sonam Wangchuk, has been demanding the education minister’s resignation over botched nationwide exams that affected millions of students.",
+   "published_utc": "2026-07-18T14:05:17+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
+   "url": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
+   "summary": "As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society.",
+   "published_utc": "2026-07-18T13:56:40+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "ICE shared Medicaid data it wasn't supposed to have with Palantir",
+   "url": "https://www.reddit.com/r/technology/comments/1uzw2qe/ice_shared_medicaid_data_it_wasnt_supposed_to/",
+   "summary": "submitted by /u/No-Lifeguard-8173 [link] [comments]",
+   "published_utc": "2026-07-18T13:34:45+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Roger Summit, Who Invented an Early Online Search Service, Dies at 95",
+   "url": "https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html",
+   "summary": "A research scientist at Lockheed, he came up with the idea for a computer system that would search scientific and technical literature almost instantaneously.",
+   "published_utc": "2026-07-18T13:24:47+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
+   "url": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
+   "summary": "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents.",
+   "published_utc": "2026-07-18T13:09:16+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+   "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+   "summary": "HN 202점 · 댓글 105개 · https://news.ycombinator.com/item?id=48957779",
+   "published_utc": "2026-07-18T13:00:52Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Most Forest Fires in Canada Are Simply Impossible to Put Out",
+   "url": "https://www.nytimes.com/2026/07/18/world/canada/wildfires-canada-fire-fighting.html",
+   "summary": "Half of Canada’s wildfires are in remote areas with no road access. Impossible to fight, they are often left to burn.",
+   "published_utc": "2026-07-18T12:31:34+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Korean outfit hosting 1.44MB game development contest to honor the floppy disk — entrants must confine entire fileset, including resources, engine, and library, to miniscule storage format",
+   "url": "https://www.reddit.com/r/technology/comments/1uzucdl/korean_outfit_hosting_144mb_game_development/",
+   "summary": "submitted by /u/Logical_Welder3467 [link] [comments]",
+   "published_utc": "2026-07-18T12:15:45+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "America Caught World Cup Fever. His Job Is to Capitalize on It.",
+   "url": "https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html",
+   "summary": "Don Garber, the M.L.S. commissioner, has been planning for this moment for eight years.",
+   "published_utc": "2026-07-18T12:00:03+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "What to Know About the Chinese AI Models Rattling U.S. Stocks",
+   "url": "https://www.wsj.com/tech/ai/what-to-know-about-the-chinese-ai-models-rattling-u-s-stocks-1a80a479?mod=rss_Technology",
+   "summary": "The rise of products such as Moonshot’s Kimi K3 raises concern about the tech boom’s staying power.",
+   "published_utc": "2026-07-18T12:00:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
+   "url": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html",
+   "summary": "The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday.",
+   "published_utc": "2026-07-18T11:26:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base",
+   "url": "https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html",
+   "summary": "Bangladesh has never qualified for the World Cup. But every four years, many in the country adopt Argentina’s team as their own.",
+   "published_utc": "2026-07-18T11:16:32+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "What AI did to stackoverflow in a graph",
+   "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+   "summary": "HN 182점 · 댓글 207개 · https://news.ycombinator.com/item?id=48956949",
+   "published_utc": "2026-07-18T11:12:46Z"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Why Locals Are Gatekeeping Their Favorite Places From Tourists",
+   "url": "https://www.nytimes.com/2026/07/18/travel/gatekeeping-tourism-mexico-city-milan.html",
+   "summary": "As visitors flock to places like Mexico City, Milan and Copenhagen, residents are rethinking what they share, and who they share it with.",
+   "published_utc": "2026-07-18T11:12:11+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+   "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
+   "summary": "HN 121점 · 댓글 43개 · https://news.ycombinator.com/item?id=48956879",
+   "published_utc": "2026-07-18T11:00:29Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+   "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
+   "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
+   "published_utc": "2026-07-18T10:54:17+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "LG monitors silently install software through Windows Update without consent",
+   "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
+   "summary": "HN 571점 · 댓글 306개 · https://news.ycombinator.com/item?id=48956688",
+   "published_utc": "2026-07-18T10:21:19Z"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "IBM CEO Arvind Krishna Has Nowhere to Hide From AI",
+   "url": "https://www.wsj.com/tech/ibm-ceo-arvind-krishna-has-nowhere-to-hide-from-ai-c9ff290f?mod=rss_Technology",
+   "summary": "The once-great tech giant’s place in the new tech cycle is in disarray.",
+   "published_utc": "2026-07-18T09:30:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "World Cup Final Drives Billions in Bets on Kalshi and Polymarket",
+   "url": "https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html",
+   "summary": "The soccer tournament has helped propel the prediction markets to new user records, creating what may be the largest gambling event in history.",
+   "published_utc": "2026-07-18T09:01:54+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Robinhood’s Chief on Trump Accounts and Why Trading Isn’t Necessarily Gambling",
+   "url": "https://www.nytimes.com/2026/07/18/business/robinhoods-trump-accounts-trading-gambling.html",
+   "summary": "Vlad Tenev, the chief executive of the digital brokerage Robinhood, is trying to win over the next generation of Americans with Trump accounts.",
+   "published_utc": "2026-07-18T09:01:42+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
+   "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
+   "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
+   "published_utc": "2026-07-18T09:01:37+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "What Will You Do in Retirement? Your Money Depends on It.",
+   "url": "https://www.nytimes.com/2026/07/18/business/retirement-plan.html",
+   "summary": "Workers often focus solely on their retirement savings balance. But figuring out how you want to spend the rest of your life could be job No. 1.",
+   "published_utc": "2026-07-18T09:01:31+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
+   "url": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html",
+   "summary": "Jacinto Marques left Angola for Canada’s frozen edge. Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic.",
+   "published_utc": "2026-07-18T09:01:06+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "The U.S. and Iran Creep Toward a Wider War With Escalating Attacks",
+   "url": "https://www.wsj.com/world/middle-east/the-u-s-and-iran-creep-toward-a-wider-war-with-escalating-attacks-7323c060",
+   "summary": "Strikes on more sensitive targets across the Persian Gulf risk setting off a spiral as neither side is backing down.",
+   "published_utc": "2026-07-18T04:44:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Show HN: IKEA Complexity Index",
+   "url": "https://ikea.greg.technology/",
+   "summary": "HN 114점 · 댓글 68개 · https://news.ycombinator.com/item?id=48955042",
+   "published_utc": "2026-07-18T03:51:42Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Regressive JPEGs",
+   "url": "https://maurycyz.com/projects/bad_jpeg/",
+   "summary": "HN 528점 · 댓글 53개 · https://news.ycombinator.com/item?id=48954851",
+   "published_utc": "2026-07-18T03:14:20Z"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Why Canada’s Wildfires Are So Hard to Put Out",
+   "url": "https://www.wsj.com/world/americas/canada-wildfire-smoke-response-d0d3613a",
+   "summary": "Almost 900 blazes are burning across a vast boreal forest in the country’s hardest-to-reach, least-populous areas.",
+   "published_utc": "2026-07-18T02:49:00+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "US president promoted companies on Truth Social days after buying their stocks",
+   "url": "https://www.reddit.com/r/technology/comments/1uzjy8s/us_president_promoted_companies_on_truth_social/",
+   "summary": "submitted by /u/marketrent [link] [comments]",
+   "published_utc": "2026-07-18T02:47:59+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Conflict in the Gulf Has Become Much More Deadly for Commercial Sailors",
+   "url": "https://www.wsj.com/world/middle-east/gulf-sailing-risk-iran-war-fb61d65a",
+   "summary": "The past week has been one of the most dangerous since the Iran war started, as Tehran switched to more-lethal missiles.",
+   "published_utc": "2026-07-18T02:00:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Why Trump Is Going After Brazil’s Beloved Payment System",
+   "url": "https://www.wsj.com/world/americas/trump-brazil-payment-system-pix-097bacaa",
+   "summary": "The Trump administration imposed 25% tariffs on Brazil, citing its PIX payment system and other alleged unfair trade practices.",
+   "published_utc": "2026-07-18T02:00:00+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "White House teleprompter operator made more than $100,000 betting on US president’s speeches, via prediction market Kalshi: Sources",
+   "url": "https://www.reddit.com/r/technology/comments/1uzidt6/white_house_teleprompter_operator_made_more_than/",
+   "summary": "submitted by /u/marketrent [link] [comments]",
+   "published_utc": "2026-07-18T01:32:31+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "The Investors With a New Way to Win in Silicon Valley",
+   "url": "https://www.wsj.com/finance/venture-capital-anthropic-spark-yasmin-razavi-93dd6041?mod=rss_Technology",
+   "summary": "How venture-capital firms are rewriting the rules in a once-in-a-lifetime IPO boom",
+   "published_utc": "2026-07-18T01:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "The Investors With a New Way to Win in Silicon Valley",
+   "url": "https://www.wsj.com/finance/venture-capital-anthropic-spark-yasmin-razavi-93dd6041?mod=rss_markets_main",
+   "summary": "How venture-capital firms are rewriting the rules in a once-in-a-lifetime IPO boom",
+   "published_utc": "2026-07-18T01:00:00+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Redditors Are Celebrating the Cutting Down of Flock Surveillance Towers With Based Memes",
+   "url": "https://www.reddit.com/r/technology/comments/1uzhnhb/redditors_are_celebrating_the_cutting_down_of/",
+   "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+   "published_utc": "2026-07-18T00:58:01+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "'Whoever came up with this is a massive idiot': LG's gaming monitors and TVs are facing a user revolt, due to seemingly installing adware on PCs — and telling you to warn guests they may be recorded by AI features, to comply with 'wiretapping' laws",
+   "url": "https://www.reddit.com/r/technology/comments/1uzh4p3/whoever_came_up_with_this_is_a_massive_idiot_lgs/",
+   "summary": "submitted by /u/TurbulentTopic39 [link] [comments]",
+   "published_utc": "2026-07-18T00:33:18+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "They Call Her ‘the Assassin’ on Wall Street—and She Has a New Target",
+   "url": "https://www.wsj.com/finance/fahmi-quadir-industry-assassin-3d6ccd82?mod=rss_markets_main",
+   "summary": "Short seller Fahmi Quadir is reinventing herself after years spent bringing down companies including Wirecard.",
+   "published_utc": "2026-07-18T00:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "AI Chip Startup Etched Is in Talks for $20 Billion Valuation",
+   "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d?mod=rss_Technology",
+   "summary": "The startup, founded by Harvard dropouts, is also raising capital at a $10 billion valuation in a separate round led by Sequoia Capital.",
+   "published_utc": "2026-07-17T23:42:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "AI Chip Startup Etched Is in Talks for $20 Billion Valuation",
+   "url": "https://www.wsj.com/tech/ai/ai-chip-startup-etched-is-in-talks-for-20-billion-valuation-caf1787d?mod=rss_markets_main",
+   "summary": "The startup, founded by Harvard dropouts, is also raising capital at a $10 billion valuation in a separate round led by Sequoia Capital.",
+   "published_utc": "2026-07-17T23:42:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Taylor Farms to Remove Products After Lettuce Is Linked to Cyclospora Cases",
+   "url": "https://www.nytimes.com/2026/07/17/business/cyclospora-taylor-farms-lettuce.html",
+   "summary": "The California company grows produce in more than 12 states, and in Mexico and Canada. Taco Bell and food distributor Sysco have pulled Taylor Farms lettuce from supply chains.",
+   "published_utc": "2026-07-17T22:46:32+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Terrified Tech Execs Are Traveling With Armed Bodyguards as AI Backlash Grows",
+   "url": "https://www.reddit.com/r/technology/comments/1uzed27/terrified_tech_execs_are_traveling_with_armed/",
+   "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
+   "published_utc": "2026-07-17T22:33:44+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Cyclospora Investigation Turns to Farms in Mexico",
+   "url": "https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html",
+   "summary": "The F.D.A. is planning to inspect farms and a lettuce shredding facility to determine how lettuce supplied by the produce company Taylor Farms to Taco Bell became contaminated and where it was shipped.",
+   "published_utc": "2026-07-17T22:22:30+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "SpaceX and Pentagon Discuss Data-Center Deal",
+   "url": "https://www.wsj.com/finance/stocks/spacex-and-pentagon-discuss-data-center-deal-23d0772f?mod=rss_markets_main",
+   "summary": "Plus, the U.S. and Iran creep toward a wider war, and ranch dressing wins the World Cup.",
+   "published_utc": "2026-07-17T21:46:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
+   "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+   "summary": "HN 177점 · 댓글 63개 · https://news.ycombinator.com/item?id=48952565",
+   "published_utc": "2026-07-17T21:42:43Z"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "China’s Moonshot AI Adds More Fuel to Wall Street’s Chip Selloff",
+   "url": "https://www.wsj.com/finance/stocks/chinas-moonshot-ai-adds-to-chip-investors-worries-82b01792?mod=rss_markets_main",
+   "summary": "Friday’s selloff capped a brutal week for what were once the market’s favorite stocks.",
+   "published_utc": "2026-07-17T21:38:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Tech, Media & Telecom Roundup: Market Talk",
+   "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-c79f1543?mod=rss_Technology",
+   "summary": "Find insight on settlement between Apple and the DOJ, Netflix, Tech Mahindra and more in the latest Market Talks covering technology, media and telecom.",
+   "published_utc": "2026-07-17T21:11:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Nvidia, Challenged by Apple, Narrowly Retains Wall Street’s Crown",
+   "url": "https://www.wsj.com/tech/apple-overthrows-nvidia-to-reclaim-wall-streets-crown-ddc74a38?mod=rss_Technology",
+   "summary": "The iPhone maker briefly became the U.S.’s most valuable publicly traded company on Friday.",
+   "published_utc": "2026-07-17T21:08:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "The 20-Somethings Running Ukraine’s War Machine",
+   "url": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
+   "summary": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
+   "published_utc": "2026-07-17T20:57:50+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Static search trees: 40x faster than binary search (2024)",
+   "url": "https://curiouscoding.nl/posts/static-search-tree/",
+   "summary": "HN 163점 · 댓글 13개 · https://news.ycombinator.com/item?id=48951898",
+   "published_utc": "2026-07-17T20:24:55Z"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "With a $15 billion net worth, Palantir CEO Alex Karp predicts he will get 20x richer from AI—but that middle-class workers will get just modest raises | Fortune",
+   "url": "https://www.reddit.com/r/technology/comments/1uzb3et/with_a_15_billion_net_worth_palantir_ceo_alex/",
+   "summary": "submitted by /u/fmcortez [link] [comments]",
+   "published_utc": "2026-07-17T20:23:27+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Meet the Companies Shelling Out for Top AI Models",
+   "url": "https://www.wsj.com/cio-journal/meet-the-companies-shelling-out-for-top-ai-models-e1fe3375?mod=rss_Technology",
+   "summary": "Despite steep and rising price tags, some companies heavily favor the more powerful ‘frontier’ AI systems over cheaper alternatives.",
+   "published_utc": "2026-07-17T20:09:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead",
+   "url": "https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html",
+   "summary": "China’s Moonshot AI unveiled a freely available artificial intelligence model that seemed to narrow the gap with cutting-edge offerings from U.S. tech companies.",
+   "published_utc": "2026-07-17T20:04:57+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Nasdaq Drops Again as Chip Slump Deepens",
+   "url": "https://www.wsj.com/finance/stocks/nasdaq-drops-again-as-chip-slump-deepens-fa87ecb0?mod=rss_markets_main",
+   "summary": "Plus, Netflix plunged after the streamer warned of slower growth.",
+   "published_utc": "2026-07-17T20:04:00+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Kevin O’Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation",
+   "url": "https://www.reddit.com/r/technology/comments/1uzac76/kevin_oleary_claimed_opposition_to_his_utah_data/",
+   "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+   "published_utc": "2026-07-17T19:55:07+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "The Zilog Z80 has turned 50",
+   "url": "https://goliath32.com/blog/z80.html",
+   "summary": "HN 253점 · 댓글 100개 · https://news.ycombinator.com/item?id=48951461",
+   "published_utc": "2026-07-17T19:41:02Z"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Poland bans “trash streams” with prison sentences for streamers who profit from violence & humiliation",
+   "url": "https://www.reddit.com/r/technology/comments/1uz9lcb/poland_bans_trash_streams_with_prison_sentences/",
+   "summary": "submitted by /u/Dilpickle2113 [link] [comments]",
+   "published_utc": "2026-07-17T19:27:16+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "SoftBank CEO Says You’re Too Stupid to Understand What’s Going on If You Believe the AI Bubble Is Real",
+   "url": "https://www.reddit.com/r/technology/comments/1uz951e/softbank_ceo_says_youre_too_stupid_to_understand/",
+   "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
+   "published_utc": "2026-07-17T19:10:53+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "SpaceX in Talks to Provide Computing Power for Pentagon’s AI Push",
+   "url": "https://www.wsj.com/tech/ai/spacex-in-talks-to-provide-computing-power-for-pentagons-ai-push-15e752e4?mod=rss_Technology",
+   "summary": "Elon Musk’s company would provide billions of dollars’ worth of data-center capacity under the arrangement, people familiar with the matter said.",
+   "published_utc": "2026-07-17T19:03:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
+   "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html",
+   "summary": "At a time of political upheaval and economic stagnation, Andy Burnham will on Monday become the seventh prime minister in a decade.",
+   "published_utc": "2026-07-17T18:53:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "After Repeated Crises, Boeing Looks to Turn a Corner",
+   "url": "https://www.nytimes.com/2026/07/17/business/boeing-turnaround-737-max.html",
+   "summary": "The company recently opened a new production line to keep up with strong demand for its 737 Max, though orders for its new planes lag rival Airbus.",
+   "published_utc": "2026-07-17T18:28:28+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "X and Music Publishers Retreat From Lawsuits",
+   "url": "https://www.nytimes.com/2026/07/17/arts/music/x-music-lawsuits.html",
+   "summary": "Elon Musk’s social media platform and the music companies agreed to dismiss dueling claims, from 2023 and 2026. They have not said why.",
+   "published_utc": "2026-07-17T18:16:00+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "ICE to Pay Thomson Reuters $125 Million to Find \"Voter Fraud\" | A new procurement record says ICE wants access to personal data, including names, Social Security numbers, and ethnicity, to investigate in part what the agency calls “voters fraud.”",
+   "url": "https://www.reddit.com/r/technology/comments/1uz73i2/ice_to_pay_thomson_reuters_125_million_to_find/",
+   "summary": "submitted by /u/ControlCAD [link] [comments]",
+   "published_utc": "2026-07-17T17:57:29+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "SpaceX stock drops to a new low and loses $1 trillion in value in a month",
+   "url": "https://www.reddit.com/r/technology/comments/1uz6zsr/spacex_stock_drops_to_a_new_low_and_loses_1/",
+   "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+   "published_utc": "2026-07-17T17:53:51+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Learning a few things about running SQLite",
+   "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+   "summary": "HN 292점 · 댓글 75개 · https://news.ycombinator.com/item?id=48950122",
+   "published_utc": "2026-07-17T17:45:41Z"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+   "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+   "summary": "A deal would underline how scarce computing power is for artificial intelligence development, and could create a new business for Meta.",
+   "published_utc": "2026-07-17T17:44:24+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Meta Plans to Hire Top Amazon Computing Executive as It Weighs Cloud Push",
+   "url": "https://www.wsj.com/tech/meta-plans-to-hire-top-amazon-computing-executive-as-it-weighs-cloud-push-2166869b?mod=rss_Technology",
+   "summary": "Dave Brown, one of the most senior executives at Amazon Web Services, will bring his nearly two decades of experience to the social-media giant.",
+   "published_utc": "2026-07-17T17:41:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Pentagon’s Escort Policy for Journalists Is Temporarily Restored",
+   "url": "https://www.nytimes.com/2026/07/17/business/media/pentagon-reporters-nytimes.html",
+   "summary": "An appeals court said the Defense Department could require escorts for reporters who visit the Pentagon while The New York Times sues to overturn the rule.",
+   "published_utc": "2026-07-17T17:38:59+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Flock Said Its Cameras Don't Track People. Then a Reporter Proved Them Wrong On Video",
+   "url": "https://www.reddit.com/r/technology/comments/1uz5y37/flock_said_its_cameras_dont_track_people_then_a/",
+   "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
+   "published_utc": "2026-07-17T17:16:27+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "The Threat to Saudi Arabia’s Main Oil-Export Route Is Growing",
+   "url": "https://www.wsj.com/world/middle-east/the-threat-to-saudi-arabias-main-oil-export-route-is-growing-6927e974",
+   "summary": "Yemen’s Iran-backed Houthi militia has shut off the Red Sea before, and its leader is again warning of escalation.",
+   "published_utc": "2026-07-17T17:12:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Thanks HN for 15 years of support and helping me find my life's work",
+   "url": "https://news.ycombinator.com/item?id=48949551",
+   "summary": "HN 720점 · 댓글 85개 · https://news.ycombinator.com/item?id=48949551",
+   "published_utc": "2026-07-17T16:57:27Z"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "America’s Enterprising Spirit Is Booming After Decades-Long Slump",
+   "url": "https://www.nytimes.com/2026/07/17/business/economy/american-small-business-boom.html",
+   "summary": "Hundreds of thousands of people are creating companies each year, ending a decades-long drought.",
+   "published_utc": "2026-07-17T16:51:43+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Xi offers AI olive branch to the world, calling for 'symphony of global cooperation' | Development and governance of artificial intelligence should be a global effort, Chinese President Xi Jinping said Friday",
+   "url": "https://www.reddit.com/r/technology/comments/1uz4tog/xi_offers_ai_olive_branch_to_the_world_calling/",
+   "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
+   "published_utc": "2026-07-17T16:36:08+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "This Conversation Is Being Recorded. They All Are.",
+   "url": "https://www.wsj.com/lifestyle/workplace/ai-recording-apps-wearables-granola-39727559?mod=rss_Technology",
+   "summary": "People in tech use AI apps to record and transcribe meetings, workplace chats and even dates—all in the name of productivity.",
+   "published_utc": "2026-07-17T16:04:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "The Therapeutic Potential of a Powerful Toad Poison",
+   "url": "https://www.wsj.com/tech/ai/the-therapeutic-potential-of-a-powerful-toad-poison-01cc6246?mod=rss_Technology",
+   "summary": "Plus, the future of watching sports, how AI might actually help solve the next labor crisis and the woman mapping her biological data.",
+   "published_utc": "2026-07-17T15:10:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "What We Know About Trump’s Pickaxe Iran Target",
+   "url": "https://www.wsj.com/world/middle-east/what-we-know-about-trumps-pickaxe-iran-target-3700391a",
+   "summary": "The president said he is considering an attack on the site, but that could be more complex than last year’s strikes on Iran’s main nuclear facilities.",
+   "published_utc": "2026-07-17T14:49:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+   "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+   "summary": "HN 377점 · 댓글 201개 · https://news.ycombinator.com/item?id=48947717",
+   "published_utc": "2026-07-17T14:21:51Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+   "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+   "summary": "HN 491점 · 댓글 289개 · https://news.ycombinator.com/item?id=48947560",
+   "published_utc": "2026-07-17T14:06:13Z"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "States Rush to Fill Graduate Loan Gap Opened by G.O.P. Budget Bill",
+   "url": "https://www.nytimes.com/2026/07/17/your-money/states-graduate-loans-us-government.html",
+   "summary": "Minnesota and Connecticut are two of the states expanding their loan options. “We see it as a substitute program,” one official said.",
+   "published_utc": "2026-07-17T13:00:08+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
+   "url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
+   "summary": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
+   "published_utc": "2026-07-17T12:46:57+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Fifth Third Profit Boosted by Comerica Acquisition",
+   "url": "https://www.wsj.com/business/earnings/fifth-third-profit-boosted-by-comerica-acquisition-bae8e106?mod=rss_markets_main",
+   "summary": "The Fifth Third Bank parent posted a profit of $763 million, or 83 cents a share, in the second quarter.",
+   "published_utc": "2026-07-17T11:11:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT",
+   "url": "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html",
+   "summary": "“I don’t know if the public understands this, but these companies hate each other.”",
+   "published_utc": "2026-07-17T11:00:03+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
+   "url": "https://news.ycombinator.com/item?id=48945241",
+   "summary": "HN 1246점 · 댓글 722개 · https://news.ycombinator.com/item?id=48945241",
+   "published_utc": "2026-07-17T09:42:05Z"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Gas Prices Will Stay Higher for Longer, Even if Oil Falls",
+   "url": "https://www.wsj.com/business/energy-oil/gas-prices-will-stay-higher-for-longer-even-if-oil-falls-93b61566?mod=rss_markets_main",
+   "summary": "Refining capacity is strained, and fuel markets don’t have much of a buffer.",
+   "published_utc": "2026-07-17T09:30:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Trump’s Tightening Squeeze on Iran Will Heap More Pain on Its Battered Economy",
+   "url": "https://www.wsj.com/world/middle-east/trumps-tightening-squeeze-on-iran-will-heap-more-pain-on-its-battered-economy-9e2e8952",
+   "summary": "Trump is betting that renewed pressure will convince Tehran to release its hold on the Strait of Hormuz while the regime is betting it can hold out.",
+   "published_utc": "2026-07-17T02:00:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "China’s Two-Speed Economy Pairs High-Tech Success With Domestic Gloom",
+   "url": "https://www.wsj.com/world/china/china-economy-tech-property-03444d83",
+   "summary": "The country’s soaring exports and tech prowess hide a brutal economic picture and a growing army of underemployed workers at home.",
+   "published_utc": "2026-07-16T23:30:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes",
+   "url": "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512",
+   "summary": "The strikes were aimed at Iranian sites used to launch attacks on commercial ships near the Strait of Hormuz.",
+   "published_utc": "2026-07-16T23:01:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Financial Services Roundup: Market Talk",
+   "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-26f0cae4?mod=rss_markets_main",
+   "summary": "Find insight on the PayPal acquisition, Partners Group, UniCredit, Chinese banks and more in the latest Market Talks covering financial services.",
+   "published_utc": "2026-07-16T21:04:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Saudi Arabia Was in the Midst of Transformation. Then Came the Iran War.",
+   "url": "https://www.wsj.com/world/middle-east/saudi-arabia-riyadh-iran-war-99434d4b",
+   "summary": "A former ambassador on how the kingdom can protect its multibillion-dollar societal investment.",
+   "published_utc": "2026-07-16T20:48:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says",
+   "url": "https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html",
+   "summary": "A technical assistant to President Trump won around $100,000, according to the prediction market, which flagged the activity to the federal government.",
+   "published_utc": "2026-07-16T19:18:36+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.",
+   "url": "https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html",
+   "summary": "Someone used A.I. to write my biography. Thousands more of those books are polluting Amazon. Who is behind all this drivel?",
+   "published_utc": "2026-07-16T17:12:03+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes",
+   "url": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
+   "summary": "The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.",
+   "published_utc": "2026-07-16T17:06:37+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Chevron Will Explore Creating Strait of Hormuz Alternative for Iraqi Oil",
+   "url": "https://www.wsj.com/world/middle-east/chevron-will-explore-creating-strait-of-hormuz-alternative-for-iraqi-oil-36308abf",
+   "summary": "The U.S. energy producer is looking at investing in oil fields and a pipeline to boost Iraq’s oil exports.",
+   "published_utc": "2026-07-16T16:48:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant",
+   "url": "https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html",
+   "summary": "In 1982, she led the research team that figured out how to genetically alter plants, a discovery that would eventually transform global agriculture.",
+   "published_utc": "2026-07-16T16:38:40+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Yohei Kono, Who Apologized for Japan’s Role in Sex Slavery During World War II, Dies at 89",
+   "url": "https://www.wsj.com/world/asia/japan-yohei-kono-dies-politician-b32fe623",
+   "summary": "As a high-ranking government official, he acknowledged the government’s role in running “comfort stations.”",
+   "published_utc": "2026-07-16T15:03:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Google Ordered to Give A.I. Rivals More Access on Android Smartphones",
+   "url": "https://www.nytimes.com/2026/07/16/technology/google-android-ai.html",
+   "summary": "The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.",
+   "published_utc": "2026-07-16T13:56:58+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)",
+   "url": "https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html",
+   "summary": "France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.",
+   "published_utc": "2026-07-16T13:24:23+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "I Gave an AI Agent Access to My Passwords. Here’s What Happened.",
+   "url": "https://www.wsj.com/tech/ai/1password-for-claude-ai-agents-password-manager-111a7a8a?mod=rss_Technology",
+   "summary": "1Password for Claude is a new, safer way to use login credentials with artificial-intelligence tools, but there are still risks.",
+   "published_utc": "2026-07-16T12:05:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Hundreds of Rohingya Feared Dead on World’s Riskiest Migrant Sea Route",
+   "url": "https://www.wsj.com/world/asia/hundreds-of-rohingya-feared-dead-on-worlds-riskiest-migrant-sea-route-f94c1d24",
+   "summary": "Two crowded ships sank within days of each other off the coast of Myanmar, apparently while heading to Malaysia.",
+   "published_utc": "2026-07-16T11:37:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "U.S. Bancorp Quarterly Revenue Rises to Record",
+   "url": "https://www.wsj.com/business/earnings/u-s-bancorp-quarterly-revenue-rises-to-record-9516a2aa?mod=rss_markets_main",
+   "summary": "U.S. Bancorp notched record second-quarter revenue due to strong loan growth, broad momentum on fees and a one-month boost from the recent acquisition of financial-services firm BTIG.",
+   "published_utc": "2026-07-16T11:36:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Japan to Buy Nvidia Chips to Power Its AI Push",
+   "url": "https://www.wsj.com/tech/ai/nvidia-noetra-to-build-ai-factory-to-power-japans-ai-ambitions-95e74210",
+   "summary": "Nvidia chips are set to power Japan’s artificial-intelligence push, with the government planning to buy thousands of the company’s next-generation semiconductors to build an AI ecosystem on its own soil.",
+   "published_utc": "2026-07-16T11:13:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Young Drivers Are Going ‘Psycho’ On the Road—and Filming It",
+   "url": "https://www.wsj.com/tech/personal-tech/dash-cams-drivers-tiktok-3101b404?mod=rss_Technology",
+   "summary": "Dash cameras have graduated from boring utility to content-creation machines.",
+   "published_utc": "2026-07-16T09:30:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Evicting Wall Street From the Housing Market Will Be Messy",
+   "url": "https://www.wsj.com/economy/housing/evicting-wall-street-from-the-housing-market-will-be-messy-1c40a119?mod=rss_markets_main",
+   "summary": "A law restricting the activities of big investors in residential real estate could mean less cash to build new supply.",
+   "published_utc": "2026-07-16T09:30:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Wall Street Traders Are Having Their Best Year Ever",
+   "url": "https://www.wsj.com/finance/banking/wall-street-traders-are-having-their-best-year-ever-a80f02ff?mod=rss_markets_main",
+   "summary": "JPMorgan, Goldman and other big banks are raking in trading revenue this year as “the market is clearly extremely risk-on.”",
+   "published_utc": "2026-07-16T02:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "AI Knows What You Did Online. Now Your Employer Does, Too.",
+   "url": "https://www.wsj.com/lifestyle/careers/ai-knows-what-you-did-online-now-your-employer-does-too-49796adc?mod=rss_Technology",
+   "summary": "Artificial intelligence makes it easier than ever to trace your online history, and trying to cover your tracks can backfire and sabotage your career.",
+   "published_utc": "2026-07-16T00:00:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
+   "url": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
+   "summary": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
+   "published_utc": "2026-07-15T18:58:17+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "AT&T and Verizon Look Beyond the Family Plan",
+   "url": "https://www.wsj.com/tech/personal-tech/at-t-and-verizon-look-beyond-the-family-plan-4fcaf4b9?mod=rss_Technology",
+   "summary": "New wireless service options may break up multiline plans and land carriers a bevy of long-term customers.",
+   "published_utc": "2026-07-15T13:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Banks Are on a Goldilocks Run. Don’t Assume It Will Last.",
+   "url": "https://www.wsj.com/finance/banking/banks-are-on-a-goldilocks-run-dont-assume-it-will-last-9f49f12f?mod=rss_markets_main",
+   "summary": "Virtually everything worked in big banks’ favor in the second quarter, but there is no shortage of things that could go wrong.",
+   "published_utc": "2026-07-15T09:30:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Data Centers to Add Billions in Power Costs in 13 States",
+   "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
+   "summary": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers.",
+   "published_utc": "2026-07-15T00:39:01+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "OpenAI Is Showing Kalshi’s World Cup Odds in ChatGPT",
+   "url": "https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html",
+   "summary": "The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.",
+   "published_utc": "2026-07-14T14:17:54+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Reviving a 15-year-old netbook with Arch Linux",
+   "url": "https://parksb.github.io/en/article/41.html",
+   "summary": "HN 177점 · 댓글 110개 · https://news.ycombinator.com/item?id=48907063",
+   "published_utc": "2026-07-14T14:02:36Z"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
+   "url": "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
+   "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
+   "published_utc": "2026-07-14T13:19:12+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Corporate Bonds Have the Best Yields in Years. They Still Aren’t Enough.",
+   "url": "https://www.wsj.com/finance/investing/corporate-bonds-have-the-best-yields-in-years-they-still-arent-enough-aa391e8b?mod=rss_markets_main",
+   "summary": "Higher long-term yields might not compensate for the higher risks.",
+   "published_utc": "2026-07-14T09:30:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "How a Teacher Revived Backyard Baseball",
+   "url": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+   "summary": "Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.",
+   "published_utc": "2026-07-13T16:28:38+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Think the S&P 500 Looks Cheap? Read the Fine Print",
+   "url": "https://www.wsj.com/finance/stocks/think-the-s-p-500-looks-cheap-read-the-fine-print-fa888f6e?mod=rss_markets_main",
+   "summary": "The index’s price/earnings, or P/E, ratio depends on who is defining the “E.”",
+   "published_utc": "2026-07-13T09:30:00+00:00"
+  }
+ ]
+}
