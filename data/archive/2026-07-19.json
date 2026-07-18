@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-07-18T15:44:00+00:00",
- "generated_at_kst": "2026-07-19T00:44:00+09:00",
+ "generated_at_utc": "2026-07-18T21:24:41+00:00",
+ "generated_at_kst": "2026-07-19T06:24:41+09:00",
  "source_status": {
   "HackerNews": {
    "ok": true,
@@ -43,31 +43,192 @@
  "items": [
   {
    "source": "NYT-World",
+   "title": "Iran War Live Updates: 2 U.S. Soldiers Killed and 1 Service Member Missing in Iranian Attack on Jordan",
+   "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
+   "summary": "The soldiers were the first U.S. troops to die from hostile fire in the region since an early April truce. The deaths came as both sides expanded the scope and intensity of their attacks.",
+   "published_utc": "2026-07-18T21:17:10+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Iran Rushed Out $6 Billion of Oil During Brief Truce With U.S.",
+   "url": "https://www.wsj.com/world/middle-east/iran-rushed-out-6-billion-of-oil-during-brief-truce-with-u-s-5a3d0818",
+   "summary": "About 20 Iranian tankers carrying millions of barrels of oil set sail for Asia—likely for sail to China—after the U.S. lifted its blockade.",
+   "published_utc": "2026-07-18T21:00:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Why Jordan Is Becoming a New Focus in the U.S.-Iran War",
+   "url": "https://www.nytimes.com/2026/07/18/world/middleeast/iran-war-jordan-attacks.html",
+   "summary": "Four Iranian attacks in five days have targeted U.S. troops in Jordan, U.S. officials said, including one on Friday that killed two soldiers and left another service member missing.",
+   "published_utc": "2026-07-18T20:45:43+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report",
+   "url": "https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html",
+   "summary": "The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities’ sexual orientation for “discriminatory purposes.”",
+   "published_utc": "2026-07-18T20:41:42+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+   "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
+   "summary": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
+   "published_utc": "2026-07-18T20:40:57+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Canada Wildfires: What to Know",
+   "url": "https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html",
+   "summary": "Hundreds of wildfires in Canada and the United States have blanketed large sections of North America in dense smoke over the past week.",
+   "published_utc": "2026-07-18T20:16:59+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’",
+   "url": "https://www.wsj.com/world/ukraine-escalates-air-war-with-deadly-strikes-on-russias-amazon-163ba241",
+   "summary": "Ukrainian drone strikes on warehouses belonging to Wildberries, Russia’s largest online retailer, killed at least eight people and injured dozens Saturday.",
+   "published_utc": "2026-07-18T20:16:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Two U.S. Troops Killed in Iran Missile Attack on Jordan",
+   "url": "https://www.wsj.com/world/middle-east/two-u-s-servicemembers-killed-one-missing-in-iran-missile-attack-on-jordan-a59f9699",
+   "summary": "The casualties further escalated a weeklong exchange of fire where both sides have been striking increasingly sensitive targets.",
+   "published_utc": "2026-07-18T19:49:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
+   "url": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html",
+   "summary": "The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday.",
+   "published_utc": "2026-07-18T18:36:11+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
+   "url": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
+   "summary": "Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.",
+   "published_utc": "2026-07-18T18:03:18+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "The Kimi K3 Moment",
+   "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+   "summary": "HN 190점 · 댓글 183개 · https://news.ycombinator.com/item?id=48960218",
+   "published_utc": "2026-07-18T17:32:40Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Goodbye, and Thanks for All the Bikesheds",
+   "url": "https://queue.acm.org/detail.cfm?id=3818307",
+   "summary": "HN 147점 · 댓글 149개 · https://news.ycombinator.com/item?id=48960155",
+   "published_utc": "2026-07-18T17:27:24Z"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "The Clock Is Now Ticking on Netanyahu’s Political Future",
+   "url": "https://www.wsj.com/world/middle-east/the-clock-is-now-ticking-on-netanyahus-political-future-66353a0b",
+   "summary": "Israel’s prime minister is bracing for a fight to stay in power as the parliament dissolves and the countdown to an election begins.",
+   "published_utc": "2026-07-18T17:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Lego Strikes Back Against Screens—With Chips in Bricks",
+   "url": "https://www.wsj.com/business/lego-smart-play-interactive-toys-865907e5?mod=rss_Technology",
+   "summary": "The new Smart Play sets come with motion sensors, lights and sound. But does the legendary building system actually need this digital upgrade?",
+   "published_utc": "2026-07-18T17:00:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
+   "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
+   "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.",
+   "published_utc": "2026-07-18T16:48:22+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+   "url": "https://ykdojo.github.io/claude-controls-mac/",
+   "summary": "HN 136점 · 댓글 90개 · https://news.ycombinator.com/item?id=48959392",
+   "published_utc": "2026-07-18T16:12:08Z"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Madison Square Garden Kept a List of Gay Celebrities",
+   "url": "https://www.reddit.com/r/technology/comments/1uzzxu4/madison_square_garden_kept_a_list_of_gay/",
+   "summary": "submitted by /u/brown-saiyan [link] [comments]",
+   "published_utc": "2026-07-18T16:11:23+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "U.S. Emergency Oil Reserve Hits Lowest Levels Since 1983: Why It Matters",
+   "url": "https://www.wsj.com/business/energy-oil/u-s-emergency-oil-reserve-hits-lowest-levels-since-1983-why-it-matters-a4ed79aa",
+   "summary": "Video: WSJ’s David Uberti explains how the Strategic Petroleum Reserve works to help blunt the impact of oil shocks such as the Iran War.",
+   "published_utc": "2026-07-18T16:00:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Your ‘Live’ World Cup Broadcast Is Not Really Live",
+   "url": "https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html",
+   "summary": "Everyone is watching the goals after they happen, and some get them significantly faster.",
+   "published_utc": "2026-07-18T15:48:06+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+   "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
+   "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
+   "published_utc": "2026-07-18T15:45:27+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Gleam Is Now on Tangled",
+   "url": "https://tangled.org/gleam.run/gleam",
+   "summary": "HN 155점 · 댓글 102개 · https://news.ycombinator.com/item?id=48959143",
+   "published_utc": "2026-07-18T15:44:04Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "If You Build It, They Will Come",
+   "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+   "summary": "HN 159점 · 댓글 56개 · https://news.ycombinator.com/item?id=48959090",
+   "published_utc": "2026-07-18T15:37:01Z"
+  },
+  {
+   "source": "NYT-World",
    "title": "Uproar Over Surrogate Baby Prompts German Official’s Sudden Resignation",
    "url": "https://www.nytimes.com/2026/07/18/world/europe/jens-spahn-surrogacy-germany.html",
    "summary": "Jens Spahn, a top leader of Chancellor Friedrich Merz’s party, resigned his post after announcing that he had a baby by surrogate, which is illegal in Germany.",
-   "published_utc": "2026-07-18T15:30:31+00:00"
+   "published_utc": "2026-07-18T15:30:32+00:00"
   },
   {
-   "source": "NYT-World",
-   "title": "Iran War Live Updates: Fighting Intensifies With Strikes on Critical Infrastructure",
-   "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-   "summary": "In the days since the cease-fire unraveled, the United States and Iran have expanded the scope of their attacks, with reports of water facilities and other structures coming under fire.",
-   "published_utc": "2026-07-18T15:27:17+00:00"
+   "source": "Reddit-technology",
+   "title": "Spotify Deleted 75 Million AI-Generated Tracks – and It’s Not Done Yet",
+   "url": "https://www.reddit.com/r/technology/comments/1uzyfgn/spotify_deleted_75_million_aigenerated_tracks_and/",
+   "summary": "submitted by /u/spherocytes [link] [comments]",
+   "published_utc": "2026-07-18T15:11:12+00:00"
   },
   {
-   "source": "NYT-World",
-   "title": "A Very British CPAC: No Costumes, and Not Much Trump",
-   "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
-   "summary": "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes.",
-   "published_utc": "2026-07-18T15:08:44+00:00"
+   "source": "Reddit-technology",
+   "title": "AI hype seems to be cooling as tech stocks dramatically plunge",
+   "url": "https://www.reddit.com/r/technology/comments/1uzyd5q/ai_hype_seems_to_be_cooling_as_tech_stocks/",
+   "summary": "submitted by /u/ArgentineBeauty [link] [comments]",
+   "published_utc": "2026-07-18T15:08:38+00:00"
   },
   {
-   "source": "NYT-World",
-   "title": "Kuwait accuses Iran of targeting civilian sites after attacks spark fires.",
-   "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz/kuwait-power-water-facilities-attacks",
-   "summary": "",
-   "published_utc": "2026-07-18T14:24:02+00:00"
+   "source": "Reddit-technology",
+   "title": "Peter Thiel just gave the public its closest look yet at his ‘Antichrist’ theory—and it’s a tech and climate regulator",
+   "url": "https://www.reddit.com/r/technology/comments/1uzxlv1/peter_thiel_just_gave_the_public_its_closest_look/",
+   "summary": "submitted by /u/fmcortez [link] [comments]",
+   "published_utc": "2026-07-18T14:38:11+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "FCC took pricey gifts from Paramount as the company needed approval for deals | FCC Chair Brendan Carr has been gifted at least $63,000 worth of tickets by CBS or its parent company.",
+   "url": "https://www.reddit.com/r/technology/comments/1uzxiuy/fcc_took_pricey_gifts_from_paramount_as_the/",
+   "summary": "submitted by /u/ControlCAD [link] [comments]",
+   "published_utc": "2026-07-18T14:34:52+00:00"
   },
   {
    "source": "WSJ-World",
@@ -82,6 +243,13 @@
    "url": "https://www.nytimes.com/2026/07/18/world/asia/sonam-wangchuk-hunger-strike-delhi-police.html",
    "summary": "The activist, Sonam Wangchuk, has been demanding the education minister’s resignation over botched nationwide exams that affected millions of students.",
    "published_utc": "2026-07-18T14:05:17+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "EU ban on destruction of unsold clothes and shoes enters into application",
+   "url": "https://environment.ec.europa.eu/news/ban-destruction-unsold-clothes-and-shoes-enters-application-2026-07-17_en",
+   "summary": "HN 249점 · 댓글 233개 · https://news.ycombinator.com/item?id=48958269",
+   "published_utc": "2026-07-18T14:04:42Z"
   },
   {
    "source": "NYT-World",
@@ -115,15 +283,15 @@
    "source": "HackerNews",
    "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
    "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-   "summary": "HN 202점 · 댓글 105개 · https://news.ycombinator.com/item?id=48957779",
+   "summary": "HN 449점 · 댓글 287개 · https://news.ycombinator.com/item?id=48957779",
    "published_utc": "2026-07-18T13:00:52Z"
   },
   {
-   "source": "NYT-World",
-   "title": "Most Forest Fires in Canada Are Simply Impossible to Put Out",
-   "url": "https://www.nytimes.com/2026/07/18/world/canada/wildfires-canada-fire-fighting.html",
-   "summary": "Half of Canada’s wildfires are in remote areas with no road access. Impossible to fight, they are often left to burn.",
-   "published_utc": "2026-07-18T12:31:34+00:00"
+   "source": "Reddit-technology",
+   "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+   "url": "https://www.reddit.com/r/technology/comments/1uzupvi/san_francisco_demands_apple_and_google_delete_ai/",
+   "summary": "submitted by /u/aacool [link] [comments]",
+   "published_utc": "2026-07-18T12:34:20+00:00"
   },
   {
    "source": "Reddit-technology",
@@ -148,13 +316,6 @@
   },
   {
    "source": "NYT-World",
-   "title": "They Called Sam Neill ‘Skux.’ (It Was a Compliment.)",
-   "url": "https://www.nytimes.com/2026/07/18/world/australia/new-zealand-sam-neill-skux-meaning.html",
-   "summary": "The New Zealand slang word, dating back to the 1990s, was pulled back into circulation in tributes to the actor, who died on Tuesday.",
-   "published_utc": "2026-07-18T11:26:00+00:00"
-  },
-  {
-   "source": "NYT-World",
    "title": "In Bangladesh, Argentina’s Soccer Team Finds a Huge Fan Base",
    "url": "https://www.nytimes.com/2026/07/18/world/asia/world-cup-bangladesh-argentina-fans.html",
    "summary": "Bangladesh has never qualified for the World Cup. But every four years, many in the country adopt Argentina’s team as their own.",
@@ -164,7 +325,7 @@
    "source": "HackerNews",
    "title": "What AI did to stackoverflow in a graph",
    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-   "summary": "HN 182점 · 댓글 207개 · https://news.ycombinator.com/item?id=48956949",
+   "summary": "HN 329점 · 댓글 387개 · https://news.ycombinator.com/item?id=48956949",
    "published_utc": "2026-07-18T11:12:46Z"
   },
   {
@@ -175,24 +336,24 @@
    "published_utc": "2026-07-18T11:12:11+00:00"
   },
   {
+   "source": "Reddit-technology",
+   "title": "US data center protests go national as backlash grows",
+   "url": "https://www.reddit.com/r/technology/comments/1uzt0t1/us_data_center_protests_go_national_as_backlash/",
+   "summary": "submitted by /u/talkingatoms [link] [comments]",
+   "published_utc": "2026-07-18T11:07:24+00:00"
+  },
+  {
    "source": "HackerNews",
    "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
    "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-   "summary": "HN 121점 · 댓글 43개 · https://news.ycombinator.com/item?id=48956879",
+   "summary": "HN 187점 · 댓글 96개 · https://news.ycombinator.com/item?id=48956879",
    "published_utc": "2026-07-18T11:00:29Z"
-  },
-  {
-   "source": "NYT-World",
-   "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-   "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
-   "summary": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
-   "published_utc": "2026-07-18T10:54:17+00:00"
   },
   {
    "source": "HackerNews",
    "title": "LG monitors silently install software through Windows Update without consent",
    "url": "https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent",
-   "summary": "HN 571점 · 댓글 306개 · https://news.ycombinator.com/item?id=48956688",
+   "summary": "HN 887점 · 댓글 445개 · https://news.ycombinator.com/item?id=48956688",
    "published_utc": "2026-07-18T10:21:19Z"
   },
   {
@@ -245,25 +406,18 @@
    "published_utc": "2026-07-18T04:44:00+00:00"
   },
   {
-   "source": "HackerNews",
-   "title": "Show HN: IKEA Complexity Index",
-   "url": "https://ikea.greg.technology/",
-   "summary": "HN 114점 · 댓글 68개 · https://news.ycombinator.com/item?id=48955042",
-   "published_utc": "2026-07-18T03:51:42Z"
+   "source": "Reddit-technology",
+   "title": "$100,000 monthly fee for fast feed of US president’s posts — Family company has quoted the six-figure sum for high-speed access to Truth Social platform",
+   "url": "https://www.reddit.com/r/technology/comments/1uzl7fz/100000_monthly_fee_for_fast_feed_of_us_presidents/",
+   "summary": "submitted by /u/marketrent [link] [comments]",
+   "published_utc": "2026-07-18T03:51:20+00:00"
   },
   {
    "source": "HackerNews",
    "title": "Regressive JPEGs",
    "url": "https://maurycyz.com/projects/bad_jpeg/",
-   "summary": "HN 528점 · 댓글 53개 · https://news.ycombinator.com/item?id=48954851",
+   "summary": "HN 622점 · 댓글 62개 · https://news.ycombinator.com/item?id=48954851",
    "published_utc": "2026-07-18T03:14:20Z"
-  },
-  {
-   "source": "WSJ-World",
-   "title": "Why Canada’s Wildfires Are So Hard to Put Out",
-   "url": "https://www.wsj.com/world/americas/canada-wildfire-smoke-response-d0d3613a",
-   "summary": "Almost 900 blazes are burning across a vast boreal forest in the country’s hardest-to-reach, least-populous areas.",
-   "published_utc": "2026-07-18T02:49:00+00:00"
   },
   {
    "source": "Reddit-technology",
@@ -277,13 +431,6 @@
    "title": "Conflict in the Gulf Has Become Much More Deadly for Commercial Sailors",
    "url": "https://www.wsj.com/world/middle-east/gulf-sailing-risk-iran-war-fb61d65a",
    "summary": "The past week has been one of the most dangerous since the Iran war started, as Tehran switched to more-lethal missiles.",
-   "published_utc": "2026-07-18T02:00:00+00:00"
-  },
-  {
-   "source": "WSJ-World",
-   "title": "Why Trump Is Going After Brazil’s Beloved Payment System",
-   "url": "https://www.wsj.com/world/americas/trump-brazil-payment-system-pix-097bacaa",
-   "summary": "The Trump administration imposed 25% tariffs on Brazil, citing its PIX payment system and other alleged unfair trade practices.",
    "published_utc": "2026-07-18T02:00:00+00:00"
   },
   {
@@ -361,7 +508,7 @@
    "title": "Cyclospora Investigation Turns to Farms in Mexico",
    "url": "https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html",
    "summary": "The F.D.A. is planning to inspect farms and a lettuce shredding facility to determine how lettuce supplied by the produce company Taylor Farms to Taco Bell became contaminated and where it was shipped.",
-   "published_utc": "2026-07-17T22:22:30+00:00"
+   "published_utc": "2026-07-17T22:22:31+00:00"
   },
   {
    "source": "WSJ-Markets",
@@ -374,7 +521,7 @@
    "source": "HackerNews",
    "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
    "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-   "summary": "HN 177점 · 댓글 63개 · https://news.ycombinator.com/item?id=48952565",
+   "summary": "HN 207점 · 댓글 83개 · https://news.ycombinator.com/item?id=48952565",
    "published_utc": "2026-07-17T21:42:43Z"
   },
   {
@@ -399,27 +546,6 @@
    "published_utc": "2026-07-17T21:08:00+00:00"
   },
   {
-   "source": "NYT-World",
-   "title": "The 20-Somethings Running Ukraine’s War Machine",
-   "url": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
-   "summary": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
-   "published_utc": "2026-07-17T20:57:50+00:00"
-  },
-  {
-   "source": "HackerNews",
-   "title": "Static search trees: 40x faster than binary search (2024)",
-   "url": "https://curiouscoding.nl/posts/static-search-tree/",
-   "summary": "HN 163점 · 댓글 13개 · https://news.ycombinator.com/item?id=48951898",
-   "published_utc": "2026-07-17T20:24:55Z"
-  },
-  {
-   "source": "Reddit-technology",
-   "title": "With a $15 billion net worth, Palantir CEO Alex Karp predicts he will get 20x richer from AI—but that middle-class workers will get just modest raises | Fortune",
-   "url": "https://www.reddit.com/r/technology/comments/1uzb3et/with_a_15_billion_net_worth_palantir_ceo_alex/",
-   "summary": "submitted by /u/fmcortez [link] [comments]",
-   "published_utc": "2026-07-17T20:23:27+00:00"
-  },
-  {
    "source": "WSJ-Tech",
    "title": "Meet the Companies Shelling Out for Top AI Models",
    "url": "https://www.wsj.com/cio-journal/meet-the-companies-shelling-out-for-top-ai-models-e1fe3375?mod=rss_Technology",
@@ -441,32 +567,11 @@
    "published_utc": "2026-07-17T20:04:00+00:00"
   },
   {
-   "source": "Reddit-technology",
-   "title": "Kevin O’Leary claimed opposition to his Utah data center was fueled by Chinese money. Now he and Fox News are being sued for defamation",
-   "url": "https://www.reddit.com/r/technology/comments/1uzac76/kevin_oleary_claimed_opposition_to_his_utah_data/",
-   "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-   "published_utc": "2026-07-17T19:55:07+00:00"
-  },
-  {
    "source": "HackerNews",
    "title": "The Zilog Z80 has turned 50",
    "url": "https://goliath32.com/blog/z80.html",
-   "summary": "HN 253점 · 댓글 100개 · https://news.ycombinator.com/item?id=48951461",
+   "summary": "HN 269점 · 댓글 105개 · https://news.ycombinator.com/item?id=48951461",
    "published_utc": "2026-07-17T19:41:02Z"
-  },
-  {
-   "source": "Reddit-technology",
-   "title": "Poland bans “trash streams” with prison sentences for streamers who profit from violence & humiliation",
-   "url": "https://www.reddit.com/r/technology/comments/1uz9lcb/poland_bans_trash_streams_with_prison_sentences/",
-   "summary": "submitted by /u/Dilpickle2113 [link] [comments]",
-   "published_utc": "2026-07-17T19:27:16+00:00"
-  },
-  {
-   "source": "Reddit-technology",
-   "title": "SoftBank CEO Says You’re Too Stupid to Understand What’s Going on If You Believe the AI Bubble Is Real",
-   "url": "https://www.reddit.com/r/technology/comments/1uz951e/softbank_ceo_says_youre_too_stupid_to_understand/",
-   "summary": "submitted by /u/IKeepItLayingAround [link] [comments]",
-   "published_utc": "2026-07-17T19:10:53+00:00"
   },
   {
    "source": "WSJ-Tech",
@@ -494,28 +599,7 @@
    "title": "X and Music Publishers Retreat From Lawsuits",
    "url": "https://www.nytimes.com/2026/07/17/arts/music/x-music-lawsuits.html",
    "summary": "Elon Musk’s social media platform and the music companies agreed to dismiss dueling claims, from 2023 and 2026. They have not said why.",
-   "published_utc": "2026-07-17T18:16:00+00:00"
-  },
-  {
-   "source": "Reddit-technology",
-   "title": "ICE to Pay Thomson Reuters $125 Million to Find \"Voter Fraud\" | A new procurement record says ICE wants access to personal data, including names, Social Security numbers, and ethnicity, to investigate in part what the agency calls “voters fraud.”",
-   "url": "https://www.reddit.com/r/technology/comments/1uz73i2/ice_to_pay_thomson_reuters_125_million_to_find/",
-   "summary": "submitted by /u/ControlCAD [link] [comments]",
-   "published_utc": "2026-07-17T17:57:29+00:00"
-  },
-  {
-   "source": "Reddit-technology",
-   "title": "SpaceX stock drops to a new low and loses $1 trillion in value in a month",
-   "url": "https://www.reddit.com/r/technology/comments/1uz6zsr/spacex_stock_drops_to_a_new_low_and_loses_1/",
-   "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-   "published_utc": "2026-07-17T17:53:51+00:00"
-  },
-  {
-   "source": "HackerNews",
-   "title": "Learning a few things about running SQLite",
-   "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-   "summary": "HN 292점 · 댓글 75개 · https://news.ycombinator.com/item?id=48950122",
-   "published_utc": "2026-07-17T17:45:41Z"
+   "published_utc": "2026-07-17T18:16:01+00:00"
   },
   {
    "source": "NYT-Technology",
@@ -525,25 +609,11 @@
    "published_utc": "2026-07-17T17:44:24+00:00"
   },
   {
-   "source": "WSJ-Tech",
-   "title": "Meta Plans to Hire Top Amazon Computing Executive as It Weighs Cloud Push",
-   "url": "https://www.wsj.com/tech/meta-plans-to-hire-top-amazon-computing-executive-as-it-weighs-cloud-push-2166869b?mod=rss_Technology",
-   "summary": "Dave Brown, one of the most senior executives at Amazon Web Services, will bring his nearly two decades of experience to the social-media giant.",
-   "published_utc": "2026-07-17T17:41:00+00:00"
-  },
-  {
    "source": "NYT-Business",
    "title": "Pentagon’s Escort Policy for Journalists Is Temporarily Restored",
    "url": "https://www.nytimes.com/2026/07/17/business/media/pentagon-reporters-nytimes.html",
    "summary": "An appeals court said the Defense Department could require escorts for reporters who visit the Pentagon while The New York Times sues to overturn the rule.",
    "published_utc": "2026-07-17T17:38:59+00:00"
-  },
-  {
-   "source": "Reddit-technology",
-   "title": "Flock Said Its Cameras Don't Track People. Then a Reporter Proved Them Wrong On Video",
-   "url": "https://www.reddit.com/r/technology/comments/1uz5y37/flock_said_its_cameras_dont_track_people_then_a/",
-   "summary": "submitted by /u/Plastic_Ninja_9014 [link] [comments]",
-   "published_utc": "2026-07-17T17:16:27+00:00"
   },
   {
    "source": "WSJ-World",
@@ -553,25 +623,11 @@
    "published_utc": "2026-07-17T17:12:00+00:00"
   },
   {
-   "source": "HackerNews",
-   "title": "Thanks HN for 15 years of support and helping me find my life's work",
-   "url": "https://news.ycombinator.com/item?id=48949551",
-   "summary": "HN 720점 · 댓글 85개 · https://news.ycombinator.com/item?id=48949551",
-   "published_utc": "2026-07-17T16:57:27Z"
-  },
-  {
    "source": "NYT-Business",
    "title": "America’s Enterprising Spirit Is Booming After Decades-Long Slump",
    "url": "https://www.nytimes.com/2026/07/17/business/economy/american-small-business-boom.html",
    "summary": "Hundreds of thousands of people are creating companies each year, ending a decades-long drought.",
    "published_utc": "2026-07-17T16:51:43+00:00"
-  },
-  {
-   "source": "Reddit-technology",
-   "title": "Xi offers AI olive branch to the world, calling for 'symphony of global cooperation' | Development and governance of artificial intelligence should be a global effort, Chinese President Xi Jinping said Friday",
-   "url": "https://www.reddit.com/r/technology/comments/1uz4tog/xi_offers_ai_olive_branch_to_the_world_calling/",
-   "summary": "submitted by /u/Just-Grocery-2229 [link] [comments]",
-   "published_utc": "2026-07-17T16:36:08+00:00"
   },
   {
    "source": "WSJ-Tech",
@@ -595,34 +651,6 @@
    "published_utc": "2026-07-17T14:49:00+00:00"
   },
   {
-   "source": "HackerNews",
-   "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-   "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
-   "summary": "HN 377점 · 댓글 201개 · https://news.ycombinator.com/item?id=48947717",
-   "published_utc": "2026-07-17T14:21:51Z"
-  },
-  {
-   "source": "HackerNews",
-   "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-   "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-   "summary": "HN 491점 · 댓글 289개 · https://news.ycombinator.com/item?id=48947560",
-   "published_utc": "2026-07-17T14:06:13Z"
-  },
-  {
-   "source": "NYT-Business",
-   "title": "States Rush to Fill Graduate Loan Gap Opened by G.O.P. Budget Bill",
-   "url": "https://www.nytimes.com/2026/07/17/your-money/states-graduate-loans-us-government.html",
-   "summary": "Minnesota and Connecticut are two of the states expanding their loan options. “We see it as a substitute program,” one official said.",
-   "published_utc": "2026-07-17T13:00:08+00:00"
-  },
-  {
-   "source": "NYT-World",
-   "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
-   "url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
-   "summary": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
-   "published_utc": "2026-07-17T12:46:57+00:00"
-  },
-  {
    "source": "WSJ-Markets",
    "title": "Fifth Third Profit Boosted by Comerica Acquisition",
    "url": "https://www.wsj.com/business/earnings/fifth-third-profit-boosted-by-comerica-acquisition-bae8e106?mod=rss_markets_main",
@@ -635,13 +663,6 @@
    "url": "https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html",
    "summary": "“I don’t know if the public understands this, but these companies hate each other.”",
    "published_utc": "2026-07-17T11:00:03+00:00"
-  },
-  {
-   "source": "HackerNews",
-   "title": "AWS: Inaccurate Estimated Billing Data – $1.7 billion",
-   "url": "https://news.ycombinator.com/item?id=48945241",
-   "summary": "HN 1246점 · 댓글 722개 · https://news.ycombinator.com/item?id=48945241",
-   "published_utc": "2026-07-17T09:42:05Z"
   },
   {
    "source": "WSJ-Markets",
@@ -665,25 +686,11 @@
    "published_utc": "2026-07-16T23:30:00+00:00"
   },
   {
-   "source": "WSJ-World",
-   "title": "U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes",
-   "url": "https://www.wsj.com/world/middle-east/u-s-targets-iranian-bridges-in-bid-to-choke-off-regimes-supply-routes-5ab1c512",
-   "summary": "The strikes were aimed at Iranian sites used to launch attacks on commercial ships near the Strait of Hormuz.",
-   "published_utc": "2026-07-16T23:01:00+00:00"
-  },
-  {
    "source": "WSJ-Markets",
    "title": "Financial Services Roundup: Market Talk",
    "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-26f0cae4?mod=rss_markets_main",
    "summary": "Find insight on the PayPal acquisition, Partners Group, UniCredit, Chinese banks and more in the latest Market Talks covering financial services.",
    "published_utc": "2026-07-16T21:04:00+00:00"
-  },
-  {
-   "source": "WSJ-World",
-   "title": "Saudi Arabia Was in the Midst of Transformation. Then Came the Iran War.",
-   "url": "https://www.wsj.com/world/middle-east/saudi-arabia-riyadh-iran-war-99434d4b",
-   "summary": "A former ambassador on how the kingdom can protect its multibillion-dollar societal investment.",
-   "published_utc": "2026-07-16T20:48:00+00:00"
   },
   {
    "source": "NYT-Technology",
@@ -705,13 +712,6 @@
    "url": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
    "summary": "The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.",
    "published_utc": "2026-07-16T17:06:37+00:00"
-  },
-  {
-   "source": "WSJ-World",
-   "title": "Chevron Will Explore Creating Strait of Hormuz Alternative for Iraqi Oil",
-   "url": "https://www.wsj.com/world/middle-east/chevron-will-explore-creating-strait-of-hormuz-alternative-for-iraqi-oil-36308abf",
-   "summary": "The U.S. energy producer is looking at investing in oil fields and a pipeline to boost Iraq’s oil exports.",
-   "published_utc": "2026-07-16T16:48:00+00:00"
   },
   {
    "source": "NYT-Technology",
@@ -819,6 +819,13 @@
    "published_utc": "2026-07-15T09:30:00+00:00"
   },
   {
+   "source": "HackerNews",
+   "title": "Is this the end of the once-mighty GoPro?",
+   "url": "https://amateurphotographer.com/latest/photo-news/going-going-gone-is-this-the-end-of-the-once-mighty-gopro/",
+   "summary": "HN 160점 · 댓글 312개 · https://news.ycombinator.com/item?id=48916044",
+   "published_utc": "2026-07-15T03:46:35Z"
+  },
+  {
    "source": "NYT-Technology",
    "title": "Data Centers to Add Billions in Power Costs in 13 States",
    "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
@@ -836,15 +843,8 @@
    "source": "HackerNews",
    "title": "Reviving a 15-year-old netbook with Arch Linux",
    "url": "https://parksb.github.io/en/article/41.html",
-   "summary": "HN 177점 · 댓글 110개 · https://news.ycombinator.com/item?id=48907063",
+   "summary": "HN 205점 · 댓글 142개 · https://news.ycombinator.com/item?id=48907063",
    "published_utc": "2026-07-14T14:02:36Z"
-  },
-  {
-   "source": "NYT-Technology",
-   "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
-   "url": "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
-   "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
-   "published_utc": "2026-07-14T13:19:12+00:00"
   },
   {
    "source": "WSJ-Markets",
