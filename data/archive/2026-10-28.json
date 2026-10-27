@@ -1,0 +1,871 @@
+{
+ "generated_at_utc": "2026-10-27T23:55:15+00:00",
+ "generated_at_kst": "2026-10-28T08:55:15+09:00",
+ "source_status": {
+  "HackerNews": {
+   "ok": true,
+   "count": 15
+  },
+  "NYT-World": {
+   "ok": true,
+   "count": 15
+  },
+  "NYT-Technology": {
+   "ok": true,
+   "count": 15
+  },
+  "NYT-Business": {
+   "ok": true,
+   "count": 15
+  },
+  "WSJ-World": {
+   "ok": true,
+   "count": 15
+  },
+  "WSJ-Tech": {
+   "ok": true,
+   "count": 15
+  },
+  "WSJ-Markets": {
+   "ok": true,
+   "count": 15
+  },
+  "Reddit-technology": {
+   "ok": true,
+   "count": 15
+  },
+  "Reddit-programming": {
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/programming/top/.rss?t=day"
+  }
+ },
+ "total_items": 118,
+ "items": [
+  {
+   "source": "NYT-World",
+   "title": "Live Updates: Opposition Holds Slim Lead Over Netanyahu’s Coalition in Israeli Elections",
+   "url": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+   "summary": "Exit polls showed no clear winner after the highest voter turnout in decades. A bloc of parties led by the former military chief Gadi Eisenkot is trying to unseat Prime Minister Benjamin Netanyahu and his right-wing allies.",
+   "published_utc": "2026-10-27T23:44:30+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "King Charles Faces High Stakes Test With Caribbean Tour",
+   "url": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
+   "summary": "The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting.",
+   "published_utc": "2026-10-27T23:39:58+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "U.S. to Issue Visa for Brazil’s Flávio Bolsonaro as Questions Swirl About His Location",
+   "url": "https://www.wsj.com/world/americas/brazil-cancels-bolsonaros-passports-as-questions-swirl-about-his-location-9e8561fe?mod=rss_worldnews",
+   "summary": "Brazil canceled Bolsonaro’s passports after he defied a Supreme Court order to turn over the documents, a Brazilian official said.",
+   "published_utc": "2026-10-27T22:22:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Bots Drive Online Chatter About Races in Kansas and Texas",
+   "url": "https://www.nytimes.com/2026/10/27/business/senate-races-kansas-texas-bots.html",
+   "summary": "Much of the online discourse about Senate races in Texas and Kansas is coming from accounts that appear to be automated, according to new research.",
+   "published_utc": "2026-10-27T22:10:26+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "In Israel’s Election, It’s Nationalism vs. Founding Ideals",
+   "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
+   "summary": "As Israel votes, ever more strident hard-right views compete with hopes for a diverse land. The outcome could shape the country’s identity for years.",
+   "published_utc": "2026-10-27T21:49:04+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Early Israeli Exit Polls Show No Clear Winner",
+   "url": "https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews",
+   "summary": "A historically high turnout and a bitterly divided electorate mean it could be weeks or longer before a new prime minister is picked.",
+   "published_utc": "2026-10-27T21:45:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Apple Knows Some iPhone Duos Have a Major Issue",
+   "url": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_Technology",
+   "summary": "Plus, Brazil canceled Flávio Bolsonaro’s passport, and a $300 billion “debt wall” is looming over private-equity backed companies.",
+   "published_utc": "2026-10-27T21:21:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Apple Knows Some iPhone Duos Have a Major Issue",
+   "url": "https://www.wsj.com/tech/personal-tech/apple-knows-some-iphone-duos-have-a-major-issue-990f1dca?mod=rss_markets_main",
+   "summary": "Plus, Brazil canceled Flávio Bolsonaro’s passport, and a $300 billion “debt wall” is looming over private-equity backed companies.",
+   "published_utc": "2026-10-27T21:21:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Tensions Between North and South Korea Stem From Decade-Old Border Dispute",
+   "url": "https://www.nytimes.com/2026/10/27/world/asia/korea-tensions-border-dmz-mdl.html",
+   "summary": "A heated disagreement over recent land mine explosions is part of the legacy of the truce that halted the Korean War 73 years ago.",
+   "published_utc": "2026-10-27T21:00:08+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Tech, Media & Telecom Roundup: Market Talk",
+   "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-c4aa51dc?mod=rss_Technology",
+   "summary": "Find insight on Corning, PayPal and more in the latest Market Talks covering Technology, Media and Telecom.",
+   "published_utc": "2026-10-27T20:56:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Financial Services Roundup: Market Talk",
+   "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-43324d13?mod=rss_markets_main",
+   "summary": "Find insight on Advent International, Robinhood and more in the latest Market Talks covering Financial Services.",
+   "published_utc": "2026-10-27T20:53:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "European Leaders Split Over Phone Call to Putin",
+   "url": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+   "summary": "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders.",
+   "published_utc": "2026-10-27T20:49:50+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "India Evacuates Tens of Thousands as Cyclone Arnab Approaches",
+   "url": "https://www.nytimes.com/2026/10/27/world/asia/india-cyclone-arnab-evacuations-nepal.html",
+   "summary": "The storm, Arnab, is forecast to make landfall Wednesday on the country’s eastern coast and then cut inland and head north toward Nepal.",
+   "published_utc": "2026-10-27T20:32:40+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Overseas Handler Linked to Iran Behind Foiled RAF Air Base Attack",
+   "url": "https://www.wsj.com/world/middle-east/u-k-police-charge-british-man-with-assisting-iran-in-foiled-air-base-attack-aaf40c9d?mod=rss_worldnews",
+   "summary": "Mohmed Ahmad Abdulkarim was charged with assisting a foreign intelligence service, which police believe to be Iran.",
+   "published_utc": "2026-10-27T20:32:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Tech Stocks Power Higher, Oil Cools",
+   "url": "https://www.wsj.com/finance/stocks/tech-stocks-power-higher-oil-cools-724e6a63?mod=rss_markets_main",
+   "summary": "Plus, Boeing shares slide on new losses and Weil Gotshal hires bankruptcy lawyer",
+   "published_utc": "2026-10-27T20:23:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Tailscale SSH: Investigation and remediation update",
+   "url": "https://tailscale.com/ssh-investigation-update",
+   "summary": "HN 159점 · 댓글 93개 · https://news.ycombinator.com/item?id=50264857",
+   "published_utc": "2026-10-27T19:55:21Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "url": "https://www.brangus.io/survival-llm",
+   "summary": "HN 141점 · 댓글 88개 · https://news.ycombinator.com/item?id=50264853",
+   "published_utc": "2026-10-27T19:55:06Z"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Anthropic illegally trained Claude with Stanford professors’ books",
+   "url": "https://www.reddit.com/r/technology/comments/1xh2tk1/anthropic_illegally_trained_claude_with_stanford/",
+   "summary": "submitted by /u/LogicalDirect [link] [comments]",
+   "published_utc": "2026-10-27T19:52:05+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Oil Futures Fall as Market Holds Out Hope for Middle East Diplomacy",
+   "url": "https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-assess-iran-diplomacy-saudi-attacks-95bb0210?mod=rss_worldnews",
+   "summary": "Oil prices fell, with U.S. benchmark crude slipping back under $100 a barrel as traders held out hopes for regional diplomatic efforts to ease Middle East tensions.",
+   "published_utc": "2026-10-27T19:23:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Who Stands to Gain From an Anthropic I.P.O.",
+   "url": "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html",
+   "summary": "Wall Street banks and chipmakers are among those poised to capitalize on the artificial intelligence giant’s public trading debut.",
+   "published_utc": "2026-10-27T19:17:28+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "AI startup hacks Anthropic in 12 hours, gains access to employee details and internal messages",
+   "url": "https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/",
+   "summary": "submitted by /u/Malor777 [link] [comments]",
+   "published_utc": "2026-10-27T19:00:08+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Why Is Halloween Candy So Expensive?",
+   "url": "https://www.nytimes.com/2026/10/27/dining/halloween-candy-prices.html",
+   "summary": "The average cost of a 100-piece bag has jumped 71 percent in the last five years. Consumers are thinking twice about what they’ll spend.",
+   "published_utc": "2026-10-27T18:49:47+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Grand Theft Auto 6 Download Size Revealed To Be 210 GB",
+   "url": "https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/",
+   "summary": "submitted by /u/Puzzleheaded_irl [link] [comments]",
+   "published_utc": "2026-10-27T18:49:26+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+   "url": "https://www.reddit.com/r/technology/comments/1xh125c/trump_wants_to_ban_use_of_the_term_artificial/",
+   "summary": "submitted by /u/MoneyLibrarian9032 [link] [comments]",
+   "published_utc": "2026-10-27T18:46:38+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Discord will soon let anyone find public server messages through Google",
+   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+   "summary": "HN 206점 · 댓글 118개 · https://news.ycombinator.com/item?id=50263854",
+   "published_utc": "2026-10-27T18:44:17Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Jordan Says Its Deadly Strikes in Syria Targeted Islamic State",
+   "url": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
+   "summary": "The airstrikes late Monday, which a Syrian agency said killed at least seven civilians, were in retaliation for an attack on a Jordanian church, Jordan said.",
+   "published_utc": "2026-10-27T18:33:27+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Tech Stocks Add to Gains After Yesterday’s Anthropic Rally",
+   "url": "https://www.wsj.com/finance/stocks/stock-futures-steady-as-anthropic-rally-stalls-israel-election-in-focus-9c4f12ad?mod=rss_worldnews",
+   "summary": "The Anthropic-inspired rally yesterday is extending into day two: Tech stocks are up, pushing the Nasdaq more than 1% higher.",
+   "published_utc": "2026-10-27T18:29:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "South Africa Deploys 500 Soldiers to Quell Anti-Immigration Violence",
+   "url": "https://www.nytimes.com/2026/10/27/world/africa/south-africa-durban-soldiers.html",
+   "summary": "The deployment comes after a foreign national was beaten to death by a mob during an anti-immigrant protest last week.",
+   "published_utc": "2026-10-27T18:28:59+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Wanted: Robot-Dog Walkers. $20/Hour.",
+   "url": "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
+   "summary": "No pooper scooper required.",
+   "published_utc": "2026-10-27T18:20:48+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Weil Gotshal Enlists Bankruptcy Lawyer, as Firm’s Situation Worsens",
+   "url": "https://www.wsj.com/business/weil-gotshal-leaders-spent-frantic-weekend-trying-to-stabilize-law-firm-3a1f6f31?mod=rss_markets_main",
+   "summary": "After a marathon partners’ meeting on Sunday, the law firm has tapped Davis Polk to advise on potential options.",
+   "published_utc": "2026-10-27T18:09:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+   "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_Technology",
+   "summary": "The deal, announced on Monday, is the biggest ever to raise money for AI infrastructure.",
+   "published_utc": "2026-10-27T17:50:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Broadcom CEO Intervened to Seal $63 Billion Anthropic Debt Deal",
+   "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f?mod=rss_markets_main",
+   "summary": "The deal, announced on Monday, is the biggest ever to raise money for AI infrastructure.",
+   "published_utc": "2026-10-27T17:50:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
+   "url": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
+   "summary": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies.",
+   "published_utc": "2026-10-27T17:46:24+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Discord will soon let anyone find public server messages through Google",
+   "url": "https://www.reddit.com/r/technology/comments/1xgz3ff/discord_will_soon_let_anyone_find_public_server/",
+   "summary": "submitted by /u/Dilpickle2113 [link] [comments]",
+   "published_utc": "2026-10-27T17:35:04+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+   "url": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
+   "summary": "The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.",
+   "published_utc": "2026-10-27T17:30:52+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Egyptian Court Orders News Site Closed as Critics Warn of a Crackdown",
+   "url": "https://www.nytimes.com/2026/10/27/world/europe/egypt-press-crackdown-mada-masr-attalah.html",
+   "summary": "Mada Masr, one of Egypt’s few independent media outlets, said a judge ordered it closed for operating without a license and detained its editor in chief.",
+   "published_utc": "2026-10-27T17:21:41+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Serbian Students, Victorious and Leaderless, Go After the Media",
+   "url": "https://www.nytimes.com/2026/10/27/world/europe/serbia-student-list-news-media-vucic.html",
+   "summary": "Supporters of the opposition movement that won Sunday’s election stormed the offices of a pro-government tabloid. Another news outlet apologized for years of “one-sided” coverage.",
+   "published_utc": "2026-10-27T17:14:59+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Ghostty 1.4",
+   "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+   "summary": "HN 670점 · 댓글 206개 · https://news.ycombinator.com/item?id=50261998",
+   "published_utc": "2026-10-27T16:51:22Z"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Flock Reinstalled Its Cameras After Another City Canceled Its Contract",
+   "url": "https://www.reddit.com/r/technology/comments/1xgxgof/flock_reinstalled_its_cameras_after_another_city/",
+   "summary": "submitted by /u/TripleShotPls [link] [comments]",
+   "published_utc": "2026-10-27T16:36:25+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Classification of Finite Simple Groups Formalized in Lean",
+   "url": "https://cfsg.axiommath.ai/",
+   "summary": "HN 155점 · 댓글 41개 · https://news.ycombinator.com/item?id=50261647",
+   "published_utc": "2026-10-27T16:29:02Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "summary": "HN 215점 · 댓글 121개 · https://news.ycombinator.com/item?id=50261589",
+   "published_utc": "2026-10-27T16:25:30Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "New 14‑inch MacBook Pro with M6",
+   "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+   "summary": "HN 258점 · 댓글 309개 · https://news.ycombinator.com/item?id=50261352",
+   "published_utc": "2026-10-27T16:08:32Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Genie 4",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "summary": "HN 668점 · 댓글 406개 · https://news.ycombinator.com/item?id=50261319",
+   "published_utc": "2026-10-27T16:06:01Z"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "We Went to Cuba to See How the Fuel Crisis Is Forcing Havana to Open Its Economy",
+   "url": "https://www.wsj.com/world/americas/we-went-to-cuba-to-see-how-the-fuel-crisis-is-forcing-havana-to-open-its-economy-5faeb35d?mod=rss_worldnews",
+   "summary": "Watch to learn why escalating sanctions and a fuel blockade haven’t toppled Cuba’s regime but are transforming its economy.",
+   "published_utc": "2026-10-27T16:03:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Why Anthropic’s Rivals are Rooting for its IPO",
+   "url": "https://www.wsj.com/tech/ai/why-anthropics-rivals-are-rooting-for-its-ipo-ce347cd6?mod=rss_Technology",
+   "summary": "Plus, a $63 billion debt deal for AI chips, and Meta goes on a borrowing spree.",
+   "published_utc": "2026-10-27T16:00:00+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Microsoft And Epic Games Suddenly Agree That AI Is Theft",
+   "url": "https://www.reddit.com/r/technology/comments/1xgw83y/microsoft_and_epic_games_suddenly_agree_that_ai/",
+   "summary": "submitted by /u/tylerthe-theatre [link] [comments]",
+   "published_utc": "2026-10-27T15:51:28+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "2 Right-Wingers Who Broke With Netanyahu Could Bid to Unseat Him",
+   "url": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-avigdor-liberman-naftali-bennett.html",
+   "summary": "The political evolutions of Naftali Bennett, a former prime minister, and Avigdor Liberman, a former defense minister, are indicative of how Benjamin Netanyahu has polarized Israel.",
+   "published_utc": "2026-10-27T15:46:09+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "‘I Felt Blind Panic.’ They Opened Their New $2,000 iPhone Duo—and It Broke.",
+   "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-broken-hinge-screen-31b2b28a?mod=rss_Technology",
+   "summary": "Apple acknowledges an issue affecting the interior, folding screen on a ‘small number of iPhone Duo units.’",
+   "published_utc": "2026-10-27T15:37:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "summary": "HN 426점 · 댓글 240개 · https://news.ycombinator.com/item?id=50260814",
+   "published_utc": "2026-10-27T15:28:26Z"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Apple cuts 400+ jobs, directors sacked as new CEO John Ternus swings the axe",
+   "url": "https://www.reddit.com/r/technology/comments/1xgvkud/apple_cuts_400_jobs_directors_sacked_as_new_ceo/",
+   "summary": "submitted by /u/lurker_bee [link] [comments]",
+   "published_utc": "2026-10-27T15:27:33+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+   "url": "https://www.reddit.com/r/technology/comments/1xgvhqp/the_us_government_is_hiding_a_secret_court_ruling/",
+   "summary": "submitted by /u/Patient-Emphasis-664 [link] [comments]",
+   "published_utc": "2026-10-27T15:24:24+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
+   "url": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
+   "summary": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.",
+   "published_utc": "2026-10-27T14:55:35+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Don’t Let Politics Poison Your Portfolio",
+   "url": "https://www.wsj.com/finance/investing/dont-let-politics-poison-your-portfolio-f346b227?mod=rss_markets_main",
+   "summary": "Plus, not much FOMO on private markets.",
+   "published_utc": "2026-10-27T14:55:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "China Steps In to Rescue Stocks, But the Market Continues to Fall",
+   "url": "https://www.nytimes.com/2026/10/27/business/china-stocks-losses-government-intervention.html",
+   "summary": "The Communist Party uses a “national team” of state-owned investment funds to stem the market rout. But this time, investors are not sure it will work.",
+   "published_utc": "2026-10-27T14:15:17+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "‘My social life completely plummeted’: gen Z is fighting back against big tech | From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attention",
+   "url": "https://www.reddit.com/r/technology/comments/1xgtoj2/my_social_life_completely_plummeted_gen_z_is/",
+   "summary": "submitted by /u/Hrmbee [link] [comments]",
+   "published_utc": "2026-10-27T14:14:09+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+   "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+   "summary": "HN 736점 · 댓글 267개 · https://news.ycombinator.com/item?id=50259604",
+   "published_utc": "2026-10-27T14:06:42Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Meghan, Actress Turned Duchess, Will Join Australian Cooking Show",
+   "url": "https://www.nytimes.com/2026/10/27/world/europe/meghan-junior-masterchef-australia.html",
+   "summary": "The Duchess of Sussex will be a “special guest” next year on “Junior MasterChef Australia,” the channel that airs it announced.",
+   "published_utc": "2026-10-27T13:56:22+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Anthropic Says Enterprise AI Adoption Remains in ‘Early Phases’",
+   "url": "https://www.wsj.com/cio-journal/anthropic-says-enterprise-ai-adoption-remains-in-early-phases-d3e93c47?mod=rss_Technology",
+   "summary": "Plus, Nvidia to invest $3 billion in Meta’s equity offering",
+   "published_utc": "2026-10-27T13:24:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Here be monsters: What do you still need to know when agents do the work?",
+   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+   "summary": "HN 145점 · 댓글 74개 · https://news.ycombinator.com/item?id=50258868",
+   "published_utc": "2026-10-27T13:23:22Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "New iMac with M6",
+   "url": "https://www.apple.com/imac/",
+   "summary": "HN 297점 · 댓글 357개 · https://news.ycombinator.com/item?id=50258538",
+   "published_utc": "2026-10-27T13:02:02Z"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Palmer Luckey’s New Weapon: The American-Made Laptop",
+   "url": "https://www.wsj.com/tech/palmer-luckeys-new-weapon-the-american-made-laptop-5e17c6f0?mod=rss_Technology",
+   "summary": "A joint venture between Anduril and Qualcomm aims to make rugged laptops for the military and government.",
+   "published_utc": "2026-10-27T13:00:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "California’s Potential Quartz Ban Pushes Contractors and Retailers to Alternatives",
+   "url": "https://www.nytimes.com/2026/10/26/business/economy/california-quartz-countertop-ban-alternatives.html",
+   "summary": "Manufacturers and their customers are using materials made without the clouds of dust that have sickened workers in quartz-cutting shops.",
+   "published_utc": "2026-10-27T12:58:19+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "The EPA is quietly killing its web archive",
+   "url": "https://www.reddit.com/r/technology/comments/1xgrnt6/the_epa_is_quietly_killing_its_web_archive/",
+   "summary": "submitted by /u/LogicalDirect [link] [comments]",
+   "published_utc": "2026-10-27T12:50:58+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Sunlight at night: US startup’s demonstration of lighting Earth from space draws criticism",
+   "url": "https://www.reddit.com/r/technology/comments/1xgrnph/sunlight_at_night_us_startups_demonstration_of/",
+   "summary": "submitted by /u/Wagamaga [link] [comments]",
+   "published_utc": "2026-10-27T12:50:51+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "'Constant surveillance is pushing us toward an authoritarian state': voters demand regulation of Flock cameras",
+   "url": "https://www.reddit.com/r/technology/comments/1xgrezg/constant_surveillance_is_pushing_us_toward_an/",
+   "summary": "submitted by /u/Vucea [link] [comments]",
+   "published_utc": "2026-10-27T12:39:22+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "A $300 Billion ‘Debt Wall’ Is Looming Over Private-Equity Backed Companies",
+   "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497?mod=rss_markets_main",
+   "summary": "Software firms account for about a third of the risky corporate loans due in 2028 and 2029.",
+   "published_utc": "2026-10-27T12:17:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "The Morning Risk Report: The Biggest Takeaways From Anthropic’s IPO Prospectus",
+   "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-biggest-takeaways-from-anthropics-ipo-prospectus-f786ea5e?mod=rss_Technology",
+   "summary": "Plus: Florida’s role in battling big tech and China warns U.S. over investment curbs.",
+   "published_utc": "2026-10-27T11:24:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Python's experimental JIT to be removed",
+   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+   "summary": "HN 431점 · 댓글 224개 · https://news.ycombinator.com/item?id=50257419",
+   "published_utc": "2026-10-27T11:17:57Z"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Holiday Travel Costs Are Soaring. Here’s How to Save.",
+   "url": "https://www.nytimes.com/2026/10/27/travel/discounts-holiday-travel.html",
+   "summary": "As airfares and gas prices surge, here’s how you can extend your travel budget.",
+   "published_utc": "2026-10-27T11:10:27+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "summary": "HN 430점 · 댓글 199개 · https://news.ycombinator.com/item?id=50257326",
+   "published_utc": "2026-10-27T11:08:15Z"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "U.S. Pensions Are Riding the A.I. Wave. For Better or Worse.",
+   "url": "https://www.nytimes.com/2026/10/27/business/pensions-ai.html",
+   "summary": "As exuberance around the technology stokes fears of a bubble, the nation’s public pensions are starting to grapple with their role — and their risks.",
+   "published_utc": "2026-10-27T11:06:48+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Xi Wants to Play Peacemaker. Trump Has Other Ideas for a Historic Summit.",
+   "url": "https://www.wsj.com/world/china/xi-wants-to-play-peacemaker-trump-has-other-ideas-for-a-historic-summit-2c3e0be9?mod=rss_worldnews",
+   "summary": "Plus, Xinjiang goes from blacklisted to global trade hub, Xi’s purges echo Stalin’s, and Kim Jong Un makes a surprise trip to China.",
+   "published_utc": "2026-10-27T10:55:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Ceasefire Brokered by Melania Trump Begins in Starving Ukrainian City",
+   "url": "https://www.wsj.com/world/europe/ceasefire-brokered-by-melania-trump-begins-in-starving-ukrainian-city-2130ae47?mod=rss_worldnews",
+   "summary": "The pause in fighting is designed to allow humanitarian aid into the city and evacuate those who want to go.",
+   "published_utc": "2026-10-27T10:20:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "In Anthropic I.P.O., Goldman and Morgan Stanley Slug It Out for Top Bank",
+   "url": "https://www.nytimes.com/2026/10/27/business/anthropic-ipo-goldman-morgan-stanley.html",
+   "summary": "Anthropic named the Wall Street firms lead underwriters on its upcoming public offering, a role that will generate generous fees and enormous prestige.",
+   "published_utc": "2026-10-27T10:09:10+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Police have reopened a criminal investigation into sexualised deepfakes made using X’s chatbot Grok",
+   "url": "https://www.reddit.com/r/technology/comments/1xgo2dk/police_have_reopened_a_criminal_investigation/",
+   "summary": "submitted by /u/sr_local [link] [comments]",
+   "published_utc": "2026-10-27T09:41:03+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
+   "url": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_Technology",
+   "summary": "The AI developer’s losses were the flip side of the big gains for Amazon and Alphabet.",
+   "published_utc": "2026-10-27T09:30:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Microsoft Is Trying to Shed a Lot of Workers. Just Don’t Call It a Layoff.",
+   "url": "https://www.wsj.com/business/microsoft-job-cuts-buyout-offers-ff3c5dde?mod=rss_Technology",
+   "summary": "The tech giant is offering buyouts to 60,000 employees just as Skydance is also seeking volunteers to leave the company.",
+   "published_utc": "2026-10-27T09:30:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Anthropic’s ‘Adjusted’ Profit Exposes Wall Street’s Earnings Game",
+   "url": "https://www.wsj.com/finance/investing/anthropics-adjusted-profit-exposes-wall-streets-earnings-game-40cbcef1?mod=rss_markets_main",
+   "summary": "The AI developer’s losses were the flip side of the big gains for Amazon and Alphabet.",
+   "published_utc": "2026-10-27T09:30:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Stock Market Today: Tech Stocks Extend Gains After Yesterday’s Anthropic Rally",
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-27-2026?mod=rss_markets_main",
+   "summary": "In focus: Israeli elections that could prove consequential in course of Iran war",
+   "published_utc": "2026-10-27T09:21:34+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "The Fed Is Expected to Hold Rates Steady. Warsh Will Have to Explain Why.",
+   "url": "https://www.nytimes.com/2026/10/27/business/fed-interest-rates-warsh.html",
+   "summary": "Inflation is moving in the wrong direction and the labor market remains stable, a combination that bolsters the case for higher interest rates.",
+   "published_utc": "2026-10-27T09:03:48+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
+   "url": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+   "summary": "Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China.",
+   "published_utc": "2026-10-27T09:02:37+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Cease-Fire Brokered by Melania Trump Begins in Ukrainian City of Oleshky",
+   "url": "https://www.nytimes.com/2026/10/26/world/europe/ukraine-oleshky-ceasefire-russia-war.html",
+   "summary": "Many people left in Oleshky, where bombardment is constant, have run out of food. A truce that began Tuesday is supposed to allow aid in and civilians out.",
+   "published_utc": "2026-10-27T08:25:45+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Nvidia to Invest $3 Billion in Meta’s Equity Offering as They Expand AI Partnership",
+   "url": "https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a?mod=rss_Technology",
+   "summary": "The investment comes as Nvidia and Meta Platforms expand their partnership on the Facebook parent’s artificial-intelligence offering Muse.",
+   "published_utc": "2026-10-27T07:01:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "HSBC Profit Growth Misses, Plans $1 Billion Buyback",
+   "url": "https://www.wsj.com/finance/banking/hsbc-quarterly-profit-climbs-plans-1-billion-buyback-1551a999?mod=rss_markets_main",
+   "summary": "The London-based bank reported slower-than-expected quarterly profit growth, sending shares lower despite its announcement of a new share buyback of up to $1 billion.",
+   "published_utc": "2026-10-27T06:21:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean",
+   "url": "https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html",
+   "summary": "King Charles III is traveling to host a meeting of the leaders of more than 50 nations.",
+   "published_utc": "2026-10-27T04:01:13+00:00"
+  },
+  {
+   "source": "Reddit-technology",
+   "title": "Cloud gaming was once billed as cheaper than buying titles. But new pricing from Microsoft’s Xbox is eroding that argument, gamers say",
+   "url": "https://www.reddit.com/r/technology/comments/1xggoez/cloud_gaming_was_once_billed_as_cheaper_than/",
+   "summary": "submitted by /u/ControlCAD [link] [comments]",
+   "published_utc": "2026-10-27T02:27:16+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Netanyahu and His Main Opponent Disagree on Many Things—but Not Israel’s Security",
+   "url": "https://www.wsj.com/world/middle-east/netanyahu-and-his-main-opponent-disagree-on-many-thingsbut-not-israels-security-b6c9b23d?mod=rss_worldnews",
+   "summary": "The electorate’s move to the right on security issues leaves candidates little room to maneuver on Gaza, Iran and a Palestinian state.",
+   "published_utc": "2026-10-27T02:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "The ‘Buy, Borrow and Die’ Wealth Strategy Has Become a $5 Trillion Market",
+   "url": "https://www.wsj.com/finance/the-buy-borrow-and-die-wealth-strategy-has-become-a-5-trillion-market-d9149a9d?mod=rss_markets_main",
+   "summary": "A Deloitte study found a booming market in stock-based loans to billionaires—and the lesser rich.",
+   "published_utc": "2026-10-27T01:00:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "The Key Numbers From Anthropic’s IPO Filing",
+   "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-business-key-numbers.html",
+   "summary": "We broke down the A.I. company’s key figures, which give insight into the health of its business, its future plans and who’s in charge.",
+   "published_utc": "2026-10-26T20:21:29+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Microsoft Offers Buyouts to 60,000 Employees as It Spends on A.I.",
+   "url": "https://www.nytimes.com/2026/10/26/technology/microsoft-buyouts-ai-spending.html",
+   "summary": "About a quarter of the tech giant’s employees were eligible for the packages, although the company cautioned it did not expect many employees to sign on.",
+   "published_utc": "2026-10-26T20:15:39+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Brazilian Markets Convulse After Unexpected Election Result",
+   "url": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html",
+   "summary": "President Luiz Inácio Lula da Silva’s re-election victory prompted a sharp reversal in financial markets that had expected his opponent to win.",
+   "published_utc": "2026-10-26T20:07:18+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy, Saudi Attacks",
+   "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-saudi-attacks-a59376cd?mod=rss_worldnews",
+   "summary": "Oil prices fell as traders considered diplomatic efforts to ease U.S.-Iran hostilities, while further Houthi attacks on Saudi Arabia kept concerns about Middle East supply risks alive.",
+   "published_utc": "2026-10-26T19:49:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Anthropic’s IPO S-1 Spells Out a Future of Promise and Peril",
+   "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-s1-dario-amodei.html",
+   "summary": "The A.I. company took great pains to describe the many benefits that can come from using its Claude chatbot and technology, but also offered up a heavy dose of gloom.",
+   "published_utc": "2026-10-26T19:36:41+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "What’s Riding on Anthropic Going Public? Nearly Everything.",
+   "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-going-public-stakes.html",
+   "summary": "Anthropic sits atop a pyramid of business partners and suppliers, making it a barometer of the broader economy. Its initial public offering will have widespread implications.",
+   "published_utc": "2026-10-26T18:44:19+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO",
+   "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-ipo-finances.html",
+   "summary": "Ahead of what could be the largest public listing ever, Anthropic said revenue soared to $16.3 billion in the first half of the year, and it planned to spend $807 billion on A.I. infrastructure.",
+   "published_utc": "2026-10-26T18:08:07+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "DraftKings Faces Growing Pressure Over How It Targets Customers",
+   "url": "https://www.nytimes.com/2026/10/26/business/draftkings-new-york-louisiana-blumenthal.html",
+   "summary": "In Congress and in several states, officials have been questioning online gambling companies about their use of artificial intelligence.",
+   "published_utc": "2026-10-26T15:53:16+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO",
+   "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+   "summary": "Former OpenAI employees started the company in 2021 after disagreements over how to safely build artificial intelligence. An I.P.O. could make them billionaires.",
+   "published_utc": "2026-10-26T15:24:56+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
+   "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+   "summary": "HN 130점 · 댓글 20개 · https://news.ycombinator.com/item?id=50245014",
+   "published_utc": "2026-10-26T15:05:04Z"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "What’s on the Line as Israelis Prepare to Vote",
+   "url": "https://www.wsj.com/world/middle-east/israel-election-parliament-netanyahu-what-to-know-e9507c72?mod=rss_worldnews",
+   "summary": "Israelis will vote Tuesday in parliamentary elections that could decide whether longtime Prime Minister Benjamin Netanyahu remains in power or a new leader takes office.",
+   "published_utc": "2026-10-26T15:01:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Musk Is Predicting ‘Guppy-level Death’ for Scores of A.I. Companies",
+   "url": "https://www.nytimes.com/2026/10/26/business/dealbook/musk-ai-credit-shakeout.html",
+   "summary": "Elon Musk sees many artificial-intelligence infrastructure companies being shut out of the debt market, a warning that could weigh on markets.",
+   "published_utc": "2026-10-26T13:36:27+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+   "url": "https://www.nytimes.com/2026/10/26/business/meta-spacex-artificial-intelligence.html",
+   "summary": "The race to build artificial intelligence infrastructure is consuming increasingly enormous amounts of cash at the biggest tech companies.",
+   "published_utc": "2026-10-26T13:31:25+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "This German Energy Giant Is an Overlooked AI Bargain",
+   "url": "https://www.wsj.com/finance/this-german-energy-giant-is-an-overlooked-ai-bargain-c190ee76?mod=rss_markets_main",
+   "summary": "Siemens Energy is outselling GE Vernova on gas turbines.",
+   "published_utc": "2026-10-26T09:30:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Darline Graham Gets Help From the Data Center Industry in South Carolina Senate Race",
+   "url": "https://www.nytimes.com/2026/10/26/us/politics/darline-graham-data-centers-south-carolina.html",
+   "summary": "As political fights over artificial intelligence accelerate, there is now a super PAC aligned with the data center industry. Its first bet is on Ms. Graham, a Republican in an unexpectedly tight race.",
+   "published_utc": "2026-10-26T09:03:34+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "The U.S. Shipbuilding Revival Is Taking Lessons Halfway Around the World",
+   "url": "https://www.wsj.com/world/asia/the-u-s-shipbuilding-revival-is-taking-lessons-halfway-around-the-world-d60f1816?mod=rss_worldnews",
+   "summary": "South Korea’s Hanwha is a key player in President Trump’s push to revive an American industry that has ceded ground to China.",
+   "published_utc": "2026-10-25T19:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Meta’s Unending AI Spending",
+   "url": "https://www.wsj.com/tech/ai/metas-unending-ai-spending-34e53011?mod=rss_Technology",
+   "summary": "Plus, how America’s cheapest EV fared on a Deep South road trip, Demis Hassabis’s quest to solve the world’s mysteries with AI, our iPhone Duo review and more.",
+   "published_utc": "2026-10-25T14:55:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge",
+   "url": "https://www.wsj.com/world/asia/kim-jong-un-makes-surprise-trip-to-china-crosses-new-bridge-3d0f7069?mod=rss_worldnews",
+   "summary": "Ties are warming between Beijing and Pyongyang, though Chinese leader Xi Jinping didn’t attend the get-together.",
+   "published_utc": "2026-10-25T14:45:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+   "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+   "summary": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+   "published_utc": "2026-10-25T09:28:36+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Put Your A.I. Agents to Work with These 5 Killer Tasks",
+   "url": "https://www.nytimes.com/2026/10/25/technology/personaltech/openai-dots-meta-muse-killer-tasks.html",
+   "summary": "When you start using Meta’s Muse and OpenAI’s dots for these tasks — like applying for jobs and booking hard-to-get restaurant tables — you may never go back.",
+   "published_utc": "2026-10-25T09:01:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Ways to Narrow Social Security’s Shortfall",
+   "url": "https://www.wsj.com/articles/ways-to-narrow-social-securitys-shortfall-e9afdcd8?mod=rss_Technology",
+   "summary": "Plus, the nursing job crisis, the new iPhone Duo and the friend who always covers the tab.",
+   "published_utc": "2026-10-24T11:52:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Moderna Investors Should Brace for More Whiplash",
+   "url": "https://www.wsj.com/health/pharma/moderna-investors-should-brace-for-more-whiplash-5c32f32d?mod=rss_markets_main",
+   "summary": "Even after its latest sharp fall, the drugmaker’s stock price assumes wild successes.",
+   "published_utc": "2026-10-24T09:30:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Apple’s Foldable iPhone Duo Arrives in Stores: Smartphone Review",
+   "url": "https://www.nytimes.com/2026/10/23/technology/personaltech/iphone-duo-review-tablet-smartphone.html",
+   "summary": "The first-generation Apple foldable may feel awkward, but it’s an intriguing step toward merging phones and tablets into one.",
+   "published_utc": "2026-10-23T16:14:56+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Why Anger About Data Centers and Energy Prices May Not Swing Votes",
+   "url": "https://www.nytimes.com/2026/10/23/business/energy-environment/ohio-election-gas-prices.html",
+   "summary": "In Ohio, many voters say their frustration about the increase in electricity and fuel prices and the growth of data centers won’t influence whom they vote for.",
+   "published_utc": "2026-10-23T16:00:10+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Apple’s iPhone Duo Is on Sale. Good Luck Buying One.",
+   "url": "https://www.wsj.com/tech/personal-tech/apple-new-iphone-duo-552e425f?mod=rss_Technology",
+   "summary": "Despite mixed reviews, demand for the new folding iPhone is significantly outpacing the current supply.",
+   "published_utc": "2026-10-23T15:53:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Meta’s Muse Is Going Gangbusters. But Where Is the Payoff?",
+   "url": "https://www.wsj.com/finance/stocks/metas-muse-is-going-gangbusters-but-where-is-the-payoff-648d310d?mod=rss_markets_main",
+   "summary": "The Muse artificial-intelligence agent has reached 10 million downloads in a little over a month since it was launched.",
+   "published_utc": "2026-10-23T09:30:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "SpaceX: A Futuristic Berkshire Hathaway, or Just a Mess?",
+   "url": "https://www.wsj.com/tech/spacex-takes-conglomerate-building-to-sci-fi-extremes-0dd612ab?mod=rss_markets_main",
+   "summary": "Elon Musk’s mishmash of businesses will be a maze for investors to evaluate.",
+   "published_utc": "2026-10-22T13:16:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Canada to Provide Steel, Auto Sectors With Billions to Ease Trade Crunch",
+   "url": "https://www.wsj.com/world/americas/canada-to-provide-steel-auto-sectors-with-billions-to-ease-trade-crunch-c4b5ae1a?mod=rss_worldnews",
+   "summary": "It is Canada’s latest dollop of federal aid for companies that have faced financial strain since President Trump imposed hefty tariffs on foreign-made metals and automotives.",
+   "published_utc": "2026-10-21T19:59:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "iPhone Duo Review: Too Much iPhone, Too Little iPad",
+   "url": "https://www.wsj.com/tech/personal-tech/iphone-duo-review-cafcbbe7?mod=rss_Technology",
+   "summary": "Apple’s innovative folding phone is alluring for plenty of reasons, but comes with the trade-offs of a first-generation product.",
+   "published_utc": "2026-10-21T12:03:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Chinese AI Tool Linked to Hacks in Japan",
+   "url": "https://www.wsj.com/world/asia/chinese-ai-tool-linked-to-hacks-in-japan-4813d13b?mod=rss_worldnews",
+   "summary": "Around 80 Japanese companies were targeted from overseas in hacks that bore digital traces of Artex, an AI agent developed in China.",
+   "published_utc": "2026-10-21T10:30:00+00:00"
+  }
+ ]
+}
