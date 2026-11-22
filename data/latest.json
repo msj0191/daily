@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-11-21T01:39:35+00:00",
- "generated_at_kst": "2026-11-21T10:39:35+09:00",
+ "generated_at_utc": "2026-11-22T00:34:54+00:00",
+ "generated_at_kst": "2026-11-22T09:34:54+09:00",
  "source_status": {
   "HackerNews": {
    "ok": true,
@@ -39,14 +39,280 @@
    "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/programming/top/.rss?t=day"
   }
  },
- "total_items": 102,
+ "total_items": 100,
  "items": [
+  {
+   "source": "NYT-World",
+   "title": "Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man",
+   "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html",
+   "summary": "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader the F.B.I. had sought for years.",
+   "published_utc": "2026-11-22T00:01:08+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "The Penny Is Dead. Now It’s Official.",
+   "url": "https://www.nytimes.com/2026/11/21/us/politics/penny-mint-trump-common-cent-act.html",
+   "summary": "President Trump signed a law on Friday formally putting the penny out of mint, a year after it stopped being struck.",
+   "published_utc": "2026-11-21T23:12:23+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+   "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html",
+   "summary": "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+   "published_utc": "2026-11-21T21:12:23+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Pentagon Issued Memo Limiting ‘Social Activities’ With Canadian Military",
+   "url": "https://www.nytimes.com/2026/11/21/world/canada/defense-department-canada-military-trump.html",
+   "summary": "The latest salvo in the fraught U.S. relationship with Canada has not affected their vast joint military operation, including the shared airspace command, NORAD.",
+   "published_utc": "2026-11-21T20:35:07+00:00"
+  },
   {
    "source": "NYT-Business",
    "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
    "url": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
    "summary": "Questions around the company’s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
-   "published_utc": "2026-11-21T01:06:52+00:00"
+   "published_utc": "2026-11-21T20:07:36+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Mexico Captures Top Drug Boss in Fierce Gunfight",
+   "url": "https://www.wsj.com/world/americas/mexico-captures-top-drug-boss-in-fierce-gunfight-b16709ce?mod=rss_worldnews",
+   "summary": "​Fausto Isidro Meza Flores​, who controlled smuggling corridors in the border state of Sonora, was apprehended in an operation that left 11 dead.",
+   "published_utc": "2026-11-21T19:41:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "G.T.A. VI Is a Monumental Human Achievement",
+   "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+   "summary": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
+   "published_utc": "2026-11-21T19:12:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.",
+   "url": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+   "summary": "Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.",
+   "published_utc": "2026-11-21T19:11:51+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Why Nostalgia for Tamagotchis, the Virtual Pets, Won’t Die",
+   "url": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+   "summary": "Millennials are answering the beeping call of the pocket-size game that caused a sensation 30 years ago. But analog-craving Gen Zers are, too.",
+   "published_utc": "2026-11-21T18:29:14+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "summary": "HN 334점 · 댓글 90개 · https://news.ycombinator.com/item?id=50591853",
+   "published_utc": "2026-11-21T18:02:19Z"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "The Used Car Industry Is Booming. This N.J. Campus Is Setting the Price.",
+   "url": "https://www.nytimes.com/2026/11/21/business/used-car-auctions-manheim-prices.html",
+   "summary": "As new car prices rise beyond the means of most buyers, the used market has become much more important for consumers and the auto industry.",
+   "published_utc": "2026-11-21T17:59:58+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "In France’s Angry Autumn, TV News Channels Are Accused of Stirring the Pot",
+   "url": "https://www.nytimes.com/2026/11/21/world/europe/france-tv-news-channels.html",
+   "summary": "Critics say that CNews and BFM TV, two major news channels, have used racist language in protest coverage. The channels deny it.",
+   "published_utc": "2026-11-21T17:14:17+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
+   "url": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e?mod=rss_worldnews",
+   "summary": "The high-stakes shuttle service, with U.S. military help, is crucial to breaking Iran’s grip on the waterway.",
+   "published_utc": "2026-11-21T17:00:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+   "url": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+   "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
+   "published_utc": "2026-11-21T16:30:35+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "How to Protect Yourself From Scammers Exploiting Outage Chaos",
+   "url": "https://www.wsj.com/tech/personal-tech/cyber-scams-tech-outages-tips-a5500927?mod=rss_Technology",
+   "summary": "When you get an urgent message about a travel or service disruption, the first rule is: Don’t panic.",
+   "published_utc": "2026-11-21T16:00:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
+   "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+   "summary": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
+   "published_utc": "2026-11-21T15:55:46+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Show HN: Zero C# – C# without a runtime or GC",
+   "url": "https://onurgumus.github.io/zero-csharp/index.html",
+   "summary": "HN 122점 · 댓글 95개 · https://news.ycombinator.com/item?id=50590279",
+   "published_utc": "2026-11-21T15:39:09Z"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "The Russian POW Camp Where Sex Abuse Became Part of the System",
+   "url": "https://www.wsj.com/world/europe/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-465d59ef?mod=rss_worldnews",
+   "summary": "The Pakino prison is a microcosm of how Russia is systemizing the sexual abuse of Ukrainian men.",
+   "published_utc": "2026-11-21T15:00:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Lean verification of the Riemann Hypothesis",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "summary": "HN 794점 · 댓글 635개 · https://news.ycombinator.com/item?id=50589618",
+   "published_utc": "2026-11-21T14:36:45Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Catherine, Princess of Wales, Documents Life With Cancer in BBC Film",
+   "url": "https://www.nytimes.com/2026/11/21/world/europe/princess-kate-bbc-cancer-film.html",
+   "summary": "“Cancer does change you,” Catherine, who is in remission, says in a trailer for the film. It will be released this month.",
+   "published_utc": "2026-11-21T14:09:39+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
+   "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+   "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
+   "published_utc": "2026-11-21T14:04:25+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Maldon Salt’s Authenticity Is Questioned, Leaving Foodies Shaken",
+   "url": "https://www.nytimes.com/2026/11/21/world/europe/maldon-sea-salt-artisanal-scandal.html",
+   "summary": "The salt is a flaky favorite of food influencers and famous chefs. A revelation this week raised questions about what makes artisanal “artisanal.”",
+   "published_utc": "2026-11-21T14:01:15+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "U.N. Fails to Regulate Lethal Autonomous Weapons, but Plans to Try Again",
+   "url": "https://www.nytimes.com/2026/11/21/world/europe/un-lethal-autonomous-weapons.html",
+   "summary": "Major military powers like the United States and Russia expressed strong resistance to binding restrictions.",
+   "published_utc": "2026-11-21T13:35:19+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Detonating a pile of lead azide",
+   "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "summary": "HN 502점 · 댓글 333개 · https://news.ycombinator.com/item?id=50588982",
+   "published_utc": "2026-11-21T13:23:14Z"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Elon Musk on His Politics, a Potential Merger and Ukraine",
+   "url": "https://www.nytimes.com/2026/11/21/business/dealbook/elon-musk-dealbook-summit.html",
+   "summary": "The chief executive of Tesla and SpaceX spoke with Andrew Ross Sorkin at the DealBook Summit.",
+   "published_utc": "2026-11-21T13:00:06+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "On the Trail With Spain’s Prime Minister, as He Tries to Pull Out a Win",
+   "url": "https://www.nytimes.com/2026/11/21/world/europe/spain-sanchez-interview-election-basketball.html",
+   "summary": "Pedro Sánchez, Europe’s most prominent left-wing leader, seems set to lose power in an election next week. Our reporter trailed his last-ditch effort to turn his campaign around.",
+   "published_utc": "2026-11-21T12:54:44+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "My monitor was cutting my download speed by 75%",
+   "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+   "summary": "HN 462점 · 댓글 224개 · https://news.ycombinator.com/item?id=50587875",
+   "published_utc": "2026-11-21T10:36:32Z"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "The Danger of Jensen Huang’s Handshake Deals at Nvidia",
+   "url": "https://www.wsj.com/business/nvidia-jensen-huang-deals-8750daf4?mod=rss_Technology",
+   "summary": "The ousted CEO once celebrated his no-contract deals but now they look like red flags.",
+   "published_utc": "2026-11-21T10:30:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+   "url": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+   "summary": "The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.",
+   "published_utc": "2026-11-21T10:03:45+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "How to Plan for an A.I. Emergency, or Any Calamity",
+   "url": "https://www.nytimes.com/2026/11/21/business/ai-emergency-plan.html",
+   "summary": "One person’s attempt to prepare for the unthinkable.",
+   "published_utc": "2026-11-21T10:02:21+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "The Faces of the 2026 DealBook Summit",
+   "url": "https://www.nytimes.com/2026/11/21/business/dealbook/dealbook-summit-portraits.html",
+   "summary": "Our photographer made portraits of the event’s interview subjects, including Hailey Bieber, Satya Nadella and Zohran Mamdani, after they left the stage.",
+   "published_utc": "2026-11-21T10:02:15+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
+   "url": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+   "summary": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
+   "published_utc": "2026-11-21T10:02:10+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "RCE in Gnupg",
+   "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+   "summary": "HN 226점 · 댓글 93개 · https://news.ycombinator.com/item?id=50587208",
+   "published_utc": "2026-11-21T08:32:58Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
+   "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
+   "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
+   "published_utc": "2026-11-21T07:11:24+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+   "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+   "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
+   "published_utc": "2026-11-21T05:13:03+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+   "url": "https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html",
+   "summary": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
+   "published_utc": "2026-11-21T03:23:04+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Where in the World Is Mark Carney? Five Continents and 32 Countries in 113 Days",
+   "url": "https://www.wsj.com/world/americas/where-in-the-world-is-mark-carney-five-continents-and-32-countries-in-113-days-65e5bde0?mod=rss_worldnews",
+   "summary": "The Canadian prime minister has traveled far more than most world leaders, as he cements new alliances to break the country’s reliance on the U.S.",
+   "published_utc": "2026-11-21T03:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "The Blame Game Has Begun Over Anthropic’s Turbulent Trading Debut",
+   "url": "https://www.wsj.com/finance/stocks/the-blame-game-has-begun-over-anthropics-turbulent-trading-debut-280a34b1?mod=rss_markets_main",
+   "summary": "The AI giant’s stock slid in its second day of trading, at one point dropping to just 5 cents above its IPO price.",
+   "published_utc": "2026-11-21T02:16:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "The Brother-Sister Duo Who Want to Keep Anthropic Weird",
+   "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11?mod=rss_Technology",
+   "summary": "Dario and Daniela Amodei were on top of the biggest IPO ever Thursday–and a market rout one day later. It’s the latest unusual development for a company that is anything but normal.",
+   "published_utc": "2026-11-21T02:00:00+00:00"
   },
   {
    "source": "WSJ-World",
@@ -77,18 +343,11 @@
    "published_utc": "2026-11-20T23:36:00+00:00"
   },
   {
-   "source": "NYT-World",
-   "title": "White Police Officers Are Convicted of Beating a Black Man in France",
-   "url": "https://www.nytimes.com/2026/11/20/world/europe/france-police-brutality-black-producer.html",
-   "summary": "The three officers were filmed beating Michel Zecler, a music producer, inside his Paris studio in 2020, setting off a national backlash.",
-   "published_utc": "2026-11-20T23:21:51+00:00"
-  },
-  {
-   "source": "WSJ-World",
-   "title": "Indian Man Sentenced to Almost 20 Years in Murder-for-Hire Plot on U.S. Soil",
-   "url": "https://www.wsj.com/world/india/indian-man-sentenced-to-almost-20-years-in-murder-for-hire-plot-on-u-s-soil-cdeaf72a?mod=rss_worldnews",
-   "summary": "Prosecutors said Nikhil Gupta was part of a plot that targeted a number of Sikhs living outside India over their political beliefs.",
-   "published_utc": "2026-11-20T23:16:00+00:00"
+   "source": "HackerNews",
+   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+   "url": "https://news.ycombinator.com/item?id=50583761",
+   "summary": "HN 601점 · 댓글 664개 · https://news.ycombinator.com/item?id=50583761",
+   "published_utc": "2026-11-20T23:18:32Z"
   },
   {
    "source": "NYT-World",
@@ -105,46 +364,11 @@
    "published_utc": "2026-11-20T22:50:00+00:00"
   },
   {
-   "source": "NYT-Business",
-   "title": "Stocks Skid Into a Correction, as A.I. Worries Intensify",
-   "url": "https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html",
-   "summary": "The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.",
-   "published_utc": "2026-11-20T22:47:32+00:00"
-  },
-  {
    "source": "HackerNews",
-   "title": "NINLIVE: The Nine Inch Nails live archive",
-   "url": "https://ninlive.com/",
-   "summary": "HN 110점 · 댓글 25개 · https://news.ycombinator.com/item?id=50583274",
-   "published_utc": "2026-11-20T22:30:47Z"
-  },
-  {
-   "source": "NYT-World",
-   "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
-   "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
-   "summary": "Danish officials say Russian intelligence services recruited members of a violent gang to try to assassinate a Ukrainian rapper at a concert outside Copenhagen.",
-   "published_utc": "2026-11-20T22:15:57+00:00"
-  },
-  {
-   "source": "NYT-Business",
-   "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
-   "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
-   "summary": "The stock value of a top executive is often less important than it initially seems. But Nvidia’s entanglement in U.S.-Chinese relations poses special problems.",
-   "published_utc": "2026-11-20T22:11:57+00:00"
-  },
-  {
-   "source": "NYT-Business",
-   "title": "Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy",
-   "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
-   "summary": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
-   "published_utc": "2026-11-20T21:50:44+00:00"
-  },
-  {
-   "source": "WSJ-World",
-   "title": "El Salvador Takes Its Gang-Fighting Strategy to Haiti",
-   "url": "https://www.wsj.com/world/americas/el-salvador-takes-its-gang-fighting-strategy-to-haiti-dd25cf78?mod=rss_worldnews",
-   "summary": "The Central American country has deployed more than 2,500 troops to the anarchic Caribbean nation.",
-   "published_utc": "2026-11-20T21:50:00+00:00"
+   "title": "Getting the mind to steer the body to steer you",
+   "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+   "summary": "HN 136점 · 댓글 49개 · https://news.ycombinator.com/item?id=50583028",
+   "published_utc": "2026-11-20T22:11:05Z"
   },
   {
    "source": "WSJ-Markets",
@@ -161,6 +385,13 @@
    "published_utc": "2026-11-20T21:21:40+00:00"
   },
   {
+   "source": "HackerNews",
+   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+   "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+   "summary": "HN 529점 · 댓글 130개 · https://news.ycombinator.com/item?id=50582069",
+   "published_utc": "2026-11-20T21:03:12Z"
+  },
+  {
    "source": "WSJ-Tech",
    "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
    "url": "https://www.wsj.com/business/media/take-twos-grand-theft-auto-vi-hits-nearly-4-billion-in-sales-on-launch-day-a1e35d15?mod=rss_Technology",
@@ -168,25 +399,11 @@
    "published_utc": "2026-11-20T20:41:00+00:00"
   },
   {
-   "source": "WSJ-Tech",
-   "title": "Amazon Urges NYC Customers to Oppose Mamdani-Backed Delivery Bill",
-   "url": "https://www.wsj.com/business/logistics/amazon-urges-nyc-customers-to-oppose-mamdani-backed-delivery-bill-0461ea54?mod=rss_Technology",
-   "summary": "Online shoppers got a pop-up that warned of a $5 fee per order if the legislation passes, escalating the company’s battle with City Hall.",
-   "published_utc": "2026-11-20T20:32:00+00:00"
-  },
-  {
    "source": "NYT-World",
    "title": "‘Russian Objects’ Crashed in Poland, Officials Say. Here’s What We Can See.",
    "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
    "summary": "There were no injuries or damage from three incidents that the Polish authorities called a likely “provocation” from Russia during military exercises by Ukraine’s allies.",
-   "published_utc": "2026-11-20T20:30:59+00:00"
-  },
-  {
-   "source": "HackerNews",
-   "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
-   "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
-   "summary": "HN 219점 · 댓글 110개 · https://news.ycombinator.com/item?id=50581438",
-   "published_utc": "2026-11-20T20:22:41Z"
+   "published_utc": "2026-11-20T20:31:00+00:00"
   },
   {
    "source": "NYT-World",
@@ -213,15 +430,8 @@
    "source": "HackerNews",
    "title": "Inkling 2 Mini",
    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-   "summary": "HN 657점 · 댓글 104개 · https://news.ycombinator.com/item?id=50581260",
+   "summary": "HN 1376점 · 댓글 280개 · https://news.ycombinator.com/item?id=50581260",
    "published_utc": "2026-11-20T20:12:19Z"
-  },
-  {
-   "source": "HackerNews",
-   "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-   "url": "https://scottaaronson.blog/?p=10344",
-   "summary": "HN 213점 · 댓글 176개 · https://news.ycombinator.com/item?id=50581084",
-   "published_utc": "2026-11-20T20:03:07Z"
   },
   {
    "source": "NYT-Technology",
@@ -231,18 +441,11 @@
    "published_utc": "2026-11-20T19:39:27+00:00"
   },
   {
-   "source": "NYT-Business",
-   "title": "Inside the Fight Between Native American Tribes and Kalshi",
-   "url": "https://www.nytimes.com/2026/11/20/business/tribal-gaming-kalshi.html",
-   "summary": "For decades, many U.S. tribes have relied on casinos and other gambling revenue for survival. Prediction markets have threatened their sovereignty, they have argued in court.",
-   "published_utc": "2026-11-20T19:25:32+00:00"
-  },
-  {
    "source": "NYT-Technology",
    "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
    "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
    "summary": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
-   "published_utc": "2026-11-20T18:51:22+00:00"
+   "published_utc": "2026-11-20T18:51:23+00:00"
   },
   {
    "source": "WSJ-Tech",
@@ -255,29 +458,8 @@
    "source": "HackerNews",
    "title": "Hurried Announcement: Alessandro Masullo GRH",
    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-   "summary": "HN 1544점 · 댓글 704개 · https://news.ycombinator.com/item?id=50579568",
+   "summary": "HN 2385점 · 댓글 1153개 · https://news.ycombinator.com/item?id=50579568",
    "published_utc": "2026-11-20T18:33:14Z"
-  },
-  {
-   "source": "HackerNews",
-   "title": "We promoted developers into architects without informing them",
-   "url": "https://manidoraisamy.com/developer-to-architect.html",
-   "summary": "HN 292점 · 댓글 180개 · https://news.ycombinator.com/item?id=50579331",
-   "published_utc": "2026-11-20T18:17:51Z"
-  },
-  {
-   "source": "HackerNews",
-   "title": "Vibecoding an inference chip",
-   "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-   "summary": "HN 110점 · 댓글 39개 · https://news.ycombinator.com/item?id=50579297",
-   "published_utc": "2026-11-20T18:15:16Z"
-  },
-  {
-   "source": "NYT-Technology",
-   "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
-   "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
-   "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
-   "published_utc": "2026-11-20T18:05:36+00:00"
   },
   {
    "source": "WSJ-Tech",
@@ -294,13 +476,6 @@
    "published_utc": "2026-11-20T17:28:00+00:00"
   },
   {
-   "source": "HackerNews",
-   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-   "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-   "summary": "HN 337점 · 댓글 139개 · https://news.ycombinator.com/item?id=50578358",
-   "published_utc": "2026-11-20T17:21:36Z"
-  },
-  {
    "source": "NYT-Technology",
    "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
    "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
@@ -311,8 +486,15 @@
    "source": "WSJ-Tech",
    "title": "American State Capitalism Helped Produce the Nvidia Scandal",
    "url": "https://www.wsj.com/economy/american-state-capitalism-helped-produce-the-nvidia-scandal-56ce6dee?mod=rss_Technology",
-   "summary": "Under Trump, government and corporate interests have become more tightly intertwined. The Nvidia backlash may halt that.",
+   "summary": "Under President Trump, government and corporate interests have become more tightly intertwined. The Nvidia backlash may halt that.",
    "published_utc": "2026-11-20T17:08:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "I'm quite pleased by the tech architecture of my art website",
+   "url": "https://klauria.tech/klauria-art/",
+   "summary": "HN 144점 · 댓글 33개 · https://news.ycombinator.com/item?id=50577991",
+   "published_utc": "2026-11-20T17:03:39Z"
   },
   {
    "source": "WSJ-Tech",
@@ -336,60 +518,11 @@
    "published_utc": "2026-11-20T16:55:00+00:00"
   },
   {
-   "source": "NYT-World",
-   "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
-   "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
-   "summary": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
-   "published_utc": "2026-11-20T16:50:16+00:00"
-  },
-  {
    "source": "HackerNews",
-   "title": "Language Models Can Rewrite Their Own Weights",
-   "url": "https://arxiv.org/abs/2611.21885",
-   "summary": "HN 337점 · 댓글 108개 · https://news.ycombinator.com/item?id=50577265",
-   "published_utc": "2026-11-20T16:29:06Z"
-  },
-  {
-   "source": "NYT-World",
-   "title": "Iraqi Forces Enter Stronghold of Powerful Iran-Backed Militia",
-   "url": "https://www.nytimes.com/2026/11/20/world/middleeast/iraq-militia-iran-kataib-hezbollah.html",
-   "summary": "For the first time in over a decade, army and police units were deployed in territory controlled by the group, Kataib Hezbollah. But it was unclear if it would withdraw its forces.",
-   "published_utc": "2026-11-20T16:18:21+00:00"
-  },
-  {
-   "source": "NYT-Business",
-   "title": "Is Your Employer Telling You to Use A.I.? We Want to Hear From You.",
-   "url": "https://www.nytimes.com/2026/11/20/business/is-your-employer-telling-you-to-use-ai-we-want-to-hear-from-you.html",
-   "summary": "Please tell us what kind of instructions your employer is providing about A.I. We may include your experiences in an article.",
-   "published_utc": "2026-11-20T16:00:05+00:00"
-  },
-  {
-   "source": "HackerNews",
-   "title": "Finite-time blow-up for the Navier–Stokes equations",
-   "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-   "summary": "HN 258점 · 댓글 82개 · https://news.ycombinator.com/item?id=50576232",
-   "published_utc": "2026-11-20T15:34:31Z"
-  },
-  {
-   "source": "NYT-Technology",
-   "title": "G.T.A. VI Is a Monumental Human Achievement",
-   "url": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
-   "summary": "Anthropic goes public, Jensen Huang wants back in at Nvidia, and software patches seem to be breaking everything. But first, let’s talk about G.T.A.",
-   "published_utc": "2026-11-20T15:19:25+00:00"
-  },
-  {
-   "source": "NYT-Business",
-   "title": "C.F.T.C. Officials Considered Investigating Trump’s Memecoin, Then Punted",
-   "url": "https://www.nytimes.com/2026/11/20/us/politics/cftc-cryptocurrency-trump-memecoin.html",
-   "summary": "Lawyers at the Commodity Futures Trading Commission looked into possible fraud soon after the digital token’s launch, then decided they would not get the commission’s support.",
-   "published_utc": "2026-11-20T15:03:34+00:00"
-  },
-  {
-   "source": "NYT-Technology",
-   "title": "How Jensen Huang Made Humiliation Routine at Nvidia",
-   "url": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-   "summary": "The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.",
-   "published_utc": "2026-11-20T14:43:10+00:00"
+   "title": "Why there are still no non-WebKit browsers on iOS",
+   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+   "summary": "HN 470점 · 댓글 262개 · https://news.ycombinator.com/item?id=50575644",
+   "published_utc": "2026-11-20T15:03:31Z"
   },
   {
    "source": "WSJ-World",
@@ -406,25 +539,11 @@
    "published_utc": "2026-11-20T14:17:02+00:00"
   },
   {
-   "source": "HackerNews",
-   "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-   "url": "https://alpo.ge/remark.pdf",
-   "summary": "HN 2353점 · 댓글 1589개 · https://news.ycombinator.com/item?id=50574968",
-   "published_utc": "2026-11-20T14:16:21Z"
-  },
-  {
    "source": "WSJ-Tech",
    "title": "Tech Outages Are Inevitable. Business Chaos Doesn’t Have to Be.",
    "url": "https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa?mod=rss_Technology",
    "summary": "Plus, tech stock market rout intensifies with Anthropic shares down as much as 10% premarket",
    "published_utc": "2026-11-20T14:12:00+00:00"
-  },
-  {
-   "source": "NYT-Business",
-   "title": "Savings Bonds Offer Enticing Rates. You Need to Prove Your Identity First.",
-   "url": "https://www.nytimes.com/2026/11/20/your-money/us-savings-bonds.html",
-   "summary": "The Treasury Department is working with a private service, ID.me, to grant access to the TreasuryDirect website. Some users reported trouble getting in.",
-   "published_utc": "2026-11-20T14:00:05+00:00"
   },
   {
    "source": "NYT-World",
@@ -434,13 +553,6 @@
    "published_utc": "2026-11-20T13:56:56+00:00"
   },
   {
-   "source": "NYT-Business",
-   "title": "Can Anthropic Revive the A.I. Trade?",
-   "url": "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html",
-   "summary": "Shares in the artificial intelligence giant jumped in their debut. But that didn’t lift the technology sector, as investors worry about the future of the A.I. boom.",
-   "published_utc": "2026-11-20T13:07:07+00:00"
-  },
-  {
    "source": "WSJ-Markets",
    "title": "Grabbing Inflation Protection Now Is a No-Brainer",
    "url": "https://www.wsj.com/finance/investing/grabbing-inflation-protection-now-is-a-no-brainer-45a6364e?mod=rss_markets_main",
@@ -448,25 +560,11 @@
    "published_utc": "2026-11-20T11:16:00+00:00"
   },
   {
-   "source": "NYT-Business",
-   "title": "How the U.S. Economy Is Tied to A.I.",
-   "url": "https://www.nytimes.com/video/business/100000011293737/how-the-us-economy-is-tied-to-ai.html",
-   "summary": "Artificial intelligence has become a huge piece of the U.S. economy. Ben Casselman, the chief economics correspondent for The New York Times, explains why that is and how it might be risky.",
-   "published_utc": "2026-11-20T11:01:37+00:00"
-  },
-  {
    "source": "WSJ-Markets",
    "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger",
    "url": "https://www.wsj.com/finance/investing/anthropic-lives-up-to-wall-street-hype-but-ai-doubts-linger-d6a4519b?mod=rss_markets_main",
    "summary": "Plus, Kushner floats a Ukraine peace deal that would upend U.S. policy, and the snack sailors aboard the USS George Washington can’t get enough of.",
    "published_utc": "2026-11-20T10:59:00+00:00"
-  },
-  {
-   "source": "WSJ-Markets",
-   "title": "The Seven Charts That Explain the New Normal for Oil Prices",
-   "url": "https://www.wsj.com/finance/commodities-futures/oil-prices-new-charts-f84ad9d7?mod=rss_markets_main",
-   "summary": "Traders and analysts say oil prices of around $85 to $95 a barrel are poised to be the reality for the foreseeable future.",
-   "published_utc": "2026-11-20T10:56:00+00:00"
   },
   {
    "source": "NYT-World",
@@ -497,39 +595,11 @@
    "published_utc": "2026-11-20T10:08:25+00:00"
   },
   {
-   "source": "NYT-Business",
-   "title": "Is an ‘A.I. Agent’ Coming for Our Sourdough Starter?",
-   "url": "https://www.nytimes.com/2026/11/20/dining/leaven-lab-grown-sourdough-starter.html",
-   "summary": "A lab-grown shortcut named Leaven is wooing many high-end bakers and pizza makers who’ve prided themselves on their painstaking use of live cultures.",
-   "published_utc": "2026-11-20T10:02:12+00:00"
-  },
-  {
-   "source": "HackerNews",
-   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-   "url": "https://architectlabs.com/blog/frostbite",
-   "summary": "HN 625점 · 댓글 326개 · https://news.ycombinator.com/item?id=50572503",
-   "published_utc": "2026-11-20T10:01:41Z"
-  },
-  {
    "source": "NYT-Technology",
    "title": "The Internet Broke Our Taste. Will A.I. Destroy It for Good?",
    "url": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
    "summary": "In a world of slop capitalism, vibe-crafted culture and taste paranoia, why we like what we like feels harder than ever to know.",
    "published_utc": "2026-11-20T10:00:38+00:00"
-  },
-  {
-   "source": "HackerNews",
-   "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-   "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-   "summary": "HN 622점 · 댓글 292개 · https://news.ycombinator.com/item?id=50572355",
-   "published_utc": "2026-11-20T09:43:19Z"
-  },
-  {
-   "source": "HackerNews",
-   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-   "url": "https://signal.org/blog/protecting-your-privacy/",
-   "summary": "HN 508점 · 댓글 301개 · https://news.ycombinator.com/item?id=50572348",
-   "published_utc": "2026-11-20T09:42:16Z"
   },
   {
    "source": "WSJ-Markets",
@@ -539,53 +609,11 @@
    "published_utc": "2026-11-20T09:18:00+00:00"
   },
   {
-   "source": "NYT-World",
-   "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-   "url": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
-   "summary": "A jury rejected the men’s defense that they had been relying on assurances from Joanne Young’s husband — who himself has pleaded guilty to rape — that she had consented.",
-   "published_utc": "2026-11-20T09:17:27+00:00"
-  },
-  {
-   "source": "NYT-World",
-   "title": "Wreck of First Australian-Built Warship Is Revealed 128 Years After It Sank",
-   "url": "https://www.nytimes.com/2026/11/20/world/australia/shipwreck-warship-spitfire-great-barrier-reef.html",
-   "summary": "The wooden gunboat Spitfire was entombed in waters near the Great Barrier Reef after it went down in a cyclone in 1898.",
-   "published_utc": "2026-11-20T08:13:07+00:00"
-  },
-  {
-   "source": "WSJ-Tech",
-   "title": "China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.",
-   "url": "https://www.wsj.com/tech/ai/chinas-ai-firms-are-addicted-to-nvidia-chips-now-they-are-facing-withdrawal-ba851ca9?mod=rss_Technology",
-   "summary": "The move by the U.S. to cut off Chinese access to high-end computing power has dealt a blow to Beijing’s artificial-intelligence ambitions.",
-   "published_utc": "2026-11-20T03:00:00+00:00"
-  },
-  {
    "source": "WSJ-World",
    "title": "Houthi Attack Damages Saudi Capital’s Tallest Tower",
    "url": "https://www.wsj.com/world/middle-east/houthi-attack-damages-saudi-capitals-tallest-tower-f4e15874?mod=rss_worldnews",
    "summary": "The strike damaged several floors in the 80-story building which houses the kingdom’s sovereign-wealth fund.",
    "published_utc": "2026-11-20T01:42:00+00:00"
-  },
-  {
-   "source": "NYT-World",
-   "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
-   "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
-   "summary": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
-   "published_utc": "2026-11-20T01:37:20+00:00"
-  },
-  {
-   "source": "NYT-Technology",
-   "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-   "url": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-   "summary": "Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.",
-   "published_utc": "2026-11-20T01:13:38+00:00"
-  },
-  {
-   "source": "NYT-Technology",
-   "title": "Anthropic Debuts on Wall Street as a $2 Trillion Company",
-   "url": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
-   "summary": "The San Francisco company was the first major A.I. lab to go public in a highly anticipated moment for the tech industry, before ending the day valued at $1.7 trillion.",
-   "published_utc": "2026-11-19T22:45:17+00:00"
   },
   {
    "source": "NYT-Technology",
@@ -607,13 +635,6 @@
    "url": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
    "summary": "The website has been checked and cited often during an unusually busy week of technology problems, though its operators acknowledge its limitations.",
    "published_utc": "2026-11-19T21:39:12+00:00"
-  },
-  {
-   "source": "NYT-World",
-   "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-   "url": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-   "summary": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.",
-   "published_utc": "2026-11-19T21:17:13+00:00"
   },
   {
    "source": "WSJ-World",
@@ -651,20 +672,6 @@
    "published_utc": "2026-11-19T17:44:00+00:00"
   },
   {
-   "source": "NYT-World",
-   "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
-   "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
-   "summary": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
-   "published_utc": "2026-11-19T16:51:57+00:00"
-  },
-  {
-   "source": "NYT-Technology",
-   "title": "Some of the Gulf’s largest investors have put big bets on Anthropic.",
-   "url": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/some-of-the-gulfs-largest-investors-have-put-big-bets-on-anthropic",
-   "summary": "",
-   "published_utc": "2026-11-19T15:35:29+00:00"
-  },
-  {
    "source": "WSJ-World",
    "title": "World Court Finds Myanmar Committed Genocide Against Rohingya",
    "url": "https://www.wsj.com/world/asia/world-court-finds-myanmar-committed-genocide-against-rohingya-6fa7e663?mod=rss_worldnews",
@@ -673,24 +680,10 @@
   },
   {
    "source": "WSJ-World",
-   "title": "The Morning Risk Report: The Jensen Huang Saga Has Reinvigorated Washington’s China Hawks",
-   "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-the-jensen-huang-saga-has-reinvigorated-washingtons-china-hawks-00536beb?mod=rss_worldnews",
-   "summary": "Plus: Microsoft-Bytedance cloud deal under fire from lawmakers and EU anti-money-laundering, public prosecution bodies team up.",
-   "published_utc": "2026-11-19T12:22:00+00:00"
-  },
-  {
-   "source": "WSJ-World",
    "title": "Insurgents in Iran’s Borderlands Are Becoming a Bigger Challenge for the Regime",
    "url": "https://www.wsj.com/world/middle-east/insurgents-in-irans-borderlands-are-becoming-a-bigger-challenge-for-the-regime-f816b46f?mod=rss_worldnews",
    "summary": "A series of attacks by ethnic insurgent groups is squeezing Iran’s leaders, who are already under pressure from the war and U.S. blockade.",
    "published_utc": "2026-11-19T11:35:00+00:00"
-  },
-  {
-   "source": "NYT-Technology",
-   "title": "‘Did A.I. Break the Internet?’ and Other Things We’ve Worried About This Week",
-   "url": "https://www.nytimes.com/2026/11/19/podcasts/the-daily/tech-outages-internet.html",
-   "summary": "A cascade of technology glitches has unsettled many people. Our reporters explain what is going on.",
-   "published_utc": "2026-11-19T11:00:14+00:00"
   },
   {
    "source": "WSJ-Tech",
@@ -714,11 +707,25 @@
    "published_utc": "2026-11-18T14:56:00+00:00"
   },
   {
+   "source": "HackerNews",
+   "title": "LLMs can read and write executables byte by byte from a hex dump",
+   "url": "https://sgiannopoulos.github.io/blog/machine-code-programming/",
+   "summary": "HN 182점 · 댓글 119개 · https://news.ycombinator.com/item?id=50546587",
+   "published_utc": "2026-11-18T14:15:58Z"
+  },
+  {
    "source": "WSJ-Markets",
    "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
    "url": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
    "summary": "The company inherits problems from Jensen Huang, and advantages.",
    "published_utc": "2026-11-18T10:30:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
+   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+   "summary": "HN 722점 · 댓글 230개 · https://news.ycombinator.com/item?id=50532613",
+   "published_utc": "2026-11-17T15:22:57Z"
   },
   {
    "source": "WSJ-Markets",
@@ -728,32 +735,11 @@
    "published_utc": "2026-11-17T10:30:00+00:00"
   },
   {
-   "source": "HackerNews",
-   "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-   "url": "https://kobi.music/research/dettato",
-   "summary": "HN 237점 · 댓글 49개 · https://news.ycombinator.com/item?id=50526023",
-   "published_utc": "2026-11-17T01:03:05Z"
-  },
-  {
-   "source": "WSJ-World",
-   "title": "Watch What U.S. Aircraft Carriers Bring to the Iran War",
-   "url": "https://www.wsj.com/world/middle-east/watch-what-u-s-aircraft-carriers-bring-to-the-iran-war-cf8b3b51?mod=rss_worldnews",
-   "summary": "Wall Street Journal journalists visited the USS George Washington to learn how the warships are taking the fight to Iran.",
-   "published_utc": "2026-11-16T19:13:00+00:00"
-  },
-  {
    "source": "WSJ-Markets",
    "title": "Big Tech Needs to Spread Its Bets on Data Centers",
    "url": "https://www.wsj.com/tech/ai/big-tech-needs-to-spread-its-bets-on-data-centers-7550357f?mod=rss_markets_main",
    "summary": "Artificial-intelligence players that bet too much on a handful of mega projects look vulnerable after the midterm elections.",
    "published_utc": "2026-11-16T10:30:00+00:00"
-  },
-  {
-   "source": "WSJ-Tech",
-   "title": "Jensen Huang’s Downfall",
-   "url": "https://www.wsj.com/tech/ai/jensen-huangs-downfall-14449f8a?mod=rss_Technology",
-   "summary": "Plus, our columnist used tech to track down an intruder, what to know before switching to an EV, how AI diagnosed a medical mystery and more.",
-   "published_utc": "2026-11-15T15:55:00+00:00"
   }
  ]
 }
