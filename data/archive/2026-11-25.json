@@ -1,0 +1,773 @@
+{
+ "generated_at_utc": "2026-11-25T03:40:27+00:00",
+ "generated_at_kst": "2026-11-25T12:40:27+09:00",
+ "source_status": {
+  "HackerNews": {
+   "ok": true,
+   "count": 15
+  },
+  "NYT-World": {
+   "ok": true,
+   "count": 15
+  },
+  "NYT-Technology": {
+   "ok": true,
+   "count": 15
+  },
+  "NYT-Business": {
+   "ok": true,
+   "count": 15
+  },
+  "WSJ-World": {
+   "ok": true,
+   "count": 15
+  },
+  "WSJ-Tech": {
+   "ok": true,
+   "count": 15
+  },
+  "WSJ-Markets": {
+   "ok": true,
+   "count": 15
+  },
+  "Reddit-technology": {
+   "ok": false,
+   "error": "404 Client Error: Not Found for url: https://www.reddit.com/r/technology/top/.rss?t=day"
+  },
+  "Reddit-programming": {
+   "ok": false,
+   "error": "429 Client Error: Too Many Requests for url: https://www.reddit.com/r/programming/top/.rss?t=day"
+  }
+ },
+ "total_items": 104,
+ "items": [
+  {
+   "source": "WSJ-World",
+   "title": "China Takes Down Shanghai Party Boss Once Seen as Potential Leader",
+   "url": "https://www.wsj.com/world/china/china-takes-down-shanghai-party-boss-once-seen-as-potential-leader-5d6d06e0?mod=rss_worldnews",
+   "summary": "Chen Jining, the party secretary of Shanghai, has been placed under investigation on suspicion of severe violations of party discipline and state laws.",
+   "published_utc": "2026-11-25T03:13:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+   "url": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+   "summary": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
+   "published_utc": "2026-11-25T02:55:17+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "China’s Military Ambitions in the Pacific Suffer Setback",
+   "url": "https://www.wsj.com/world/asia/chinas-military-ambitions-in-the-pacific-suffer-setback-ef5a2d30?mod=rss_worldnews",
+   "summary": "The Solomon Islands said it won’t allow foreign bases on its soil, calming worries that the country was slipping into China’s orbit and that Beijing could open a military outpost there.",
+   "published_utc": "2026-11-25T02:44:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Shapiro Accuses Biden of Not Doing Enough to Rein In Netanyahu",
+   "url": "https://www.wsj.com/politics/policy/shapiro-accuses-biden-of-not-doing-enough-to-rein-in-netanyahu-b139e9de?mod=rss_worldnews",
+   "summary": "The Pennsylvania governor said Biden didn’t go far enough to constrain Netanyahu in his first interview on foreign policy ahead of a potential 2028 run.",
+   "published_utc": "2026-11-25T02:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Jensen Huang’s Vision for the New Nvidia Is a Lot Like the Old One",
+   "url": "https://www.wsj.com/tech/ai/jensen-huangs-vision-for-the-new-nvidia-is-a-lot-like-the-old-one-d0d4abc3?mod=rss_Technology",
+   "summary": "As Nvidia’s co-founder resumes control, the company is working to convince the market it’s business as usual while facing fresh challenges.",
+   "published_utc": "2026-11-25T02:00:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital",
+   "url": "https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews",
+   "summary": "The strike on the Public Investment Fund Tower follows a previous Houthi assault on the building on Thursday.",
+   "published_utc": "2026-11-25T01:43:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "DealBook Summit 2026: It’s Time to Fix Health Care",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
+   "summary": "Experts said problems of cost, trust and dysfunction had reached crisis levels, but voters could be the impetus to force change.",
+   "published_utc": "2026-11-25T01:24:19+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "summary": "HN 212점 · 댓글 67개 · https://news.ycombinator.com/item?id=50637220",
+   "published_utc": "2026-11-25T01:19:26Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Iraq’s Prime Minister Aims to Wrest More Power from Kurdistan Region",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html",
+   "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
+   "published_utc": "2026-11-25T00:38:35+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+   "url": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+   "summary": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+   "published_utc": "2026-11-24T23:27:37+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
+   "url": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+   "summary": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+   "published_utc": "2026-11-24T23:06:01+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
+   "summary": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times.",
+   "published_utc": "2026-11-24T23:03:18+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
+   "summary": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
+   "published_utc": "2026-11-24T23:01:20+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
+   "summary": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?",
+   "published_utc": "2026-11-24T23:00:25+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Saudi Engineer Accused of Bugging OpenAI to Be Released on $1 Million Bond",
+   "url": "https://www.wsj.com/tech/saudi-engineer-accused-of-bugging-openai-to-be-released-on-1-million-bond-954f048e?mod=rss_Technology",
+   "summary": "Prosecutors allege the former OpenAI engineer recorded confidential conversations, including meetings with OpenAI customers and government officials.",
+   "published_utc": "2026-11-24T23:00:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
+   "summary": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development.",
+   "published_utc": "2026-11-24T22:59:27+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+   "summary": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited.",
+   "published_utc": "2026-11-24T22:57:53+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "25 Years of DealBook Moments",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
+   "summary": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today.",
+   "published_utc": "2026-11-24T22:56:21+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+   "url": "https://www.wsj.com/business/telecom/chinas-huawei-convicted-of-fraud-in-u-s-criminal-trial-20e17ac3?mod=rss_Technology",
+   "summary": "A federal jury convicted the tech and telecom giant of fraud and other offenses but acquitted it of racketeering conspiracy.",
+   "published_utc": "2026-11-24T22:41:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
+   "url": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+   "summary": "The Claude model developer fell below its offering price on Tuesday, extending its slide to three straight sessions.",
+   "published_utc": "2026-11-24T22:07:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Pope Francis Diary Excerpts Published in New Book",
+   "url": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+   "summary": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
+   "published_utc": "2026-11-24T22:03:38+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
+   "url": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_worldnews",
+   "summary": "The higher-than-expected figure underscores the challenges faced by the U.S.-backed interim government.",
+   "published_utc": "2026-11-24T21:55:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
+   "url": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main",
+   "summary": "The higher-than-expected figure underscores the challenges faced by the U.S.-backed interim government.",
+   "published_utc": "2026-11-24T21:55:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
+   "url": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
+   "summary": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
+   "published_utc": "2026-11-24T21:54:50+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+   "url": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+   "summary": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+   "published_utc": "2026-11-24T21:53:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Heart attack and stroke risk detectable decades in advance",
+   "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+   "summary": "HN 176점 · 댓글 79개 · https://news.ycombinator.com/item?id=50635271",
+   "published_utc": "2026-11-24T21:51:21Z"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+   "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+   "summary": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
+   "published_utc": "2026-11-24T21:46:11+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise",
+   "url": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html",
+   "summary": "It’s not possible to determine the size of the president’s stake in the chip maker because there is a lag between when trades occur and when they are disclosed.",
+   "published_utc": "2026-11-24T21:29:57+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Oil Prices Rebound as Shipping Risks Persist",
+   "url": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_worldnews",
+   "summary": "Oil prices picked up from initial losses and settled higher Tuesday as traders weighed persistent threats to energy shipments in the Middle East against expectations of a global supply surplus.",
+   "published_utc": "2026-11-24T21:28:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Nvidia’s Relief Rally Stalls",
+   "url": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
+   "summary": "Plus, Anthropic dips below its IPO price, and the investors who won—and lost—in the Nvidia saga.",
+   "published_utc": "2026-11-24T21:23:00+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
+   "url": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
+   "summary": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
+   "published_utc": "2026-11-24T21:18:42+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
+   "url": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+   "summary": "Abdulrahman Alfozan, who has been jailed since October, will be freed on a $1 million bond. Prosecutors say he recorded dozens of meetings.",
+   "published_utc": "2026-11-24T21:09:25+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+   "summary": "HN 197점 · 댓글 58개 · https://news.ycombinator.com/item?id=50634658",
+   "published_utc": "2026-11-24T21:02:22Z"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
+   "url": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0?mod=rss_worldnews",
+   "summary": "The Nvidia co-founder thanked the Trump administration while addressing staff the day after he was reinstated as CEO.",
+   "published_utc": "2026-11-24T20:09:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
+   "url": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0?mod=rss_Technology",
+   "summary": "The Nvidia co-founder thanked the Trump administration while addressing staff the day after he was reinstated as CEO.",
+   "published_utc": "2026-11-24T20:09:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Ternary Bonsai 2.5 27B",
+   "url": "https://prismml.com/news/bonsai-2-5-27b",
+   "summary": "HN 368점 · 댓글 125개 · https://news.ycombinator.com/item?id=50633922",
+   "published_utc": "2026-11-24T20:08:03Z"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
+   "url": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+   "summary": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
+   "published_utc": "2026-11-24T19:54:59+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "How Huang’s Return Rewrote Corporate America’s Rules",
+   "url": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html",
+   "summary": "The reinstatement of Jensen Huang atop Nvidia, following pressure from President Trump, shattered norms for corporate governance. What comes next is unclear.",
+   "published_utc": "2026-11-24T19:36:06+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Putting Socially Conscious Investments in 401(k) Plans Could Get Harder",
+   "url": "https://www.nytimes.com/2026/11/24/your-money/401k-esg-rules.html",
+   "summary": "The Labor Department has, once again, proposed a rule that may discourage workplace retirement plans from adding investment options based on environmental and social considerations.",
+   "published_utc": "2026-11-24T19:29:19+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
+   "url": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+   "summary": "The woman whose role has become a focus of the Nvidia spying saga grew up in a small town built around a weapons factory. Her jump to finance and the tech world paralleled China’s own.",
+   "published_utc": "2026-11-24T19:19:59+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+   "summary": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
+   "published_utc": "2026-11-24T19:18:15+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "How Can We Still Be Making These 10 Cybersecurity Mistakes?",
+   "url": "https://www.wsj.com/tech/cybersecurity/ommon-cybersecurity-mistakes-vulnerabilities-6f91faf9?mod=rss_Technology",
+   "summary": "People have been warned for decades where the biggest vulnerabilities are. And yet, many refuse to do anything about it.",
+   "published_utc": "2026-11-24T19:00:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
+   "summary": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
+   "published_utc": "2026-11-24T18:25:38+00:00"
+  },
+  {
+   "source": "NYT-Business",
+   "title": "Pressure Builds at American Airlines as It Lags Delta and United",
+   "url": "https://www.nytimes.com/2026/11/24/business/american-airlines-delta-united.html",
+   "summary": "American flies more travelers than any other U.S. carrier, but debt, fuel costs and mistakes have left it losing money while other big airlines report billions in profits.",
+   "published_utc": "2026-11-24T18:06:24+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "I Went Inside Chornobyl as Ukraine Races to Secure It",
+   "url": "https://www.wsj.com/world/i-went-inside-chornobyl-as-ukraine-races-to-secure-it-08d719cd?mod=rss_worldnews",
+   "summary": "Watch how Ukrainian engineers and the armed forces are racing to contain radiation at the nuclear power plant.",
+   "published_utc": "2026-11-24T17:08:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "OpenAI’s IPO Countdown Clock Is Ticking",
+   "url": "https://www.wsj.com/tech/ai/openais-ipo-countdown-clock-is-ticking-7e12436c?mod=rss_Technology",
+   "summary": "Plus, Jensen Huang is back, and Anthropic is marching toward profitability.",
+   "published_utc": "2026-11-24T17:00:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Active intrusion campaign against Check Point security management servers",
+   "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+   "summary": "HN 271점 · 댓글 139개 · https://news.ycombinator.com/item?id=50630594",
+   "published_utc": "2026-11-24T16:32:17Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "2 Men Arrested on Suspicion of Breaking Into Prince William and Kate’s Country Home",
+   "url": "https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html",
+   "summary": "The men were arrested near Anmer Hall, the couple’s country retreat in Norfolk, on Monday night.",
+   "published_utc": "2026-11-24T16:31:07+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Radio Offers Russian Troops Classic Rock, Nostalgia — and Pleas to Surrender",
+   "url": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+   "summary": "What seem like frontline Russian radio stations are actually a Ukrainian psychological operation, hoping to sow despair among the Kremlin’s soldiers.",
+   "published_utc": "2026-11-24T16:27:04+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Jetty Pro",
+   "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+   "summary": "HN 284점 · 댓글 125개 · https://news.ycombinator.com/item?id=50630462",
+   "published_utc": "2026-11-24T16:23:02Z"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+   "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+   "summary": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
+   "published_utc": "2026-11-24T15:40:14+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "AI’s Unanswered Questions",
+   "url": "https://www.wsj.com/cio-journal/ais-unanswered-questions-0000937c?mod=rss_Technology",
+   "summary": "Plus, U.S. eyes Iran as possible culprit in ship cyberattacks.",
+   "published_utc": "2026-11-24T15:08:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "A training engine for your local model, using your idle compute",
+   "url": "https://github.com/sous-labs/songe",
+   "summary": "HN 191점 · 댓글 64개 · https://news.ycombinator.com/item?id=50629231",
+   "published_utc": "2026-11-24T15:03:40Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+   "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+   "summary": "HN 141점 · 댓글 91개 · https://news.ycombinator.com/item?id=50629106",
+   "published_utc": "2026-11-24T14:54:10Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+   "url": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+   "summary": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+   "published_utc": "2026-11-24T14:42:31+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Murder Charge Reinstated for French Police Officer in Teen’s Shooting",
+   "url": "https://www.nytimes.com/2026/11/24/world/europe/france-nahel-merzouk.html",
+   "summary": "The killing of Nahel Merzouk, 17, sparked nationwide unrest. The case against the officer accused of involvement has undergone repeated twists and turns.",
+   "published_utc": "2026-11-24T14:13:17+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
+   "url": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html",
+   "summary": "Svalbard has a mining history that goes back over a century. But this icy archipelago is now a cruise ship destination and a geopolitical hot spot.",
+   "published_utc": "2026-11-24T13:56:53+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Harry and Meghan’s Life as ‘Nonroyal Royals’ in the UK",
+   "url": "https://www.nytimes.com/2026/11/24/world/europe/harry-meghan-royal-family-uk.html",
+   "summary": "Six years after leaving the country, the Sussexes are back and arranging a careful program of public appearances. Will they complement the royal family, or compete with it?",
+   "published_utc": "2026-11-24T13:40:55+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "GTA 6 Running on Windows",
+   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+   "summary": "HN 314점 · 댓글 400개 · https://news.ycombinator.com/item?id=50627783",
+   "published_utc": "2026-11-24T13:19:31Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Death Toll From Indonesia Factory Fire Rises to 26 With Dozens Unaccounted for",
+   "url": "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html",
+   "summary": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
+   "published_utc": "2026-11-24T13:12:42+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "LLM agents work for their parent companies, not for you",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "summary": "HN 939점 · 댓글 392개 · https://news.ycombinator.com/item?id=50627340",
+   "published_utc": "2026-11-24T12:40:15Z"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem",
+   "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=rss_worldnews",
+   "summary": "Plus: Nvidia reinstates Jensen Huang as CEO and new study raises Bayer cancer link again",
+   "published_utc": "2026-11-24T12:36:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+   "url": "https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html",
+   "summary": "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.",
+   "published_utc": "2026-11-24T12:34:52+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia",
+   "url": "https://www.wsj.com/world/russian-warplanes-trigger-alarm-among-u-s-partners-in-asia-8c2a2157?mod=rss_worldnews",
+   "summary": "Military aircraft has skirted or entered the airspace of U.S. allies in Asia several times in recent days, prompting Japan and South Korea to scramble jet fighters.",
+   "published_utc": "2026-11-24T12:23:00+00:00"
+  },
+  {
+   "source": "NYT-World",
+   "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
+   "url": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html",
+   "summary": "Beijing may welcome the return of the leading U.S. advocate for A.I. chip sales to China. But the saga could reinforce a Chinese push for self-reliance, analysts say.",
+   "published_utc": "2026-11-24T11:55:30+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "China to Suspend Some Critical-Material Export Curbs to U.S. Until January",
+   "url": "https://www.wsj.com/economy/trade/china-to-suspend-some-critical-material-export-curbs-to-u-s-until-january-35bc8dca?mod=rss_worldnews",
+   "summary": "China extended its suspension of export restrictions on some critical materials to the U.S., just days after last week’s Shenzhen summit between President Trump and Chinese leader Xi Jinping.",
+   "published_utc": "2026-11-24T11:13:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "These Technical Measures Warned of Stock Market Whiplash",
+   "url": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
+   "summary": "Plus, the Trillion Dollar Man",
+   "published_utc": "2026-11-24T11:10:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "The White House Push to Reinstate Jensen Huang",
+   "url": "https://www.wsj.com/articles/the-white-house-push-to-reinstate-jensen-huang-097e06dd?mod=rss_Technology",
+   "summary": "Plus, the Pentagon is in talks with GM and Ford to make drones, and the most famous problem in math was just solved by AI—and a human.",
+   "published_utc": "2026-11-24T10:51:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Worshipping at the altar of Brendan Gregg",
+   "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+   "summary": "HN 228점 · 댓글 45개 · https://news.ycombinator.com/item?id=50626413",
+   "published_utc": "2026-11-24T10:50:14Z"
+  },
+  {
+   "source": "NYT-World",
+   "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
+   "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+   "summary": "Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.",
+   "published_utc": "2026-11-24T10:35:30+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+   "url": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_Technology",
+   "summary": "An emboldened Jensen Huang could build up risks for the next crisis.",
+   "published_utc": "2026-11-24T10:30:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia’s Hands",
+   "url": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970?mod=rss_markets_main",
+   "summary": "An emboldened Jensen Huang could build up risks for the next crisis.",
+   "published_utc": "2026-11-24T10:30:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Tiny Bahrain Is Paying a Big Price for Its Ties to the U.S.",
+   "url": "https://www.wsj.com/world/middle-east/tiny-bahrain-is-paying-a-big-price-for-its-ties-to-the-u-s-77f0717a?mod=rss_worldnews",
+   "summary": "Regular bombardments by Iran are adding to the pressure of a slumping economy.",
+   "published_utc": "2026-11-24T10:12:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+   "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+   "summary": "Anthropic drops sharply, sinking below its IPO price",
+   "published_utc": "2026-11-24T09:53:51+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Quad9 pulled their DNS service from France",
+   "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+   "summary": "HN 367점 · 댓글 215개 · https://news.ycombinator.com/item?id=50625384",
+   "published_utc": "2026-11-24T08:33:14Z"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Then and Now: See How Nvidia and the Administration Pivoted on Huang",
+   "url": "https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_Technology",
+   "summary": "Treasury Secretary Scott Bessent and other leaders criticized the AI CEO’s conduct before pivoting upon his return to the chip maker.",
+   "published_utc": "2026-11-24T03:08:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "By Engineering Huang’s Return, Trump Endorses Silicon Valley’s Founder Mode",
+   "url": "https://www.wsj.com/business/by-engineering-huangs-return-trump-endorses-silicon-valleys-founder-mode-45c613f8?mod=rss_Technology",
+   "summary": "President Trump is betting that the chip leader can keep the AI boom afloat.",
+   "published_utc": "2026-11-24T02:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "The Most Famous Problem in Math Was Just Solved by AI—and This Human",
+   "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?mod=rss_Technology",
+   "summary": "Mathematicians tried and failed to crack the Riemann Hypothesis for 167 years. Anthropic’s Levent Alpöge says he’s found a proof with Claude.",
+   "published_utc": "2026-11-24T02:00:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Why Trump Put Jensen Huang Back in Charge at Nvidia",
+   "url": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
+   "summary": "In a shocking turn, the chip-making giant reinstated its chief executive. We unpack how it happened — and what it means.",
+   "published_utc": "2026-11-24T01:33:12+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+   "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html",
+   "summary": "President Trump’s move to put Jensen Huang back at the helm of Nvidia caps his indifference to the warnings of his own intelligence agencies.",
+   "published_utc": "2026-11-24T00:55:56+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships",
+   "url": "https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942?mod=rss_worldnews",
+   "summary": "As many as 50 ships carrying oil and other explosive substances are believed to have been attacked, U.S. officials said.",
+   "published_utc": "2026-11-24T00:00:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Trump Is Said to Have Pushed to Reinstate Nvidia CEO Jensen Huang",
+   "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang.html",
+   "summary": "The president set in motion a weekend of maneuvering, led by Vice President JD Vance, to help Jensen Huang get his old job back.",
+   "published_utc": "2026-11-23T23:41:29+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Republicans Break With Trump Over Jensen Huang’s Reinstatement at Nvidia",
+   "url": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html",
+   "summary": "It was a rare instance of the G.O.P. pushing back on the president and threatening to use its oversight and legislative power to challenge his administration’s approach.",
+   "published_utc": "2026-11-23T23:18:46+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Financial Services Roundup: Market Talk",
+   "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-59d5ef65?mod=rss_markets_main",
+   "summary": "Find insight on France’s sovereign rating, Fitch Rating’s 2027 U.S. banks sector outlook, Saudi Arabia’s banking sector and more in the latest Market Talks covering Financial Services.",
+   "published_utc": "2026-11-23T21:56:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Have You Worked With Nvidia? We Want to Hear From You.",
+   "url": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
+   "summary": "Fill out the form below and a reporter will be in touch.",
+   "published_utc": "2026-11-23T17:29:11+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Jensen Huang’s Return as Nvidia CEO Feels Like Déjà Vu in Silicon Valley",
+   "url": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-ceo-return-silicon-valley.html",
+   "summary": "The rise, fall and return of founders of Silicon Valley tech companies is a well-worn tale.",
+   "published_utc": "2026-11-23T16:50:11+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "SpaceX Sued By Oregon and Virginia Over A.I.-Generated Sexualized Images",
+   "url": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
+   "summary": "The states accused Elon Musk’s company of violating consumer protection laws with its Grok Imagine artificial intelligence tool, which created the images.",
+   "published_utc": "2026-11-23T13:40:06+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
+   "url": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
+   "summary": "More content, sports and maybe a free tier aim to make streaming a growth engine.",
+   "published_utc": "2026-11-23T10:30:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "Fugitive Criminals Need a New Hideout Since the U.A.E. Started Extraditing Them",
+   "url": "https://www.wsj.com/world/middle-east/fugitive-criminals-need-a-new-hideout-since-the-u-a-e-started-extraditing-them-7d26ff20?mod=rss_worldnews",
+   "summary": "High-profile arrests in the emirate signal a shifting landscape for suspected criminals living in plain sight.",
+   "published_utc": "2026-11-23T01:00:00+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "Cento fine foods has been sued for “tomato fraud”",
+   "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
+   "summary": "HN 142점 · 댓글 184개 · https://news.ycombinator.com/item?id=50604355",
+   "published_utc": "2026-11-22T21:59:09Z"
+  },
+  {
+   "source": "HackerNews",
+   "title": "How a Mechanical Watch Keeps Time",
+   "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+   "summary": "HN 231점 · 댓글 59개 · https://news.ycombinator.com/item?id=50599458",
+   "published_utc": "2026-11-22T13:21:25Z"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "Looking for the Formula to Stop an Apocalypse",
+   "url": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
+   "summary": "Mike Winer and his colleagues are trying to build a mathematical safeguard to keep A.I. under human control. They fear they are running out of time.",
+   "published_utc": "2026-11-22T12:27:46+00:00"
+  },
+  {
+   "source": "HackerNews",
+   "title": "The Spray Bottle",
+   "url": "https://mechanical-pencil.com/products/spray-bottle",
+   "summary": "HN 386점 · 댓글 101개 · https://news.ycombinator.com/item?id=50598555",
+   "published_utc": "2026-11-22T11:16:30Z"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "The 15 Best Tech Gifts of 2026, According to Our In-House Guru",
+   "url": "https://www.wsj.com/tech/personal-tech/tech-gift-guide-holiday-2026-1a021f58?mod=rss_Technology",
+   "summary": "WSJ’s Personal Tech columnist rounds up her top tested-and-loved gadgets from the year, at a wide range of prices.",
+   "published_utc": "2026-11-22T11:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "James Bond’s Bare Wrist Sets Off Watch Industry War",
+   "url": "https://www.wsj.com/business/retail/james-bonds-bare-wrist-sets-off-watch-industry-war-b6b179a9?mod=rss_markets_main",
+   "summary": "007 has worn an Omega watch for three decades, but the brand was missing from the big reveal.",
+   "published_utc": "2026-11-22T10:30:00+00:00"
+  },
+  {
+   "source": "WSJ-World",
+   "title": "The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation",
+   "url": "https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e?mod=rss_worldnews",
+   "summary": "The high-stakes shuttle service, with U.S. military help, is crucial to breaking Iran’s grip on the waterway.",
+   "published_utc": "2026-11-21T17:00:00+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "How to Protect Yourself From Scammers Exploiting Outage Chaos",
+   "url": "https://www.wsj.com/tech/personal-tech/cyber-scams-tech-outages-tips-a5500927?mod=rss_Technology",
+   "summary": "When you get an urgent message about a travel or service disruption, the first rule is: Don’t panic.",
+   "published_utc": "2026-11-21T16:00:00+00:00"
+  },
+  {
+   "source": "NYT-Technology",
+   "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
+   "url": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+   "summary": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
+   "published_utc": "2026-11-21T10:02:10+00:00"
+  },
+  {
+   "source": "WSJ-Tech",
+   "title": "Watch How the Office Became the Worst Place to Actually Do Work",
+   "url": "https://www.wsj.com/tech/personal-tech/watch-how-the-office-became-the-worst-place-to-actually-do-work-a47ac2df?mod=rss_Technology",
+   "summary": "Open-plan workplaces were created to enable collaboration and communication. Now, the design has left many longing for the return of the cubicle.",
+   "published_utc": "2026-11-20T18:39:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
+   "url": "https://www.wsj.com/finance/banking/citi-undercounted-35-billion-in-assets-at-u-k-subsidiary-f8328559?mod=rss_markets_main",
+   "summary": "The record-keeping blunder, which was related to risk-weighted assets, is a setback for CEO Jane Fraser’s efforts to strengthen internal controls.",
+   "published_utc": "2026-11-20T16:59:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Anthropic Shares Are a Rational Bet on the Next Phase of AI",
+   "url": "https://www.wsj.com/tech/ai/anthropic-shares-are-a-rational-bet-on-the-next-phase-of-ai-a748dba3?mod=rss_markets_main",
+   "summary": "The artificial-intelligence boom’s profits today go mostly to picks and shovels, but that will shift.",
+   "published_utc": "2026-11-20T10:30:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
+   "url": "https://www.wsj.com/economy/central-banking/oaknorth-secures-u-s-federal-reserve-clearance-to-buy-community-unity-bank-58718919?mod=rss_markets_main",
+   "summary": "OakNorth looks across the Atlantic to lend more to growing companies.",
+   "published_utc": "2026-11-20T09:18:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Is Anthropic Worth $2 Trillion, or $1.5 Trillion? How to Make Sense of the Valuations",
+   "url": "https://www.wsj.com/finance/investing/is-anthropic-worth-1-1-trillion-or-1-5-trillion-how-to-make-sense-of-the-valuations-721b4df8?mod=rss_markets_main",
+   "summary": "The company’s complex structure and funding make for confusing valuation math.",
+   "published_utc": "2026-11-19T18:19:00+00:00"
+  },
+  {
+   "source": "WSJ-Markets",
+   "title": "Nvidia’s Strong Fundamentals Give New CEO a Much-Needed Tailwind",
+   "url": "https://www.wsj.com/business/nvidias-strong-fundamentals-give-new-ceo-a-much-needed-tailwind-65859856?mod=rss_markets_main",
+   "summary": "The company inherits problems from Jensen Huang, and advantages.",
+   "published_utc": "2026-11-18T10:30:00+00:00"
+  }
+ ]
+}
